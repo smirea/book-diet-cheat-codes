@@ -1391,6 +1391,489 @@ TIP: You can use pre-packaged frozen strawberries or buy your own from the store
 
 ---
 
+# BURRITO TORTILLAS
+
+**Serves:** 2 | **Prep:** 60 MINS | **Cook:** 3 MINS
+
+## Macros
+
+| Calories | Fat | Carbs | Net Carbs | Protein |
+|----------|-----|-------|-----------|---------|
+| 177 | 4 | 37 | 22 | 14 |
+
+## Ingredients
+
+### DRY
+
+- 42g all-purpose flour
+- 30g vital wheat gluten
+- 30g oat fiber
+- 2g baking powder
+- 2g salt
+- 2g xanthan gum
+
+### WET
+
+- 6g avocado oil
+- 85g water
+
+## Directions
+
+1. Add Dry Ingredients into a medium-sized bowl and whisk to combine.
+2. In a separate bowl, mix the Wet Ingredients together, add to the Dry Ingredients, and mix with a spoon until most of the ingredients come together.
+3. Dump the contents of the bowl onto the counter and use hands to incorporate until there are no more dry parts left in the dough.
+4. Finish kneading this dough by squeezing dough for 30-60 seconds, switching hands with each squeeze.
+5. Divide dough in half, form into balls, cover with a damp towel or wrap each ball individually with plastic wrap, and rest dough for 30 minutes.
+6. Dust counter with flour, plop a dough ball down, dust top of the dough with flour, and roll out using a rolling pin. If dough starts sticking to the rolling pin, add more flour where it is sticking, spread, and continue. I like to roll the dough 4-5 times then turn it 90 degrees, roll 4-5 times again, and repeat.
+7. Once rolled out to 11-12", place underneath a damp tea towel or kitchen towel to prevent the tortilla from drying out.
+8. Repeat with the second tortilla and place on a preheated cast iron or griddle on medium-high heat.
+9. Cook each side for 30-60 seconds, flip, and cook another 30-60 seconds.
+10. Put under a separate wet tea towel or kitchen towel until cool.
+11. Use right away or fold and place in a plastic bag for up to 3-4 days.
+
+## Tips
+
+If storing for later use, put tortilla in the microwave for 10 seconds when ready to eat. If making a large batch and need to avoid molding, fold twice, place in a gallon bag, and throw into the freezer. When ready to use cover with a damp tea towel or paper towel and reheat for 30 seconds.
+
+## Notes
+
+I include an extra 8g into the macros of all-purpose flour that is used to roll the tortilla out, even though it is not included in the ingredient list itself.
+
+![BURRITO TORTILLAS](../images/doughlicious__burrito-tortillas.jpg)
+
+---
+
+# Doughlicious Ciabatta
+
+**Serves:** 4 | **Prep:** 20 MINS | **Cook:** 20 MINS
+
+## Macros
+
+| Calories | Fat | Carbs | Net Carbs | Protein |
+|----------|-----|-------|-----------|---------|
+| 250 | 2 | 45 | 43 | 8 |
+
+## Ingredients
+
+### WET
+
+- 200g warm water (105-115°F)
+- 1 tbsp olive oil
+
+### DRY
+
+- 1 tsp active dry yeast
+- 1 tsp sugar
+- 250g all-purpose flour
+- 1 tsp salt
+
+- Cornmeal for dusting
+
+## Directions
+
+1. In a large bowl, combine warm water and olive oil. Stir in yeast and sugar. Let sit for 5 minutes until foamy.
+2. Add flour and salt to the wet mixture. Stir with a wooden spoon until a shaggy dough forms.
+3. Turn the dough out onto a lightly floured surface and knead for 5-7 minutes until smooth and elastic.
+4. Lightly oil a clean bowl, place the dough in it, and turn to coat. Cover with plastic wrap and let rise in a warm place for 1-1.5 hours, or until doubled in size.
+5. Gently deflate the dough and divide it into 4 equal pieces.
+6. Shape each piece into a rectangle, about 6-8 inches long.
+7. Fold one long side of the rectangle over to meet the other long side, sealing the seam by pinching along the edge.
+8. Roll the sealed dough gently to create a more even ciabatta shape.
+9. Dust a baking sheet with cornmeal. Place the shaped ciabatta loaves on the baking sheet, seam side down.
+10. Cover with a clean kitchen towel and let rise for another 30-45 minutes, or until noticeably puffy.
+11. Preheat oven to 400°F (200°C).
+12. Bake for 15-20 minutes, or until golden brown and hollow-sounding when tapped on the bottom.
+
+## Tips
+
+For a crispier crust, place a shallow pan of water on the bottom rack of your oven while preheating.
+
+![Doughlicious Ciabatta](../images/doughlicious__doughlicious-ciabatta.jpg)
+
+---
+
+# HOAGIE ROLLS
+
+**Serves:** 4 | **Prep:** 3.5 HRS | **Cook:** 13 MINS
+
+## Macros
+
+| Calories | Fat | Carbs | Net Carbs | Protein |
+|----------|-----|-------|-----------|---------|
+| 308 | 3 | 50 | N/A | 20 |
+
+## Ingredients
+
+### DRY
+
+- 240g King Arthur® bread flour
+- 60g vital wheat gluten
+- 8g dough conditioner
+- 6g diastatic malt powder
+- 2.5g instant yeast
+- 5g salt
+
+### WET
+
+- 10g Crisco®
+- 192g water
+- Corn meal
+- 56g water (oven)
+
+## Directions
+
+1. Add all dry ingredients to a food processor and mix for 60 seconds.
+2. Add Crisco® to the food processor and start blending for 10 seconds. As the processor is blending, add water over a 20 second period and continue mixing for 30 seconds.
+3. Plop the dough on the counter, knead for 6-8 minutes, and divide into 4 equal sized pieces of dough. Each dough should weigh about 129g.
+4. Roll each piece of dough into a ball, making sure the bottom of the ball is sealed. Line a baking pan with a nonstick liner, space dough balls evenly apart, and cover for 90 minutes.
+5. Flip one piece of dough bottom side up and gently roll the dough back and forth with a rolling pin. Continue rolling until about a quarter inch thick.
+6. Pick up the dough and place onto the counter in the shape of a square. Roll out the edges to get an even thickness.
+7. The dough should be about 6" wide and 6.5" long.
+8. Take the top of the dough and fold about half of it onto itself. Using the tips of your fingers, press the edge of the dough into the crease.
+9. Take the bottom of the dough and fold it up. It should perfectly line up to the top corners of the dough. Seal the roll by pinching along the edge and sides of the dough. The roll should be about 6" long.
+10. Dust a nonstick liner with corn meal and place the hoagie roll directly on the corn meal.
+11. Repeat for the other pieces of dough and cover for 90 minutes.
+12. Add a steel brownie pan to the bottom rack of the oven and preheat the oven to 425°F.
+13. Add a piece of parchment paper to a pizza peel or a cookie sheet.
+14. Grab each piece of dough from the bottom, lightly stretch it out from the middle for a couple seconds, and place them on the pizza peel, making sure to evenly space them out. The roll should be about 8" long.
+15. Make a cut down the middle of each roll with a sharp knife or bread lame.
+16. Heat up 56g water in a microwave for 30-40 seconds or until boiling.
+17. Using oven mitts, add the hoagies to a baking steel, pour the water into the brownie pan, and quickly shut the oven door.
+18. Bake for 12-14 minutes and immediately transfer to a wire rack to cool.
+
+## Tips
+
+If you don't have a baking steel, you can cook these on a sheet pan with a nonstick liner. There is only 1 difference. About 3-4 minutes before the rolls are finished baking, you will have to flip them to ensure the bottom of the hoagie browns correctly.
+
+![HOAGIE ROLLS](../images/doughlicious__hoagie-rolls.jpg)
+
+---
+
+# POTATO BUNS
+
+**Serves:** 6 | **Prep:** 3 HRS | **Cook:** 18 MINS
+
+## Macros
+
+| Calories | Fat | Carbs | Net Carbs | Protein |
+|----------|-----|-------|-----------|---------|
+| 155 | 4 | 24 | 20 | 11 |
+
+## Ingredients
+
+### MASHED POTATO
+
+- 70g water
+- 17g dried mashed potato
+
+### DRY
+
+- 135g 00 flour
+- 55g vital wheat gluten
+- 6g dough conditioner
+- 5g diastatic malt powder
+- 24g granulated erythritol
+- 5g instant yeast
+- 3g salt
+
+### WET
+
+- 40g fat-free milk
+- 14g unsalted butter, melted
+- Potato
+- 1 egg
+
+### EGG WASH
+
+- 1 egg
+- 15g water
+
+## Directions
+
+1. Add 70 grams of water into a medium size bowl and microwave for 60 seconds.
+2. Using kitchen gloves, grab the bowl out of the microwave, add dried potato, and mix to combine.
+3. Add Dry ingredients into the food processor and process for 60 seconds.
+4. Add milk and butter to a glass measuring cup and microwave for 20-30 seconds. Mix until the butter is melted. The temperature should not exceed 120°F.
+5. Add potato and egg into the food processor, process on high, and pour in milk mixture over a 15 second period. Continue to process for an additional 30 seconds.
+6. Place dough on your work surface, KNEAD the dough for 8-10 minutes or until smooth, and round into a taut ball.
+7. Lightly spray a large bowl with oil, place dough ball into the center of the bowl, lightly spray the top of the ball with oil, and cover for 1.5-2 hours.
+8. Divide dough into 6 equal portions, about 87 grams each. Roll each piece of dough into a ball, making sure the bottom of the ball is sealed.
+9. Line a baking pan with a nonstick liner and space dough balls evenly apart.
+10. With the bottom of your palm, flatten each dough ball so that after rising and baking they will look like a bun. Pop any noticeable air pockets with fingers or a toothpick.
+11. Cover buns with another baking pan or damp tea towel and put in a warm place to rise for 60-90 minutes.
+12. In a small bowl, add Egg Wash ingredients, whisk to combine, and brush a thin layer of egg wash on the top and sides of each bun.
+13. Bake the buns in a preheated 375°F oven for 16-18 minutes, turning the pan halfway through. Place buns on a cooling rack when finished.
+
+## Tips
+
+If not using within 3-4 days, throw the cooked buns in the freezer and reheat them in a preheated 350°F oven for 10-12 minutes.
+
+## Notes
+
+You may use bread flour instead of 00 flour, but the final product won't be as soft and pillowy.
+
+![POTATO BUNS](../images/doughlicious__potato-buns.jpg)
+
+---
+
+# PROTEIN BAGUETTE
+
+**Serves:** 8 | **Prep:** 3 HRS | **Cook:** 25 MINS
+
+## Macros
+
+| Calories | Fat | Carbs | Net Carbs | Protein |
+|----------|-----|-------|-----------|---------|
+| 321 | 1 | 59 | N/A | 20 |
+
+## Ingredients
+
+- 600g King Arthur® bread flour
+- 100g vital wheat gluten
+- 500g warm water
+- 16g salt
+- 15g instant yeast
+- 50g water (yeast)
+
+## Directions
+
+1. Add bread flour and vital wheat gluten into a large bowl and whisk.
+2. Pour lukewarm water into the bowl and using a spoon, mix everything together until it becomes a shaggy dough.
+3. Rinse your hand under water and use your wet hand to mix the dough until there are no more dry parts.
+4. Once finished, top dough evenly with salt, and cover for 20 minutes.
+5. While waiting, put yeast and water into a glass and mix yeast using a spoon until yeast is covered in water.
+6. Add yeast mixture onto the dough and using a wet hand, squeeze the dough repeatedly for 4-5 minutes or until the yeast mixture and salt is completely mixed into the dough. Use your hand to squeeze one part of the dough through my fingers, then move to another part and repeat while occasionally flipping the dough.
+7. Cover the dough for 30 minutes.
+8. Using a wet hand, perform a stretch and fold by pulling one side of the dough as high as possible then folding it over itself.
+9. Turn the bowl 90 degrees and repeat 3-4 more times until all dough has been stretched.
+10. Flip the dough over, and form into a ball by sliding your hand underneath the dough and pulling it in a circular motion towards your body. When the ball is formed, the dough should have a fairly smooth surface and look like kneaded dough.
+11. Cover the dough for 30 minutes, repeat steps 8-10, spray the top of the dough with oil, and cover for 90 minutes.
+12. Lightly dust work surface and top of the dough with flour, degas the dough by punching it down, and flip it onto the work surface.
+13. Using a bread scraper, divide the dough into four roughly 310g pieces and put three of them to the side.
+14. To prevent sticking, spray hands with oil and push the dough outward to get any big air bubbles out.
+15. Fold the sides of the dough, followed by the top and bottom of the dough, flip the dough over, and round it into a ball making sure the bottom of the dough is sticking together.
+16. Put the dough ball off to the side, cover with a damp tea towel, and repeat with the other 3 pieces of dough.
+17. Let the dough rest for 20 minutes, grab a sheet pan, line it with parchment paper, lightly spray with oil, and put it off to the side.
+18. Lightly dust surface with flour, put one of the dough balls in front of you bottom side up, put a little bit of oil on your hands, and press the dough out into a roughly 8x6" rectangular shape while getting any massive air bubbles out.
+19. Take the top of the dough and fold about a quarter of it onto itself. Using the tips of your fingers, press the edge of the dough into the crease.
+20. Slowly roll the dough down by continually pressing the seams together with each roll and popping any large air bubbles while doing so.
+21. Seal the roll by pinching along the edge, lightly dust with flour, and put the sealed side on the work surface.
+22. Using both hands, start in the middle of the dough and slowly apply pressure both down and out while trying to keep the seam side down the entire time.
+23. Each time the dough is rolled out, apply more pressure, especially at the ends of the dough to give it an authentic baguette taper. The usually takes about 3-5 rolls and should be about 12-14" in length.
+24. Put the rolled dough on the parchment paper, cover with a sheet pan, and repeat for the remaining dough balls, making sure the pieces of dough are evenly spaced out on the sheet pan.
+25. Let the dough rise in a warm place for 60-90 minutes. Try and make sure the rolled pieces of dough are as straight as possible before rising or else they will most likely be crooked.
+26. Spray the baguettes with water, score the baguettes with a bread lame or a sharp knife every 2 inches or down the middle. Bake in a preheated 450°F oven with a small cast iron pan preheating on the rack below. Add 5-6 pieces of ice to the hot cast iron pan when you add the baguettes to the oven and close the oven door. (This creates steam to give your baguettes a better rise while baking.)
+27. Bake for 25-30 minutes, flipping the sheet pan around halfway through and moving the bread on the inside of the pan to the outside and vice versa.
+28. Baguettes are done when you can knock on them and they sound hollow. Let them cool and store any you will not use that day in the freezer.
+
+## Tips
+
+To reheat from the freezer, simply put baguette into a preheated 350° oven for 15 minutes and it will be as good as new.
+
+![PROTEIN BAGUETTE](../images/doughlicious__protein-baguette.jpg)
+
+---
+
+# PROTEIN BREAD
+
+**Serves:** 23 | **Prep:** 3 HRS | **Cook:** 25 MINS
+
+## Macros
+
+| Calories | Fat | Carbs | Net Carbs | Protein |
+|----------|-----|-------|-----------|---------|
+| 367 | null | null | null | null |
+
+## Ingredients
+
+- 220g King Arthur® bread flour
+- 110g vital wheat gluten
+- 15g dough conditioner
+- 270g 2% milk
+- 15g white vinegar
+- 7g salt
+- 10g instant yeast
+- 30g water (yeast)
+
+## Directions
+
+1. Add bread flour, vital wheat gluten, and dough conditioner to a large bowl and whisk.
+2. Pour milk into a measuring cup and microwave for 30-45 seconds or until it reaches 90°F. Add milk to the bowl and using a spoon, mix everything together until the milk has dissolved.
+3. Add vinegar, rinse your hand under water, and use your wet hand to mix the dough until there are no more dry parts.
+4. Once finished, top dough evenly with salt, and cover for 15 minutes.
+5. While waiting, put yeast and water into a glass and mix using a spoon until yeast is covered in water.
+6. Add yeast mixture onto the dough and using a wet hand, squeeze the dough repeatedly for 4-5 minutes or until the yeast mixture and salt is completely mixed into the dough. I like to squeeze one part of the dough through my fingers, then move to another part and repeat while occasionally flipping the dough.
+7. Cover the dough for 30 minutes.
+8. Using a wet hand, perform a stretch and fold by pulling one side of the dough as high as possible then folding it over itself.
+9. Turn the bowl 90 degrees and repeat 3-4 more times until all dough has been stretched.
+10. Flip the dough over, and form into a ball by sliding your hand underneath the dough and pulling it in a circular motion towards your body. When the ball is formed, the dough should have a fairly smooth surface and look like kneaded dough.
+11. Cover the dough for 30 minutes, repeat steps 8-10, and cover for 30 more minutes.
+12. Pick the dough up out of the bowl and let it hang to stretch it into a long, narrow piece of dough that is about 5-6" wide.
+13. Lay the dough down with the bottom side facing up towards the ceiling.
+14. Take the top of the dough and fold about a quarter of it onto itself. Using the tips of your fingers, press the edge of the dough into the crease.
+
+![PROTEIN BREAD](../images/doughlicious__protein-bread.jpg)
+
+---
+
+# PROTEIN BREADSTICKS
+
+**Serves:** 6 | **Prep:** 1 HR | **Cook:** 15 MINS
+
+## Macros
+
+| Calories | Fat | Carbs | Net Carbs | Protein |
+|----------|-----|-------|-----------|---------|
+| 117 | 2 | 19 | 18 | 8 |
+
+## Ingredients
+
+### DRY
+
+- 131g King Arthur® all-purpose flour
+- 34g vital wheat gluten
+- 1.5g salt
+- 3g instant yeast
+- 6g granulated erythritol
+
+### WET
+
+- 5g avocado oil
+- 115g water
+
+### TOPPING
+
+- 4g unsalted butter
+- 5g grated parmesan
+- Dash salt
+- Dash garlic powder
+- Dash dried parsley
+
+## Directions
+
+1. Add all Dry Ingredients into a food processor and process for 30 seconds.
+2. Add avocado oil over the top of the Dry Ingredients.
+3. Heat up water to 110°F.
+4. While processing on high, slowly mix in water over 10-15 seconds and continue to process for an additional 30 seconds.
+5. Plop dough onto the counter, roll it around for 1 minute, form it into a ball, place in a lightly oiled bowl, and cover for 30 minutes.
+6. Divide dough into roughly six 48g portions, roll each piece out using your hands, pop any big air bubbles while doing so, and get them to about 8" in length.
+7. Place each piece of dough on a sheet pan lined with parchment paper or a silicone liner, keeping the breadsticks evenly apart. Cover with another sheet pan or a damp towel for about 20 minutes.
+8. Put breadsticks into a preheated 400°F oven for 12-15 minutes or until bottom of breadsticks are nicely browned.
+9. Add butter, salt, and garlic powder in a small bowl, then microwave until the butter is melted. Mix ingredients to combine.
+10. Brush each bread stick with the butter mixture and top with parmesan and parsley while breadsticks are hot.
+11. Eat one or all 6. Both are great options.
+
+![PROTEIN BREADSTICKS](../images/doughlicious__protein-breadsticks.jpg)
+
+---
+
+# PROTEIN BUNS
+
+**Serves:** 6 | **Prep:** 2 HRS | **Cook:** 20 MINS
+
+## Macros
+
+| Calories | Fat | Carbs | Net Carbs | Protein |
+|----------|-----|-------|-----------|---------|
+| 158 | 1 | 28 | 25 | 10 |
+
+## Ingredients
+
+### TANGZHONG
+
+- 30g fat-free milk
+- 15g water
+- 15g all-purpose flour
+
+### DOUGH
+
+
+### DRY
+
+- 165 all-purpose flour
+- 45g vital wheat gluten
+- 5g diastatic malt powder
+- 18g granulated erythritol
+- 3g instant yeast
+- 4g salt
+
+### WET
+
+- 130g fat-free milk
+- Tangzhong
+- 7g unsalted butter
+
+## Directions
+
+1. Add Tangzhong ingredients into a small pan, whisk until combined, then put on medium low heat. Keep stirring with whisk until it begins to thicken and clump.
+2. Switch to a rubber spatula and keep mixing until there is no more liquid left, or it looks similar to mashed potatoes.
+3. Place Tangzhong in a small bowl to cool. In a separate glass, heat up milk for the dough until it reaches 110°F (about 20-30 seconds in the microwave).
+4. Add Dry Ingredients into the food processor and process for 15 seconds.
+5. Add Tangzhong and butter into the food processor, process on high, then pour in milk over a 15 second period, and continue to process for an additional 30 seconds.
+6. The dough should have formed into a ball. Plop dough on the counter and KNEAD dough for 3-5 minutes.
+7. Lightly spray a large bowl with oil, place dough ball into the center of the bowl, lightly spray the top of the ball with oil, and cover for an hour.
+8. Press any big air pockets out of the dough and divide into 6 equal portions.
+9. Roll each piece of dough into a ball, making sure the bottom of the ball is sealed. Line a baking pan with a nonstick liner, and space dough balls evenly apart.
+10. With the bottom of your palm, flatten each dough ball so that after rising and baking they will look like a bun. Pop any noticeable air pockets with fingers or a toothpick.
+11. Cover buns with another baking pan or damp kitchen towel and let rise for 45 minutes. Place a small cast iron pan on a lower rack in the oven before preheating.
+12. In a small bowl whisk an egg and brush a thin layer of egg wash to the top of each bun. Optional: Add sesame seeds over the top.
+13. Bake the buns in a preheated 400°F oven, add 4-5 cubes of ice into the cast iron, and shut the oven door right away.
+14. Bake for 17 minutes, flipping the pan halfway through. Place buns on a cooling rack when finished.
+
+## Tips
+
+If not using within 3-4 days, throw the cooked buns in the freezer and reheat them in a preheated 350°F oven for 10-12 minutes.
+
+![PROTEIN BUNS](../images/doughlicious__protein-buns.jpg)
+
+---
+
+# PROTEIN PITA
+
+**Serves:** 2 | **Prep:** 15 MINS | **Cook:** 3 MINS
+
+## Macros
+
+| Calories | Fat | Carbs | Net Carbs | Protein |
+|----------|-----|-------|-----------|---------|
+| 106 | 3 | 19 | 13 | 8 |
+
+## Ingredients
+
+### DRY
+
+- 30g all-purpose flour
+- 18g vital wheat gluten
+- 12g oat fiber
+- 1.5g salt
+- 2g baking powder
+
+### WET
+
+- 4g extra virgin olive oil
+- 54g water
+
+## Directions
+
+1. Add Dry Ingredients to a bowl and whisk together.
+2. Add olive oil to the Dry Ingredients and mix the oil into the ingredients so it is spread evenly.
+3. Add water to the bowl and using a spoon, incorporate the mixture as much as possible.
+4. Flip the dough out onto the counter and continue incorporating all the ingredients into the dough making sure there are no dry parts.
+5. Squeeze dough ball between fingers, switch hands, and repeat for one minute. This will make sure everything is evenly dispersed throughout.
+6. Split dough into two balls.
+7. Lightly dust counter and rolling pin with flour, put one dough ball down, and add a light dusting of flour to the top of the dough.
+8. Roll dough 2-3 times, turn 90°, roll 2-3 times, and repeat until the dough is about 6" wide and 1/8-1/4" thick. If dough starts to stick to the rolling pin, lightly dust the surface where the dough is sticking, spread around, and continue rolling.
+9. Lightly spray a cast iron pan on medium-high heat, place one rolled out piece of dough onto the pan, and cook each side for 1-2 minutes or until browning occurs.
+10. Put cooked pita under a damp towel to prevent drying out and repeat for the other pita.
+
+## Tips
+
+Letting the dough balls relax for 15 minutes after step 6 will make the dough easier to roll out. Cook 3-4 batches at a time so that you have enough for multiple days. If you won't eat all of the pitas within 3-4 days, I would freeze them and reheat them in the microwave or on a skillet.
+
+![PROTEIN PITA](../images/doughlicious__protein-pita.jpg)
+
+---
+
 # 200 CALORIE BREAKFAST BURRITO
 
 **Serves:** 1 | **Prep:** 10 MINS | **Cook:** 20 MINS
@@ -2624,109 +3107,137 @@ You can use any premade waffle mix that you would like. However, you may need to
 
 ---
 
-# BURRITO TORTILLAS
+# BASQUE CHEESECAKE
 
-**Serves:** 2 | **Prep:** 60 MINS | **Cook:** 3 MINS
+**Serves:** 8 | **Prep:** 25 MINS | **Cook:** 35 MINS
 
 ## Macros
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 177 | 4 | 37 | 22 | 14 |
+| 372 | 15 | 47 | 28 | 29 |
 
 ## Ingredients
 
-### DRY
-
-- 42g all-purpose flour
-- 30g vital wheat gluten
-- 30g oat fiber
-- 2g baking powder
-- 2g salt
-- 2g xanthan gum
-
-### WET
-
-- 6g avocado oil
-- 85g water
+- 325g 2% cottage cheese, blended
+- 448g low-fat cream cheese
+- 224g fat-free cream cheese
+- 100g granulated sugar
+- 150g erythritol
+- 4g salt
+- 8g imitation vanilla
+- 3 eggs
+- 2 egg yolks
+- 480g 2% milk
+- 40g all-purpose flour
+- 97.2g Gorilla Mind Vanilla Ice Cream protein
 
 ## Directions
 
-1. Add Dry Ingredients into a medium-sized bowl and whisk to combine.
-2. In a separate bowl, mix the Wet Ingredients together, add to the Dry Ingredients, and mix with a spoon until most of the ingredients come together.
-3. Dump the contents of the bowl onto the counter and use hands to incorporate until there are no more dry parts left in the dough.
-4. Finish "kneading" this dough by squeezing dough for 30-60 seconds, switching hands with each squeeze.
-5. Divide dough in half, form into balls, cover with a damp towel or wrap each ball individually with plastic wrap, and rest dough for 30 minutes.
-6. Dust counter with flour, plop a dough ball down, dust top of the dough with flour, and roll out using a rolling pin. If dough starts sticking to the rolling pin, add more flour where it is sticking, spread, and continue. I like to roll the dough 4-5 times then turn it 90 degrees, roll 4-5 times again, and repeat.
-7. Once rolled out to 11-12", place underneath a damp tea towel or kitchen towel to prevent the tortilla from drying out.
-8. Repeat with the second tortilla and place on a preheated cast iron or griddle on medium-high heat.
-9. Cook each side for 30-60 seconds, flip, and cook another 30-60 seconds.
-10. Put under a separate wet tea towel or kitchen towel until cool.
-11. Use right away or fold and place in a plastic bag for up to 3-4 days.
+1. Allow cottage cheese, cream cheese, eggs, and milk to come to room temperature. This will take about 2-4 hours.
+2. Add eggs and yolks to a medium bowl.
+3. Using an immersion blender, mix the cottage cheese for 2 minutes or until smooth.
+4. Add flour and protein to a medium bowl and whisk.
+5. Add cottage cheese, cream cheese, sugar, erythritol, salt, and vanilla to a large bowl.
+6. Using a hand mixer, blend for 2 minutes on low or until everything is combined. Using a rubber spatula, scrape down the sides and bottom of the bowl as needed. You can make this entire recipe whisking by hand or with a stand mixer. Whichever option you choose, just follow the instructions as listed.
+7. While mixing on low, add in one egg/yolk at a time until it is fully combined. This should take about 5 minutes in total. Scrape down sides and bottom of bowl.
+8. Slowly pour in milk while mixing on low. Once all milk is poured in, scrape down sides of bowl and mix for an additional minute.
+9. Add flour/protein mixture to a mesh strainer and sift the powder over the bowl while mixing on low. Once all powder is sifted, mix for one minute and scrape down sides. Mix for an additional minute or until everything is combined.
+10. Spray a 10" springform pan with oil, place on a sheet pan, and add mixture to springform pan. You can place parchment paper inside of the springform pan before pouring for easier removal and transfer of the cheesecake. This works for other round 10" pans as well.
+11. Bake in a preheated 475°F oven for 35-40 minutes or until brown on top with a slight jiggle throughout the cheesecake. Turn sheet pan halfway through cooking.
+12. Allow cheesecake to set for 2-4 hours before cutting into it. The goal is to have a custard-like middle with the outer edges firm.
 
 ## Tips
 
-If storing for later use, put tortilla in the microwave for 10 seconds when ready to eat. If making a large batch and need to avoid molding, fold twice, place in a gallon bag, and throw into the freezer. When ready to use cover with a damp tea towel or paper towel and reheat for 30 seconds.
+If you can't get fat-free cream cheese, you can use a combination of 500g 2% cottage cheese and 500g low-fat cream cheese.
 
-## Notes
-
-I include an extra 8g into the macros of all-purpose flour that is used to roll the tortilla out, even though it is not included in the ingredient list itself.
-
-![BURRITO TORTILLAS](../images/diet-cheat-codes__burrito-tortillas.jpg)
+![BASQUE CHEESECAKE](../images/sweet-treats__basque-cheesecake.jpg)
 
 ---
 
-# SAUSAGE EGG NICKMUFFIN
+# CANDIED PECANS
 
-**Serves:** 6 | **Prep:** 15 MINS | **Cook:** 15 MINS
+**Serves:** 8 | **Prep:** 5 MINS | **Cook:** 30 MINS
 
 ## Macros
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 346 | 15 | 34 | 23 | 29 |
+| 147 | 15 | 8 | 2 | 3 |
 
 ## Ingredients
 
-### SAUSAGE
+- 224g pecans
 
-- 448g 90% lean ground pork
-- 6g salt
-- 2g MSG
-- 2g black pepper
-- 1.5g sage
-- 1.5g rosemary
-- 1g garlic powder
-- 1g onion powder
-- .5g nutmeg
-- 2.5g potato starch
-- 20g erythritol
+### DRY
 
-### SANDWICH (1 SERVING)
+- 50g granulated erythritol
+- 50g brown sugar erythritol
+- 6g ground cinnamon
+- 3g salt
 
-- 1 English muffin (100 cal)
-- 1 slice Velveeta® cheese
-- 1 egg
-- 1 sausage patty
+### WET
+
+- 1 egg white
+- 4.2g vanilla extract
+- 2g water
 
 ## Directions
 
-1. Combine sausage ingredients in a bowl. Cover and refrigerate for 12-24 hours for best flavor.
-2. Divide sausage into 80g portions, roll into balls, and place each on a sheet of parchment paper. Cover with another sheet, and press into 5" patties using a flat-bottomed pan or pot.
-3. Heat a pan over medium heat and cook the patties for 2-3 minutes on one side, until browned.
-4. Flip the patties and cook for an additional 1-2 minutes.
-5. Wipe the pan clean. Spray six CANNING LIDS AND BANDS with oil for easy release, and place them in the pan.
-6. Crack an egg into each, break the yolk, top with salt, and add 30g water to the pan. Cover immediately and cook 2-3 minutes.
-7. Let the sausage and eggs cool completely, then pat dry with a paper towel to prevent soggy sandwiches.
-8. Assemble the sandwiches by layering the bottom bun, cheese, an egg, a sausage patty, and the top bun. Optional: Toast muffins in the pan before assembling if desired. However, I find with condensation when reheating, it's not worth the extra step.
-9. Storage: Freezing: Freeze assembled sandwiches on a sheet pan for 2 hours, then vacuum seal or store in airtight bags. Refrigerating: Wrap sandwiches in parchment paper and refrigerate.
-10. Reheating: From frozen: Wrap in parchment paper, thaw overnight in the fridge (10-12 hours), then microwave 60-90 seconds. From fridge: Microwave 60-90 seconds.
+1. Add Dry Ingredients into a medium-sized bowl and whisk together.
+2. In a separate medium-sized bowl, separate an egg white from the yolk and whisk the white for 60 seconds or until it becomes frothy.
+3. Add vanilla extract and water to the frothed egg white and whisk until combined.
+4. Add ¼ dry ingredients to the wet ingredients and mix until combined. Repeat with ¼ of the dry ingredients at a time until dry ingredients are fully mixed in.
+5. Pour pecans into the bowl and using a spatula, mix ingredients together until all pecans are fully coated.
+6. Spread pecans into one even layer on a cookie sheet lined with parchment paper or silicone baking mat.
+7. Bake in a preheated oven at 300°F for 30 minutes, mixing the pecans halfway through the baking process.
+8. Let cool for one hour and store in an airtight container.
 
 ## Tips
 
-If you can't get 90% lean ground pork, use ground beef or turkey with similar macros.
+If you want a lighter roast, turn oven temperature down to 250°F and cook for the same amount of time.
 
-![SAUSAGE EGG NICKMUFFIN](../images/diet-cheat-codes__sausage-egg-nickmuffin.jpg)
+![CANDIED PECANS](../images/sweet-treats__candied-pecans.jpg)
+
+---
+
+# CRISPY RICE SQUARES
+
+**Serves:** 9 | **Prep:** 5 MINS | **Cook:** 10 MINS
+
+## Macros
+
+| Calories | Fat | Carbs | Net Carbs | Protein |
+|----------|-----|-------|-----------|---------|
+| 150 | 3 | 22 | 19 | 11 |
+
+## Ingredients
+
+- 28g butter
+- 50g 2% milk
+- 4g vanilla extract
+- 1g salt
+- 192g Max Mallow®
+- 97.2g Gorilla Mind Vanilla Ice Cream protein powder
+- 148g crispy rice cereal
+- Oil spray
+
+## Directions
+
+1. Add butter, milk, vanilla extract, and salt to a large pot.
+2. Set the stovetop to medium-low heat and place the pot onto the stove.
+3. Using a wooden spoon, mix the pot as the butter melts.
+4. Add marshmallows to the pot. Stir the marshmallows every minute until they are almost melted.
+5. Add protein powder, remove pot from heat, and stir until the protein powder is fully mixed in.
+6. Pour crispy rice into the pot and mix to combine.
+7. Lightly spray an 8x8 inch baking pan with oil, pour crispy rice treats into the pan, and pat down into an even layer. Spray a little bit of oil onto your hands and rub them together to prevent the crispy rice treats from sticking to them.
+8. Cut into 9 squares and try one while they are still warm.
+
+## Tips
+
+Microwave one serving for 8-10 seconds for a warm, fresh crispy rice square.
+
+![CRISPY RICE SQUARES](../images/sweet-treats__crispy-rice-squares.jpg)
 
 ---
 
@@ -5038,715 +5549,6 @@ To reheat: microwave for 90 seconds, stir in 15-20g of milk, then microwave for 
 
 ---
 
-# BURRITO TORTILLAS
-
-**Serves:** 2 | **Prep:** 60 MINS | **Cook:** 3 MINS
-
-## Macros
-
-| Calories | Fat | Carbs | Net Carbs | Protein |
-|----------|-----|-------|-----------|---------|
-| 177 | 4 | 37 | 22 | 14 |
-
-## Ingredients
-
-### DRY
-
-- 42g all-purpose flour
-- 30g vital wheat gluten
-- 30g oat fiber
-- 2g baking powder
-- 2g salt
-- 2g xanthan gum
-
-### WET
-
-- 6g avocado oil
-- 85g water
-
-## Directions
-
-1. Add Dry Ingredients into a medium-sized bowl and whisk to combine.
-2. In a separate bowl, mix the Wet Ingredients together, add to the Dry Ingredients, and mix with a spoon until most of the ingredients come together.
-3. Dump the contents of the bowl onto the counter and use hands to incorporate until there are no more dry parts left in the dough.
-4. Finish kneading this dough by squeezing dough for 30-60 seconds, switching hands with each squeeze.
-5. Divide dough in half, form into balls, cover with a damp towel or wrap each ball individually with plastic wrap, and rest dough for 30 minutes.
-6. Dust counter with flour, plop a dough ball down, dust top of the dough with flour, and roll out using a rolling pin. If dough starts sticking to the rolling pin, add more flour where it is sticking, spread, and continue. I like to roll the dough 4-5 times then turn it 90 degrees, roll 4-5 times again, and repeat.
-7. Once rolled out to 11-12", place underneath a damp tea towel or kitchen towel to prevent the tortilla from drying out.
-8. Repeat with the second tortilla and place on a preheated cast iron or griddle on medium-high heat.
-9. Cook each side for 30-60 seconds, flip, and cook another 30-60 seconds.
-10. Put under a separate wet tea towel or kitchen towel until cool.
-11. Use right away or fold and place in a plastic bag for up to 3-4 days.
-
-## Tips
-
-If storing for later use, put tortilla in the microwave for 10 seconds when ready to eat. If making a large batch and need to avoid molding, fold twice, place in a gallon bag, and throw into the freezer. When ready to use cover with a damp tea towel or paper towel and reheat for 30 seconds.
-
-## Notes
-
-I include an extra 8g into the macros of all-purpose flour that is used to roll the tortilla out, even though it is not included in the ingredient list itself.
-
-![BURRITO TORTILLAS](../images/doughlicious__burrito-tortillas.jpg)
-
----
-
-# Doughlicious Ciabatta
-
-**Serves:** 4 | **Prep:** 20 MINS | **Cook:** 20 MINS
-
-## Macros
-
-| Calories | Fat | Carbs | Net Carbs | Protein |
-|----------|-----|-------|-----------|---------|
-| 250 | 2 | 45 | 43 | 8 |
-
-## Ingredients
-
-### WET
-
-- 200g warm water (105-115°F)
-- 1 tbsp olive oil
-
-### DRY
-
-- 1 tsp active dry yeast
-- 1 tsp sugar
-- 250g all-purpose flour
-- 1 tsp salt
-
-- Cornmeal for dusting
-
-## Directions
-
-1. In a large bowl, combine warm water and olive oil. Stir in yeast and sugar. Let sit for 5 minutes until foamy.
-2. Add flour and salt to the wet mixture. Stir with a wooden spoon until a shaggy dough forms.
-3. Turn the dough out onto a lightly floured surface and knead for 5-7 minutes until smooth and elastic.
-4. Lightly oil a clean bowl, place the dough in it, and turn to coat. Cover with plastic wrap and let rise in a warm place for 1-1.5 hours, or until doubled in size.
-5. Gently deflate the dough and divide it into 4 equal pieces.
-6. Shape each piece into a rectangle, about 6-8 inches long.
-7. Fold one long side of the rectangle over to meet the other long side, sealing the seam by pinching along the edge.
-8. Roll the sealed dough gently to create a more even ciabatta shape.
-9. Dust a baking sheet with cornmeal. Place the shaped ciabatta loaves on the baking sheet, seam side down.
-10. Cover with a clean kitchen towel and let rise for another 30-45 minutes, or until noticeably puffy.
-11. Preheat oven to 400°F (200°C).
-12. Bake for 15-20 minutes, or until golden brown and hollow-sounding when tapped on the bottom.
-
-## Tips
-
-For a crispier crust, place a shallow pan of water on the bottom rack of your oven while preheating.
-
-![Doughlicious Ciabatta](../images/doughlicious__doughlicious-ciabatta.jpg)
-
----
-
-# HOAGIE ROLLS
-
-**Serves:** 4 | **Prep:** 3.5 HRS | **Cook:** 13 MINS
-
-## Macros
-
-| Calories | Fat | Carbs | Net Carbs | Protein |
-|----------|-----|-------|-----------|---------|
-| 308 | 3 | 50 | N/A | 20 |
-
-## Ingredients
-
-### DRY
-
-- 240g King Arthur® bread flour
-- 60g vital wheat gluten
-- 8g dough conditioner
-- 6g diastatic malt powder
-- 2.5g instant yeast
-- 5g salt
-
-### WET
-
-- 10g Crisco®
-- 192g water
-- Corn meal
-- 56g water (oven)
-
-## Directions
-
-1. Add all dry ingredients to a food processor and mix for 60 seconds.
-2. Add Crisco® to the food processor and start blending for 10 seconds. As the processor is blending, add water over a 20 second period and continue mixing for 30 seconds.
-3. Plop the dough on the counter, knead for 6-8 minutes, and divide into 4 equal sized pieces of dough. Each dough should weigh about 129g.
-4. Roll each piece of dough into a ball, making sure the bottom of the ball is sealed. Line a baking pan with a nonstick liner, space dough balls evenly apart, and cover for 90 minutes.
-5. Flip one piece of dough bottom side up and gently roll the dough back and forth with a rolling pin. Continue rolling until about a quarter inch thick.
-6. Pick up the dough and place onto the counter in the shape of a square. Roll out the edges to get an even thickness.
-7. The dough should be about 6" wide and 6.5" long.
-8. Take the top of the dough and fold about half of it onto itself. Using the tips of your fingers, press the edge of the dough into the crease.
-9. Take the bottom of the dough and fold it up. It should perfectly line up to the top corners of the dough. Seal the roll by pinching along the edge and sides of the dough. The roll should be about 6" long.
-10. Dust a nonstick liner with corn meal and place the hoagie roll directly on the corn meal.
-11. Repeat for the other pieces of dough and cover for 90 minutes.
-12. Add a steel brownie pan to the bottom rack of the oven and preheat the oven to 425°F.
-13. Add a piece of parchment paper to a pizza peel or a cookie sheet.
-14. Grab each piece of dough from the bottom, lightly stretch it out from the middle for a couple seconds, and place them on the pizza peel, making sure to evenly space them out. The roll should be about 8" long.
-15. Make a cut down the middle of each roll with a sharp knife or bread lame.
-16. Heat up 56g water in a microwave for 30-40 seconds or until boiling.
-17. Using oven mitts, add the hoagies to a baking steel, pour the water into the brownie pan, and quickly shut the oven door.
-18. Bake for 12-14 minutes and immediately transfer to a wire rack to cool.
-
-## Tips
-
-If you don't have a baking steel, you can cook these on a sheet pan with a nonstick liner. There is only 1 difference. About 3-4 minutes before the rolls are finished baking, you will have to flip them to ensure the bottom of the hoagie browns correctly.
-
-![HOAGIE ROLLS](../images/doughlicious__hoagie-rolls.jpg)
-
----
-
-# POTATO BUNS
-
-**Serves:** 6 | **Prep:** 3 HRS | **Cook:** 18 MINS
-
-## Macros
-
-| Calories | Fat | Carbs | Net Carbs | Protein |
-|----------|-----|-------|-----------|---------|
-| 155 | 4 | 24 | 20 | 11 |
-
-## Ingredients
-
-### MASHED POTATO
-
-- 70g water
-- 17g dried mashed potato
-
-### DRY
-
-- 135g 00 flour
-- 55g vital wheat gluten
-- 6g dough conditioner
-- 5g diastatic malt powder
-- 24g granulated erythritol
-- 5g instant yeast
-- 3g salt
-
-### WET
-
-- 40g fat-free milk
-- 14g unsalted butter, melted
-- Potato
-- 1 egg
-
-### EGG WASH
-
-- 1 egg
-- 15g water
-
-## Directions
-
-1. Add 70 grams of water into a medium size bowl and microwave for 60 seconds.
-2. Using kitchen gloves, grab the bowl out of the microwave, add dried potato, and mix to combine.
-3. Add Dry ingredients into the food processor and process for 60 seconds.
-4. Add milk and butter to a glass measuring cup and microwave for 20-30 seconds. Mix until the butter is melted. The temperature should not exceed 120°F.
-5. Add potato and egg into the food processor, process on high, and pour in milk mixture over a 15 second period. Continue to process for an additional 30 seconds.
-6. Place dough on your work surface, KNEAD the dough for 8-10 minutes or until smooth, and round into a taut ball.
-7. Lightly spray a large bowl with oil, place dough ball into the center of the bowl, lightly spray the top of the ball with oil, and cover for 1.5-2 hours.
-8. Divide dough into 6 equal portions, about 87 grams each. Roll each piece of dough into a ball, making sure the bottom of the ball is sealed.
-9. Line a baking pan with a nonstick liner and space dough balls evenly apart.
-10. With the bottom of your palm, flatten each dough ball so that after rising and baking they will look like a bun. Pop any noticeable air pockets with fingers or a toothpick.
-11. Cover buns with another baking pan or damp tea towel and put in a warm place to rise for 60-90 minutes.
-12. In a small bowl, add Egg Wash ingredients, whisk to combine, and brush a thin layer of egg wash on the top and sides of each bun.
-13. Bake the buns in a preheated 375°F oven for 16-18 minutes, turning the pan halfway through. Place buns on a cooling rack when finished.
-
-## Tips
-
-If not using within 3-4 days, throw the cooked buns in the freezer and reheat them in a preheated 350°F oven for 10-12 minutes.
-
-## Notes
-
-You may use bread flour instead of 00 flour, but the final product won't be as soft and pillowy.
-
-![POTATO BUNS](../images/doughlicious__potato-buns.jpg)
-
----
-
-# PROTEIN BAGUETTE
-
-**Serves:** 8 | **Prep:** 3 HRS | **Cook:** 25 MINS
-
-## Macros
-
-| Calories | Fat | Carbs | Net Carbs | Protein |
-|----------|-----|-------|-----------|---------|
-| 321 | 1 | 59 | N/A | 20 |
-
-## Ingredients
-
-- 600g King Arthur® bread flour
-- 100g vital wheat gluten
-- 500g warm water
-- 16g salt
-- 15g instant yeast
-- 50g water (yeast)
-
-## Directions
-
-1. Add bread flour and vital wheat gluten into a large bowl and whisk.
-2. Pour lukewarm water into the bowl and using a spoon, mix everything together until it becomes a shaggy dough.
-3. Rinse your hand under water and use your wet hand to mix the dough until there are no more dry parts.
-4. Once finished, top dough evenly with salt, and cover for 20 minutes.
-5. While waiting, put yeast and water into a glass and mix yeast using a spoon until yeast is covered in water.
-6. Add yeast mixture onto the dough and using a wet hand, squeeze the dough repeatedly for 4-5 minutes or until the yeast mixture and salt is completely mixed into the dough. Use your hand to squeeze one part of the dough through my fingers, then move to another part and repeat while occasionally flipping the dough.
-7. Cover the dough for 30 minutes.
-8. Using a wet hand, perform a stretch and fold by pulling one side of the dough as high as possible then folding it over itself.
-9. Turn the bowl 90 degrees and repeat 3-4 more times until all dough has been stretched.
-10. Flip the dough over, and form into a ball by sliding your hand underneath the dough and pulling it in a circular motion towards your body. When the ball is formed, the dough should have a fairly smooth surface and look like kneaded dough.
-11. Cover the dough for 30 minutes, repeat steps 8-10, spray the top of the dough with oil, and cover for 90 minutes.
-12. Lightly dust work surface and top of the dough with flour, degas the dough by punching it down, and flip it onto the work surface.
-13. Using a bread scraper, divide the dough into four roughly 310g pieces and put three of them to the side.
-14. To prevent sticking, spray hands with oil and push the dough outward to get any big air bubbles out.
-15. Fold the sides of the dough, followed by the top and bottom of the dough, flip the dough over, and round it into a ball making sure the bottom of the dough is sticking together.
-16. Put the dough ball off to the side, cover with a damp tea towel, and repeat with the other 3 pieces of dough.
-17. Let the dough rest for 20 minutes, grab a sheet pan, line it with parchment paper, lightly spray with oil, and put it off to the side.
-18. Lightly dust surface with flour, put one of the dough balls in front of you bottom side up, put a little bit of oil on your hands, and press the dough out into a roughly 8x6" rectangular shape while getting any massive air bubbles out.
-19. Take the top of the dough and fold about a quarter of it onto itself. Using the tips of your fingers, press the edge of the dough into the crease.
-20. Slowly roll the dough down by continually pressing the seams together with each roll and popping any large air bubbles while doing so.
-21. Seal the roll by pinching along the edge, lightly dust with flour, and put the sealed side on the work surface.
-22. Using both hands, start in the middle of the dough and slowly apply pressure both down and out while trying to keep the seam side down the entire time.
-23. Each time the dough is rolled out, apply more pressure, especially at the ends of the dough to give it an authentic baguette taper. The usually takes about 3-5 rolls and should be about 12-14" in length.
-24. Put the rolled dough on the parchment paper, cover with a sheet pan, and repeat for the remaining dough balls, making sure the pieces of dough are evenly spaced out on the sheet pan.
-25. Let the dough rise in a warm place for 60-90 minutes. Try and make sure the rolled pieces of dough are as straight as possible before rising or else they will most likely be crooked.
-26. Spray the baguettes with water, score the baguettes with a bread lame or a sharp knife every 2 inches or down the middle. Bake in a preheated 450°F oven with a small cast iron pan preheating on the rack below. Add 5-6 pieces of ice to the hot cast iron pan when you add the baguettes to the oven and close the oven door. (This creates steam to give your baguettes a better rise while baking.)
-27. Bake for 25-30 minutes, flipping the sheet pan around halfway through and moving the bread on the inside of the pan to the outside and vice versa.
-28. Baguettes are done when you can knock on them and they sound hollow. Let them cool and store any you will not use that day in the freezer.
-
-## Tips
-
-To reheat from the freezer, simply put baguette into a preheated 350° oven for 15 minutes and it will be as good as new.
-
-![PROTEIN BAGUETTE](../images/doughlicious__protein-baguette.jpg)
-
----
-
-# PROTEIN BREAD
-
-**Serves:** 23 | **Prep:** 3 HRS | **Cook:** 25 MINS
-
-## Macros
-
-| Calories | Fat | Carbs | Net Carbs | Protein |
-|----------|-----|-------|-----------|---------|
-| 367 | null | null | null | null |
-
-## Ingredients
-
-- 220g King Arthur® bread flour
-- 110g vital wheat gluten
-- 15g dough conditioner
-- 270g 2% milk
-- 15g white vinegar
-- 7g salt
-- 10g instant yeast
-- 30g water (yeast)
-
-## Directions
-
-1. Add bread flour, vital wheat gluten, and dough conditioner to a large bowl and whisk.
-2. Pour milk into a measuring cup and microwave for 30-45 seconds or until it reaches 90°F. Add milk to the bowl and using a spoon, mix everything together until the milk has dissolved.
-3. Add vinegar, rinse your hand under water, and use your wet hand to mix the dough until there are no more dry parts.
-4. Once finished, top dough evenly with salt, and cover for 15 minutes.
-5. While waiting, put yeast and water into a glass and mix using a spoon until yeast is covered in water.
-6. Add yeast mixture onto the dough and using a wet hand, squeeze the dough repeatedly for 4-5 minutes or until the yeast mixture and salt is completely mixed into the dough. I like to squeeze one part of the dough through my fingers, then move to another part and repeat while occasionally flipping the dough.
-7. Cover the dough for 30 minutes.
-8. Using a wet hand, perform a stretch and fold by pulling one side of the dough as high as possible then folding it over itself.
-9. Turn the bowl 90 degrees and repeat 3-4 more times until all dough has been stretched.
-10. Flip the dough over, and form into a ball by sliding your hand underneath the dough and pulling it in a circular motion towards your body. When the ball is formed, the dough should have a fairly smooth surface and look like kneaded dough.
-11. Cover the dough for 30 minutes, repeat steps 8-10, and cover for 30 more minutes.
-12. Pick the dough up out of the bowl and let it hang to stretch it into a long, narrow piece of dough that is about 5-6" wide.
-13. Lay the dough down with the bottom side facing up towards the ceiling.
-14. Take the top of the dough and fold about a quarter of it onto itself. Using the tips of your fingers, press the edge of the dough into the crease.
-
-![PROTEIN BREAD](../images/doughlicious__protein-bread.jpg)
-
----
-
-# PROTEIN BREADSTICKS
-
-**Serves:** 6 | **Prep:** 1 HR | **Cook:** 15 MINS
-
-## Macros
-
-| Calories | Fat | Carbs | Net Carbs | Protein |
-|----------|-----|-------|-----------|---------|
-| 117 | 2 | 19 | 18 | 8 |
-
-## Ingredients
-
-### DRY
-
-- 131g King Arthur® all-purpose flour
-- 34g vital wheat gluten
-- 1.5g salt
-- 3g instant yeast
-- 6g granulated erythritol
-
-### WET
-
-- 5g avocado oil
-- 115g water
-
-### TOPPING
-
-- 4g unsalted butter
-- 5g grated parmesan
-- Dash salt
-- Dash garlic powder
-- Dash dried parsley
-
-## Directions
-
-1. Add all Dry Ingredients into a food processor and process for 30 seconds.
-2. Add avocado oil over the top of the Dry Ingredients.
-3. Heat up water to 110°F.
-4. While processing on high, slowly mix in water over 10-15 seconds and continue to process for an additional 30 seconds.
-5. Plop dough onto the counter, roll it around for 1 minute, form it into a ball, place in a lightly oiled bowl, and cover for 30 minutes.
-6. Divide dough into roughly six 48g portions, roll each piece out using your hands, pop any big air bubbles while doing so, and get them to about 8" in length.
-7. Place each piece of dough on a sheet pan lined with parchment paper or a silicone liner, keeping the breadsticks evenly apart. Cover with another sheet pan or a damp towel for about 20 minutes.
-8. Put breadsticks into a preheated 400°F oven for 12-15 minutes or until bottom of breadsticks are nicely browned.
-9. Add butter, salt, and garlic powder in a small bowl, then microwave until the butter is melted. Mix ingredients to combine.
-10. Brush each bread stick with the butter mixture and top with parmesan and parsley while breadsticks are hot.
-11. Eat one or all 6. Both are great options.
-
-![PROTEIN BREADSTICKS](../images/doughlicious__protein-breadsticks.jpg)
-
----
-
-# PROTEIN BUNS
-
-**Serves:** 6 | **Prep:** 2 HRS | **Cook:** 20 MINS
-
-## Macros
-
-| Calories | Fat | Carbs | Net Carbs | Protein |
-|----------|-----|-------|-----------|---------|
-| 158 | 1 | 28 | 25 | 10 |
-
-## Ingredients
-
-### TANGZHONG
-
-- 30g fat-free milk
-- 15g water
-- 15g all-purpose flour
-
-### DOUGH
-
-
-### DRY
-
-- 165 all-purpose flour
-- 45g vital wheat gluten
-- 5g diastatic malt powder
-- 18g granulated erythritol
-- 3g instant yeast
-- 4g salt
-
-### WET
-
-- 130g fat-free milk
-- Tangzhong
-- 7g unsalted butter
-
-## Directions
-
-1. Add Tangzhong ingredients into a small pan, whisk until combined, then put on medium low heat. Keep stirring with whisk until it begins to thicken and clump.
-2. Switch to a rubber spatula and keep mixing until there is no more liquid left, or it looks similar to mashed potatoes.
-3. Place Tangzhong in a small bowl to cool. In a separate glass, heat up milk for the dough until it reaches 110°F (about 20-30 seconds in the microwave).
-4. Add Dry Ingredients into the food processor and process for 15 seconds.
-5. Add Tangzhong and butter into the food processor, process on high, then pour in milk over a 15 second period, and continue to process for an additional 30 seconds.
-6. The dough should have formed into a ball. Plop dough on the counter and KNEAD dough for 3-5 minutes.
-7. Lightly spray a large bowl with oil, place dough ball into the center of the bowl, lightly spray the top of the ball with oil, and cover for an hour.
-8. Press any big air pockets out of the dough and divide into 6 equal portions.
-9. Roll each piece of dough into a ball, making sure the bottom of the ball is sealed. Line a baking pan with a nonstick liner, and space dough balls evenly apart.
-10. With the bottom of your palm, flatten each dough ball so that after rising and baking they will look like a bun. Pop any noticeable air pockets with fingers or a toothpick.
-11. Cover buns with another baking pan or damp kitchen towel and let rise for 45 minutes. Place a small cast iron pan on a lower rack in the oven before preheating.
-12. In a small bowl whisk an egg and brush a thin layer of egg wash to the top of each bun. Optional: Add sesame seeds over the top.
-13. Bake the buns in a preheated 400°F oven, add 4-5 cubes of ice into the cast iron, and shut the oven door right away.
-14. Bake for 17 minutes, flipping the pan halfway through. Place buns on a cooling rack when finished.
-
-## Tips
-
-If not using within 3-4 days, throw the cooked buns in the freezer and reheat them in a preheated 350°F oven for 10-12 minutes.
-
-![PROTEIN BUNS](../images/doughlicious__protein-buns.jpg)
-
----
-
-# PROTEIN PITA
-
-**Serves:** 2 | **Prep:** 15 MINS | **Cook:** 3 MINS
-
-## Macros
-
-| Calories | Fat | Carbs | Net Carbs | Protein |
-|----------|-----|-------|-----------|---------|
-| 106 | 3 | 19 | 13 | 8 |
-
-## Ingredients
-
-### DRY
-
-- 30g all-purpose flour
-- 18g vital wheat gluten
-- 12g oat fiber
-- 1.5g salt
-- 2g baking powder
-
-### WET
-
-- 4g extra virgin olive oil
-- 54g water
-
-## Directions
-
-1. Add Dry Ingredients to a bowl and whisk together.
-2. Add olive oil to the Dry Ingredients and mix the oil into the ingredients so it is spread evenly.
-3. Add water to the bowl and using a spoon, incorporate the mixture as much as possible.
-4. Flip the dough out onto the counter and continue incorporating all the ingredients into the dough making sure there are no dry parts.
-5. Squeeze dough ball between fingers, switch hands, and repeat for one minute. This will make sure everything is evenly dispersed throughout.
-6. Split dough into two balls.
-7. Lightly dust counter and rolling pin with flour, put one dough ball down, and add a light dusting of flour to the top of the dough.
-8. Roll dough 2-3 times, turn 90°, roll 2-3 times, and repeat until the dough is about 6" wide and 1/8-1/4" thick. If dough starts to stick to the rolling pin, lightly dust the surface where the dough is sticking, spread around, and continue rolling.
-9. Lightly spray a cast iron pan on medium-high heat, place one rolled out piece of dough onto the pan, and cook each side for 1-2 minutes or until browning occurs.
-10. Put cooked pita under a damp towel to prevent drying out and repeat for the other pita.
-
-## Tips
-
-Letting the dough balls relax for 15 minutes after step 6 will make the dough easier to roll out. Cook 3-4 batches at a time so that you have enough for multiple days. If you won't eat all of the pitas within 3-4 days, I would freeze them and reheat them in the microwave or on a skillet.
-
-![PROTEIN PITA](../images/doughlicious__protein-pita.jpg)
-
----
-
-# CANTALOUPE SORBET
-
-**Serves:** 1 | **Prep:** 15 MINS | **Cook:** 5 MINS
-
-## Macros
-
-| Calories | Fat | Carbs | Net Carbs | Protein |
-|----------|-----|-------|-----------|---------|
-| 102 | 0 | 44 | 24 | 3 |
-
-## Ingredients
-
-- 1 cantaloupe
-
-### PINT INGREDIENTS
-
-- 300g cantaloupe
-- 160g water
-- 20g granulated erythritol
-- 0.5g salt
-
-## Directions
-
-1. Wash and dry the outside of the cantaloupe, cut the ends off the cantaloupe, trying to make sure to cut off as little of the orange part as possible, then cut in half.
-2. Remove the seeds, put half of the cantaloupe off to the side, and place the other half cut side down on the cutting board.
-3. Cut where the orange meets the green (the rind) and try to follow that all the way down.
-4. Go around the entire cantaloupe until there is no more rind remaining, but if a little rind remains, that is okay. Cube the orange flesh of the cantaloupe and set aside.
-5. Repeat steps 3-6 for the other half of the cantaloupe.
-6. Load the blender up with the chunks of cantaloupe, blend for 30 seconds or until pureed, put into storage containers, and repeat with any remaining cantaloupe.
-7. Directly into a pint add Pint Ingredients and using a handheld blender, mix for 30 seconds.
-8. Put the top on the pint and freeze for 24 hours.
-9. Take the pint out of the freezer, run it under warm water for 60 seconds, dry the pint off, and load it into the CREAMi®.
-10. Run pint on the sorbet function and directly after on the re-spin function.
-11. Unload the pint and using a spoon push the contents of the CREAMi® down, smooth and level the surface, load it back up, and hit the re-spin button.
-12. A perfect sorbet consistency has now been achieved and it is time to eat.
-
-![CANTALOUPE SORBET](../images/fruit-sorbets__cantaloupe-sorbet.jpg)
-
----
-
-# GRAPEFRUIT SORBET
-
-**Serves:** 1 | **Prep:** 10 MINS | **Cook:** 5 MINS
-
-## Macros
-
-| Calories | Fat | Carbs | Net Carbs | Protein |
-|----------|-----|-------|-----------|---------|
-| 73 | 0 | 69 | 19 | 2 |
-
-## Ingredients
-
-- 220g grapefruit
-- 220g water
-- 50g granulated erythritol
-- .5g salt
-- .5g xanthan gum
-- Zest of half grapefruit
-
-## Directions
-
-1. Zest half of a grapefruit into a high sided container.
-2. Juice grapefruit into a medium sized bowl.
-3. Strain juice into the container as well as adding any extra pulp. Add water.
-4. Into a small bowl, add erythritol, salt, and xanthan gum. Whisk together.
-5. Using an immersion blender, start mixing the wet ingredients while slowly adding in the dry ingredients.
-6. Once all dry ingredients have dissolved, continue blending for 90 seconds.
-7. Add to a pint, put the top on, and freeze for 24 hours.
-8. Take the pint out of the freezer, run it under warm water for 60 seconds, dry the pint off, and load it into the CREAMi®.
-9. Run pint on the sorbet function and re-spin the pint 1-2 more times for desired consistency.
-10. Eat.
-
-![GRAPEFRUIT SORBET](../images/fruit-sorbets__grapefruit-sorbet.jpg)
-
----
-
-# PEACH SORBET
-
-**Serves:** 1 | **Prep:** 5 MINS | **Cook:** 5 MINS
-
-## Macros
-
-| Calories | Fat | Carbs | Net Carbs | Protein |
-|----------|-----|-------|-----------|---------|
-| 117 | 1 | 59 | 29 | 3 |
-
-## Ingredients
-
-- 300g peaches
-- 140g water
-- 30g granulated erythritol
-- .5g salt
-
-## Directions
-
-1. Rinse peaches under water, cut around the pit, twist the two halves, and remove the pit.
-2. Add all ingredients to a high sided container.
-3. Using an immersion blender, mix the ingredients for 90 seconds and add to a pint.
-4. Put the top on the pint and freeze for 24 hours.
-5. Take the pint out of the freezer, run it under warm water for 60 seconds, dry the pint off, and load it into the CREAMi®.
-6. Run pint on the sorbet function and re-spin the pint 1-2 more times for desired consistency.
-7. Eat.
-
-![PEACH SORBET](../images/fruit-sorbets__peach-sorbet.jpg)
-
----
-
-# RASPBERRY SORBET
-
-**Serves:** 1 | **Prep:** 10 MINS | **Cook:** 5 MINS
-
-## Macros
-
-| Calories | Fat | Carbs | Net Carbs | Protein |
-|----------|-----|-------|-----------|---------|
-| 120 | 2 | 67 | 27 | 3 |
-
-## Ingredients
-
-- 230g raspberries
-- 210g water
-- 40g granulated erythritol
-- .5g salt
-
-## Directions
-
-1. Rinse raspberries and add them to a high sided container along with all other ingredients.
-2. Using an immersion blender, mix the ingredients for 90 seconds.
-3. Strain the mixture over the pint and add seeds as desired.
-4. Put the top on the pint and freeze for 24 hours.
-5. Take the pint out of the freezer, run it under warm water for 60 seconds, dry the pint off, and load it into the CREAMi®.
-6. Run pint on the sorbet function and re-spin the pint 1-2 more times for desired consistency.
-7. Eat.
-
-## Tips
-
-Personally, I like either not adding any seeds at all or using ½ the seeds.
-
-![RASPBERRY SORBET](../images/fruit-sorbets__raspberry-sorbet.jpg)
-
----
-
-# STRAWBERRY SORBET
-
-**Serves:** 1 | **Prep:** 10 MINS | **Cook:** 5 MINS
-
-## Macros
-
-| Calories | Fat | Carbs | Net Carbs | Protein |
-|----------|-----|-------|-----------|---------|
-| 96 | 0 | 44 | 24 | 3 |
-
-## Ingredients
-
-- 1lb strawberries
-
-### PINT INGREDIENTS
-
-- 300g strawberries
-- 130g water
-- 20g granulated erythritol
-- 0.5g salt
-
-## Directions
-
-1. Rinse strawberries under water and cut off the stems.
-2. Add Pint Ingredients into the pint and using an immersion blender crush strawberries and mix for 60-90 seconds or until everything is smooth.
-3. Put the top on the pint and freeze for 24 hours.
-4. Take the pint out of the freezer, run it under warm water for 60 seconds, dry the pint off, and load it into the CREAMi®.
-5. Run pint on the sorbet function and directly after on the re-spin function.
-6. A perfect sorbet consistency has now been achieved and it is time to eat.
-
-## Tips
-
-If you don't have an immersion blender, you can use a food processor or regular blender to break down the strawberries. If you want a more ice cream-like consistency, unload the pint after the re-spin and using a spoon, push the contents of the CREAMi® down, smooth and level the surface, and re-spin for a second time.
-
-![STRAWBERRY SORBET](../images/fruit-sorbets__strawberry-sorbet.jpg)
-
----
-
-# WATERMELON SORBET
-
-**Serves:** 1 | **Prep:** 15 MINS | **Cook:** 5 MINS
-
-## Macros
-
-| Calories | Fat | Carbs | Net Carbs | Protein |
-|----------|-----|-------|-----------|---------|
-| 99 | 0 | 46 | 26 | 3 |
-
-## Ingredients
-
-- 1 seedless watermelon
-
-### PINT INGREDIENTS
-
-- 330g seedless watermelon
-- 110g water
-- 20g granulated erythritol
-- 0.5g salt
-
-## Directions
-
-1. Wash and dry the outside of the watermelon and put it on the biggest cutting board you have.
-2. Cut the ends off the watermelon, trying to make sure to cut off as little of the pink part as possible, then cut the watermelon in half.
-3. Put half of the watermelon off to the side and the other half cut side down on the cutting board.
-4. Cut where the pink meets the white (the rind) and try to follow that all the way down.
-5. Go around the entire watermelon until there is no more rind remaining, but if a little rind remains, that is okay.
-6. Cube the red flesh of the watermelon and set aside.
-7. Repeat steps 3-6 for the other half of the watermelon.
-8. Load blender up, blend for 30 seconds or until watermelon is broken down, put into storage containers, and repeat until the entire watermelon has been pureed.
-9. Directly into a pint add Pint Ingredients and using a handheld blender, mix for 30 seconds.
-10. Put the top on the pint and freeze for 24 hours.
-11. Take the pint out of the freezer, run it under warm water for 60 seconds, dry the pint off, and load it into the CREAMi®.
-12. Run pint on the sorbet function and directly after on the re-spin function.
-13. Unload the pint and using a spoon, push the contents of the CREAMi® down, smooth and level the surface, load it back up, and hit the re-spin button.
-14. A perfect sorbet consistency has now been achieved and it is time to eat.
-
-## Tips
-
-Instead of blending every gram of watermelon, put some chunks in containers to have as a quick snack or great pre-workout meal.You can buy pre-cut fruit to make the first part of this process go much faster, but it will also be much more expensive to do so. In addition, after you cut and puree the watermelon you will have enough for 10+ sorbets, so it's worth putting the extra work in.
-
-![WATERMELON SORBET](../images/fruit-sorbets__watermelon-sorbet.jpg)
-
----
-
 # APPLE PIE ICE CREAM
 
 **Serves:** 1 | **Prep:** 10 MINS | **Cook:** 5 MINS
@@ -6817,484 +6619,6 @@ Leave a couple grams of cereal on the side to top your pint with when it is fini
 9. Grab a spoon and enjoy.
 
 ![VANILLA BASE "GOOD"](../images/ice-cream-pints__vanilla-base-good.jpg)
-
----
-
-# BUFFALO SAUCE
-
-**Serves:** 10 | **Prep:** 5 MINS | **Cook:** 10 MINS
-
-## Macros
-
-| Calories | Fat | Carbs | Net Carbs | Protein |
-|----------|-----|-------|-----------|---------|
-| 29 | 2 | 3 | N/A | 0 |
-
-## Ingredients
-
-- 21g butter
-- 15g garlic, minced
-- 250g hot sauce
-- 30g white vinegar
-- 30g Worcestershire sauce
-- 5g cornstarch
-
-## Directions
-
-1. Add butter to a pot and put on stovetop on low heat.
-2. Place hot sauce, vinegar, Worcestershire sauce, and corn starch into a medium bowl. Whisk until corn starch dissolves.
-3. Once butter has melted, add garlic and turn up to medium heat. Mix butter and garlic.
-4. When the garlic butter starts bubbling and garlic becomes fragrant, add sauce and stir to combine.
-5. Once the sauce starts to boil, remove from heat and mix to combine.
-6. Add to a container and refrigerate.
-
-![BUFFALO SAUCE](../images/lets-get-saucy__buffalo-sauce.jpg)
-
----
-
-# CHIPOTLE AIOLI
-
-**Serves:** 19 | **Prep:** 5 MINS | **Cook:** N/A
-
-## Macros
-
-| Calories | Fat | Carbs | Net Carbs | Protein |
-|----------|-----|-------|-----------|---------|
-| 34 | 2 | 3 | N/A | 1 |
-
-## Ingredients
-
-- 3g fresh cilantro
-- 199g chipotle peppers in adobo sauce
-- 150g light mayonnaise
-- 200g fat-free Greek yogurt
-- 1g white pepper
-- 10g granulated erythritol
-- 2g smoked paprika
-- 5g roasted garlic
-
-### EMULSIFIER
-
-- 5g avocado oil
-- 2g xanthan gum
-
-## Directions
-
-1. Add cilantro and chipotle peppers to a food processor and process for 60 seconds.
-2. Add all additional ingredients besides the Emulsifiers and process for another 30 seconds.
-3. Using a rubber spatula, scrape down the sides and bottom of processor.
-4. In a small bowl, add the Emulsifying Ingredients and mix using a spoon.
-5. Once the emulsifier has a smooth consistency, add it to the food processor and process for 60 seconds.
-6. Take blade out and mix together manually to make sure everything is incorporated.
-7. Pour into a bowl and serve right away or use a funnel and add to a condiment bottle to use on a plethora of dishes.
-
-## Tips
-
-If you don't have a food processor, you can also put these ingredients into a bowl and use an immersion blender to both mix the ingredients and break them down. If you would like a smoother texture, remove seeds from chipotle peppers before adding to the food processor.
-
-![CHIPOTLE AIOLI](../images/lets-get-saucy__chipotle-aioli.jpg)
-
----
-
-# FOOLPROOF HOMEMADE MARINARA
-
-**Serves:** 15 | **Prep:** 5 MINS | **Cook:** N/A
-
-## Macros
-
-| Calories | Fat | Carbs | Net Carbs | Protein |
-|----------|-----|-------|-----------|---------|
-| 25 | 1 | 5 | 4 | 1 |
-
-## Ingredients
-
-- 28oz can Cento® San Marzano whole peeled tomatoes
-- 66g tomato paste
-- 8g extra virgin olive oil
-- 7g garlic, minced
-- 2.3g onion powder
-- 1g dried oregano
-- 1g crushed red pepper flakes
-- 6g salt, or to taste
-- 10g granulated erythritol, or to taste
-- Dash black pepper
-
-## Directions
-
-1. Pour half of the tomatoes into a large bowl.
-2. Add the rest of the ingredients and mix with an immersion blender until desired consistency.
-3. Pour the other half of the tomatoes into the container and mix with an immersion blender again until desired consistency is achieved.
-4. Use right away or store in the fridge/freezer until ready for use.
-
-## Tips
-
-If you want a chunkier sauce, crush tomatoes by hand and mix all ingredients with a whisk or spatula instead of an immersion blender. If you want a zero clean up marinara, pour and mix ingredients directly in the container they will be stored in.
-
-![FOOLPROOF HOMEMADE MARINARA](../images/lets-get-saucy__foolproof-homemade-marinara.jpg)
-
----
-
-# GARLIC PARMESAN SAUCE V2
-
-**Serves:** 13 | **Prep:** 15 MINS | **Cook:** 45 MINS
-
-## Macros
-
-| Calories | Fat | Carbs | Net Carbs | Protein |
-|----------|-----|-------|-----------|---------|
-| 44 | 3 | 2 | N/A | 3 |
-
-## Ingredients
-
-- 1 egg yolk
-- 60g light mayonnaise
-- 120g fat-free greek yogurt
-- 7g garlic, minced
-- 50g roasted garlic
-- 42g Parmigiano-Reggiano, grated
-- 14g apple cider vinegar
-- 60g water
-- 6g salt
-- .5g dried basil
-- .5g dried oregano
-- .5g crushed red pepper
-- .5g black pepper
-- 5g avocado oil
-- 1g xanthan gum
-- 4g parsley, chopped
-
-## Directions
-
-1. ROAST 2-3 HEADS OF GARLIC.
-2. Add all ingredients into a high-sided container besides avocado oil, xanthan gum, and parsley.
-3. Using an immersion blender, mix to combine.
-4. Add avocado oil and xanthan gum to a small bowl. Mix until the xanthan gum has completely dissolved into the oil.
-5. Add oil mixture to the high-sided container and mix for 1-2 minutes.
-6. Place sauce in a bottle and refrigerate.
-
-## Notes
-
-This sauce should stay good at least two weeks, especially if you make it with fresh greek yogurt. If you are worried about having too much sauce, I would suggest making a half batch first.
-
-![GARLIC PARMESAN SAUCE V2](../images/lets-get-saucy__garlic-parmesan-sauce-v2.jpg)
-
----
-
-# GARLIC PARMESAN SAUCE
-
-**Serves:** 8 | **Prep:** 15 MINS | **Cook:** 45 MINS
-
-## Macros
-
-| Calories | Fat | Carbs | Net Carbs | Protein |
-|----------|-----|-------|-----------|---------|
-| 48 | 3 | 3 | N/A | 2 |
-
-## Ingredients
-
-- 1 head garlic, roasted
-- 5g avocado oil
-- 1g xanthan gum
-- 60g light mayonnaise
-- 45g fat-free Greek yogurt
-- 30g sugar-free maple syrup
-- 7g apple cider vinegar
-- 20g water
-- 15g parmesan cheese
-- 5g lemon juice
-- 1 egg yolk
-- 6g salt
-- 5g granulated erythritol
-- 0.5g marjoram
-- 1g basil
-- 1g oregano
-- 1g crushed red pepper flakes
-- 1g black pepper
-
-## Directions
-
-1. Take the head of garlic and chop off the top so that the tips of the cloves are exposed.
-2. Lightly spray top with oil, add a pinch of salt, and a dash of pepper.
-3. Wrap the garlic head in aluminum foil and add to a preheated 400°F oven for 45 minutes.
-4. In a small bowl, add avocado oil and xanthan gum and mix until combined.
-5. In a medium bowl, add all other ingredients and mix.
-6. Add avocado oil mixture to bowl while stirring and combine.
-7. Use a garlic press to add press in 25g of the freshly roasted garlic to the mix.
-8. Give the sauce a good mix, add to a bottle, and refrigerate.
-
-## Tips
-
-To make sauce even smoother, use an immersion blender for steps 6 and 7.
-
-![GARLIC PARMESAN SAUCE](../images/lets-get-saucy__garlic-parmesan-sauce.jpg)
-
----
-
-# HOMEMADE MARINARA [COOKED]
-
-**Serves:** 14 | **Prep:** 10 MINS | **Cook:** 30 MINS
-
-## Macros
-
-| Calories | Fat | Carbs | Net Carbs | Protein |
-|----------|-----|-------|-----------|---------|
-| 32 | 1 | 6 | 5 | 1 |
-
-## Ingredients
-
-- 10g extra virgin olive oil
-- 120g white onion, diced
-- 15g garlic, minced
-- 28oz can Cento® San Marzano whole peeled tomatoes
-- 66g tomato paste
-- 1g dried oregano
-- 1g crushed red pepper flakes
-- 6g salt, or to taste
-- 5g erythritol, or to taste
-- Dash black pepper
-
-## Directions
-
-1. Dice onions and mince garlic. Set aside.
-2. Add olive oil and onions to a preheated pot on medium heat and stir to combine.
-3. Add garlic, stir to combine, and let mixture cook for 3-5 minutes.
-4. Add tomato paste and thoroughly combine all the ingredients. Simmer for 1 minute.
-5. Put an immersion blender into the can of tomatoes, blend 15-20 seconds or until smooth, add to the pan with the rest of the Sauce ingredients, and stir to combine. You can also crush in the tomatoes by hand if you prefer.
-6. Once sauce starts bubbling, give it a stir, and turn burner to low.
-7. Let sauce simmer for 20-30 minutes or until desired thickness is achieved, stirring occasionally.
-8. Serve right away or add to an airtight container and store in the fridge.
-
-![HOMEMADE MARINARA [COOKED]](../images/lets-get-saucy__homemade-marinara-cooked.jpg)
-
----
-
-# MAPLE SYRUP
-
-**Serves:** 18 | **Prep:** 10 MINS | **Cook:** 10 MINS
-
-## Macros
-
-| Calories | Fat | Carbs | Net Carbs | Protein |
-|----------|-----|-------|-----------|---------|
-| 0 | 0 | 4 | 0 | 0 |
-
-## Ingredients
-
-### WET
-
-- 500g water
-- 15g maple extract
-- 8g imitation vanilla
-- 25g brown sugar erythritol
-
-### DRY
-
-- 50g granulated erythritol
-- 3.5g salt
-- 2g xanthan gum
-- .5g sucralose
-
-## Directions
-
-1. Add all wet ingredients into a high sided container.
-2. Add 1g butter extract to provide a rich butter flavor to the maple syrup.
-3. In a small bowl, add dry ingredients and mix to combine.
-4. While blending, slowly add your dry ingredients into the container.
-5. Once all dry ingredients have dissolved, continue blending for 2 minutes.
-6. Add the syrup to a pot, put on medium heat, and stir every 2-3 minutes.
-7. Once boiling, allow to boil for one additional minute, remove from heat, and let it cool.
-8. Optional: When cooled, scrape the foam off the top of the syrup and discard.
-9. Add syrup to a container and drizzle on all your breakfast favorites.
-
-![MAPLE SYRUP](../images/lets-get-saucy__maple-syrup.jpg)
-
----
-
-# RUSSIAN DRESSING
-
-**Serves:** 9 | **Prep:** 5 MINS | **Cook:** N/A
-
-## Macros
-
-| Calories | Fat | Carbs | Net Carbs | Protein |
-|----------|-----|-------|-----------|---------|
-| 31 | 2 | 2 | N/A | 1 |
-
-## Ingredients
-
-- 6g onion
-- 120g no sugar added ketchup
-- 60g light mayonnaise
-- 60g fat-free Greek yogurt
-- 5g Sriracha
-- 7.5g horseradish
-- 2.5g Worcestershire sauce
-- 1.2g smoked paprika
-- 1g salt
-- Dash black pepper
-
-## Directions
-
-1. Grate onion and add to a medium size bowl.
-2. Put bowl on scale, add the rest of your ingredients, and combine.
-3. Serve right away or let it sit in the fridge for a couple of hours to let the flavors compound.
-
-![RUSSIAN DRESSING](../images/lets-get-saucy__russian-dressing.jpg)
-
----
-
-# SALSA CREMA
-
-**Serves:** 12 | **Prep:** 5 MINS | **Cook:** N/A
-
-## Macros
-
-| Calories | Fat | Carbs | Net Carbs | Protein |
-|----------|-----|-------|-----------|---------|
-| 14 | 0 | 1 | N/A | 2 |
-
-## Ingredients
-
-- 220g fat-free Greek yogurt
-- 4oz canned green chiles
-- 5g cilantro
-- 4g garlic, minced
-- 10g lemon juice
-- 4g salt
-- 0.5g xanthan gum (optional)
-
-## Directions
-
-1. Put all ingredients in a medium sized bowl and mix using an immersion blender for 30-60 seconds.
-2. Optional: Add xanthan gum over the top of the crema and mix in if a thicker consistency is desired.
-3. Serve right away or put into a container and store in the fridge until ready to use.
-
-## Tips
-
-You can also make this in a food processor if you don't have an immersion blender.
-
-![SALSA CREMA](../images/lets-get-saucy__salsa-crema.jpg)
-
----
-
-# SPICY RANCH
-
-**Serves:** 14 | **Prep:** 5 MINS | **Cook:** N/A
-
-## Macros
-
-| Calories | Fat | Carbs | Net Carbs | Protein |
-|----------|-----|-------|-----------|---------|
-| 35 | 2 | 2 | N/A | 2 |
-
-## Ingredients
-
-### RANCH INGREDIENTS
-
-- 170g fat-free Greek yogurt
-- 105g light mayonnaise
-- 80g reduced-fat buttermilk
-- 2.5g fresh parsley
-- 30g Franks RedHot® sauce
-- 3g garlic, minced
-- 6g onion powder
-- 5g salt
-- 1/4 tsp dill weed
-- 1/4 tsp habanero powder
-- 1/8 tsp black pepper
-- 1 tsp dried chives
-
-### EMULSIFIER BLEND
-
-- 8g avocado oil
-- 2g xanthan gum
-
-## Directions
-
-1. Add all of the Ranch Ingredients into a medium-sized bowl and mix with a spatula.
-2. Into a small bowl, add the Emulsifier Blend and stir until combined.
-3. Add the Emulsifier Blend to the medium sized bowl and, using an immersion blender, blend for 90 seconds or until thoroughly combined.
-4. Serve right away or store in a squeeze bottle and keep in the fridge for up to 2 weeks.
-
-## Tips
-
-If you don't have an immersion blender you can use a food processor or a blender cup.
-
-![SPICY RANCH](../images/lets-get-saucy__spicy-ranch.jpg)
-
----
-
-# SWEET CHILI SAUCE
-
-**Serves:** 17 | **Prep:** 10 MINS | **Cook:** 15 MINS
-
-## Macros
-
-| Calories | Fat | Carbs | Net Carbs | Protein |
-|----------|-----|-------|-----------|---------|
-| 19 | 0 | 9 | 4 | 0 |
-
-## Ingredients
-
-- 120g rice vinegar
-- 180g water
-- 90g granulated erythritol
-- 30g sugar
-- 3g salt
-- 10g garlic, minced
-- 7g ginger, minced
-- 30g soy sauce
-- 68g chili garlic sauce
-- 12g corn starch
-- 30g water
-- 5g sesame oil
-- 1.5g xanthan gum
-
-## Directions
-
-1. Add vinegar, water, erythritol, sugar, salt, garlic, ginger, and soy sauce to a medium pot. Stir ingredients to combine and place on medium heat. Stir every 1-2 minutes.
-2. Once erythritol and sugar have dissolved, add chili garlic sauce and stir.
-3. Add corn starch and water to a bowl. Use a spoon to mix until the corn starch has completely dissolved into the water.
-4. When the pot starts to boil, add corn starch slurry and stir immediately.
-5. Let the sauce simmer for 1-2 minutes.
-6. Place sesame oil and xanthan gum in a bowl and mix until the xanthan gum has completely dissolved into the oil.
-7. If you can't get sesame oil, replace it with avocado oil or another neutral tasting oil.
-8. Remove pot from heat, add oil mixture, and stir to combine.
-9. Once sauce has reached room temperature, place in a container and refrigerate.
-
-![SWEET CHILI SAUCE](../images/lets-get-saucy__sweet-chili-sauce.jpg)
-
----
-
-# TZATZIKI SAUCE
-
-**Serves:** 10 | **Prep:** 15 MINS | **Cook:** N/A
-
-## Macros
-
-| Calories | Fat | Carbs | Net Carbs | Protein |
-|----------|-----|-------|-----------|---------|
-| 18 | 0 | 1 | N/A | 3 |
-
-## Ingredients
-
-- 160g fat-free Greek yogurt
-- 4g extra virgin olive oil
-- 15g white vinegar
-- 1/2 tsp dried dill
-- 80g cucumber, peeled, deseeded, and grated
-- 3g garlic, minced
-- 42g fat-free feta
-- 3g salt
-- Dash black pepper
-
-## Directions
-
-1. Peel, deseed, grate, and squeeze cucumber with a cheese cloth or paper towels over a sink to try and get as much moisture out as possible.
-2. Add all ingredients in a bowl and mix until combined.
-3. Serve right away or, for best flavor, cover and refrigerate for at least 2-3 hours.
-
-![TZATZIKI SAUCE](../images/lets-get-saucy__tzatziki-sauce.jpg)
 
 ---
 
@@ -8741,6 +8065,590 @@ If you can't get 90% lean ground pork, use ground beef or turkey with similar ma
 
 ---
 
+# BURRITO TORTILLAS
+
+**Serves:** 2 | **Prep:** 60 MINS | **Cook:** 3 MINS
+
+## Macros
+
+| Calories | Fat | Carbs | Net Carbs | Protein |
+|----------|-----|-------|-----------|---------|
+| 177 | 4 | 37 | 22 | 14 |
+
+## Ingredients
+
+### DRY
+
+- 42g all-purpose flour
+- 30g vital wheat gluten
+- 30g oat fiber
+- 2g baking powder
+- 2g salt
+- 2g xanthan gum
+
+### WET
+
+- 6g avocado oil
+- 85g water
+
+## Directions
+
+1. Add Dry Ingredients into a medium-sized bowl and whisk to combine.
+2. In a separate bowl, mix the Wet Ingredients together, add to the Dry Ingredients, and mix with a spoon until most of the ingredients come together.
+3. Dump the contents of the bowl onto the counter and use hands to incorporate until there are no more dry parts left in the dough.
+4. Finish "kneading" this dough by squeezing dough for 30-60 seconds, switching hands with each squeeze.
+5. Divide dough in half, form into balls, cover with a damp towel or wrap each ball individually with plastic wrap, and rest dough for 30 minutes.
+6. Dust counter with flour, plop a dough ball down, dust top of the dough with flour, and roll out using a rolling pin. If dough starts sticking to the rolling pin, add more flour where it is sticking, spread, and continue. I like to roll the dough 4-5 times then turn it 90 degrees, roll 4-5 times again, and repeat.
+7. Once rolled out to 11-12", place underneath a damp tea towel or kitchen towel to prevent the tortilla from drying out.
+8. Repeat with the second tortilla and place on a preheated cast iron or griddle on medium-high heat.
+9. Cook each side for 30-60 seconds, flip, and cook another 30-60 seconds.
+10. Put under a separate wet tea towel or kitchen towel until cool.
+11. Use right away or fold and place in a plastic bag for up to 3-4 days.
+
+## Tips
+
+If storing for later use, put tortilla in the microwave for 10 seconds when ready to eat. If making a large batch and need to avoid molding, fold twice, place in a gallon bag, and throw into the freezer. When ready to use cover with a damp tea towel or paper towel and reheat for 30 seconds.
+
+## Notes
+
+I include an extra 8g into the macros of all-purpose flour that is used to roll the tortilla out, even though it is not included in the ingredient list itself.
+
+![BURRITO TORTILLAS](../images/diet-cheat-codes__burrito-tortillas.jpg)
+
+---
+
+# SAUSAGE EGG NICKMUFFIN
+
+**Serves:** 6 | **Prep:** 15 MINS | **Cook:** 15 MINS
+
+## Macros
+
+| Calories | Fat | Carbs | Net Carbs | Protein |
+|----------|-----|-------|-----------|---------|
+| 346 | 15 | 34 | 23 | 29 |
+
+## Ingredients
+
+### SAUSAGE
+
+- 448g 90% lean ground pork
+- 6g salt
+- 2g MSG
+- 2g black pepper
+- 1.5g sage
+- 1.5g rosemary
+- 1g garlic powder
+- 1g onion powder
+- .5g nutmeg
+- 2.5g potato starch
+- 20g erythritol
+
+### SANDWICH (1 SERVING)
+
+- 1 English muffin (100 cal)
+- 1 slice Velveeta® cheese
+- 1 egg
+- 1 sausage patty
+
+## Directions
+
+1. Combine sausage ingredients in a bowl. Cover and refrigerate for 12-24 hours for best flavor.
+2. Divide sausage into 80g portions, roll into balls, and place each on a sheet of parchment paper. Cover with another sheet, and press into 5" patties using a flat-bottomed pan or pot.
+3. Heat a pan over medium heat and cook the patties for 2-3 minutes on one side, until browned.
+4. Flip the patties and cook for an additional 1-2 minutes.
+5. Wipe the pan clean. Spray six CANNING LIDS AND BANDS with oil for easy release, and place them in the pan.
+6. Crack an egg into each, break the yolk, top with salt, and add 30g water to the pan. Cover immediately and cook 2-3 minutes.
+7. Let the sausage and eggs cool completely, then pat dry with a paper towel to prevent soggy sandwiches.
+8. Assemble the sandwiches by layering the bottom bun, cheese, an egg, a sausage patty, and the top bun. Optional: Toast muffins in the pan before assembling if desired. However, I find with condensation when reheating, it's not worth the extra step.
+9. Storage: Freezing: Freeze assembled sandwiches on a sheet pan for 2 hours, then vacuum seal or store in airtight bags. Refrigerating: Wrap sandwiches in parchment paper and refrigerate.
+10. Reheating: From frozen: Wrap in parchment paper, thaw overnight in the fridge (10-12 hours), then microwave 60-90 seconds. From fridge: Microwave 60-90 seconds.
+
+## Tips
+
+If you can't get 90% lean ground pork, use ground beef or turkey with similar macros.
+
+![SAUSAGE EGG NICKMUFFIN](../images/diet-cheat-codes__sausage-egg-nickmuffin.jpg)
+
+---
+
+# BUFFALO SAUCE
+
+**Serves:** 10 | **Prep:** 5 MINS | **Cook:** 10 MINS
+
+## Macros
+
+| Calories | Fat | Carbs | Net Carbs | Protein |
+|----------|-----|-------|-----------|---------|
+| 29 | 2 | 3 | N/A | 0 |
+
+## Ingredients
+
+- 21g butter
+- 15g garlic, minced
+- 250g hot sauce
+- 30g white vinegar
+- 30g Worcestershire sauce
+- 5g cornstarch
+
+## Directions
+
+1. Add butter to a pot and put on stovetop on low heat.
+2. Place hot sauce, vinegar, Worcestershire sauce, and corn starch into a medium bowl. Whisk until corn starch dissolves.
+3. Once butter has melted, add garlic and turn up to medium heat. Mix butter and garlic.
+4. When the garlic butter starts bubbling and garlic becomes fragrant, add sauce and stir to combine.
+5. Once the sauce starts to boil, remove from heat and mix to combine.
+6. Add to a container and refrigerate.
+
+![BUFFALO SAUCE](../images/lets-get-saucy__buffalo-sauce.jpg)
+
+---
+
+# CHIPOTLE AIOLI
+
+**Serves:** 19 | **Prep:** 5 MINS | **Cook:** N/A
+
+## Macros
+
+| Calories | Fat | Carbs | Net Carbs | Protein |
+|----------|-----|-------|-----------|---------|
+| 34 | 2 | 3 | N/A | 1 |
+
+## Ingredients
+
+- 3g fresh cilantro
+- 199g chipotle peppers in adobo sauce
+- 150g light mayonnaise
+- 200g fat-free Greek yogurt
+- 1g white pepper
+- 10g granulated erythritol
+- 2g smoked paprika
+- 5g roasted garlic
+
+### EMULSIFIER
+
+- 5g avocado oil
+- 2g xanthan gum
+
+## Directions
+
+1. Add cilantro and chipotle peppers to a food processor and process for 60 seconds.
+2. Add all additional ingredients besides the Emulsifiers and process for another 30 seconds.
+3. Using a rubber spatula, scrape down the sides and bottom of processor.
+4. In a small bowl, add the Emulsifying Ingredients and mix using a spoon.
+5. Once the emulsifier has a smooth consistency, add it to the food processor and process for 60 seconds.
+6. Take blade out and mix together manually to make sure everything is incorporated.
+7. Pour into a bowl and serve right away or use a funnel and add to a condiment bottle to use on a plethora of dishes.
+
+## Tips
+
+If you don't have a food processor, you can also put these ingredients into a bowl and use an immersion blender to both mix the ingredients and break them down. If you would like a smoother texture, remove seeds from chipotle peppers before adding to the food processor.
+
+![CHIPOTLE AIOLI](../images/lets-get-saucy__chipotle-aioli.jpg)
+
+---
+
+# FOOLPROOF HOMEMADE MARINARA
+
+**Serves:** 15 | **Prep:** 5 MINS | **Cook:** N/A
+
+## Macros
+
+| Calories | Fat | Carbs | Net Carbs | Protein |
+|----------|-----|-------|-----------|---------|
+| 25 | 1 | 5 | 4 | 1 |
+
+## Ingredients
+
+- 28oz can Cento® San Marzano whole peeled tomatoes
+- 66g tomato paste
+- 8g extra virgin olive oil
+- 7g garlic, minced
+- 2.3g onion powder
+- 1g dried oregano
+- 1g crushed red pepper flakes
+- 6g salt, or to taste
+- 10g granulated erythritol, or to taste
+- Dash black pepper
+
+## Directions
+
+1. Pour half of the tomatoes into a large bowl.
+2. Add the rest of the ingredients and mix with an immersion blender until desired consistency.
+3. Pour the other half of the tomatoes into the container and mix with an immersion blender again until desired consistency is achieved.
+4. Use right away or store in the fridge/freezer until ready for use.
+
+## Tips
+
+If you want a chunkier sauce, crush tomatoes by hand and mix all ingredients with a whisk or spatula instead of an immersion blender. If you want a zero clean up marinara, pour and mix ingredients directly in the container they will be stored in.
+
+![FOOLPROOF HOMEMADE MARINARA](../images/lets-get-saucy__foolproof-homemade-marinara.jpg)
+
+---
+
+# GARLIC PARMESAN SAUCE V2
+
+**Serves:** 13 | **Prep:** 15 MINS | **Cook:** 45 MINS
+
+## Macros
+
+| Calories | Fat | Carbs | Net Carbs | Protein |
+|----------|-----|-------|-----------|---------|
+| 44 | 3 | 2 | N/A | 3 |
+
+## Ingredients
+
+- 1 egg yolk
+- 60g light mayonnaise
+- 120g fat-free greek yogurt
+- 7g garlic, minced
+- 50g roasted garlic
+- 42g Parmigiano-Reggiano, grated
+- 14g apple cider vinegar
+- 60g water
+- 6g salt
+- .5g dried basil
+- .5g dried oregano
+- .5g crushed red pepper
+- .5g black pepper
+- 5g avocado oil
+- 1g xanthan gum
+- 4g parsley, chopped
+
+## Directions
+
+1. ROAST 2-3 HEADS OF GARLIC.
+2. Add all ingredients into a high-sided container besides avocado oil, xanthan gum, and parsley.
+3. Using an immersion blender, mix to combine.
+4. Add avocado oil and xanthan gum to a small bowl. Mix until the xanthan gum has completely dissolved into the oil.
+5. Add oil mixture to the high-sided container and mix for 1-2 minutes.
+6. Place sauce in a bottle and refrigerate.
+
+## Notes
+
+This sauce should stay good at least two weeks, especially if you make it with fresh greek yogurt. If you are worried about having too much sauce, I would suggest making a half batch first.
+
+![GARLIC PARMESAN SAUCE V2](../images/lets-get-saucy__garlic-parmesan-sauce-v2.jpg)
+
+---
+
+# GARLIC PARMESAN SAUCE
+
+**Serves:** 8 | **Prep:** 15 MINS | **Cook:** 45 MINS
+
+## Macros
+
+| Calories | Fat | Carbs | Net Carbs | Protein |
+|----------|-----|-------|-----------|---------|
+| 48 | 3 | 3 | N/A | 2 |
+
+## Ingredients
+
+- 1 head garlic, roasted
+- 5g avocado oil
+- 1g xanthan gum
+- 60g light mayonnaise
+- 45g fat-free Greek yogurt
+- 30g sugar-free maple syrup
+- 7g apple cider vinegar
+- 20g water
+- 15g parmesan cheese
+- 5g lemon juice
+- 1 egg yolk
+- 6g salt
+- 5g granulated erythritol
+- 0.5g marjoram
+- 1g basil
+- 1g oregano
+- 1g crushed red pepper flakes
+- 1g black pepper
+
+## Directions
+
+1. Take the head of garlic and chop off the top so that the tips of the cloves are exposed.
+2. Lightly spray top with oil, add a pinch of salt, and a dash of pepper.
+3. Wrap the garlic head in aluminum foil and add to a preheated 400°F oven for 45 minutes.
+4. In a small bowl, add avocado oil and xanthan gum and mix until combined.
+5. In a medium bowl, add all other ingredients and mix.
+6. Add avocado oil mixture to bowl while stirring and combine.
+7. Use a garlic press to add press in 25g of the freshly roasted garlic to the mix.
+8. Give the sauce a good mix, add to a bottle, and refrigerate.
+
+## Tips
+
+To make sauce even smoother, use an immersion blender for steps 6 and 7.
+
+![GARLIC PARMESAN SAUCE](../images/lets-get-saucy__garlic-parmesan-sauce.jpg)
+
+---
+
+# HOMEMADE MARINARA [COOKED]
+
+**Serves:** 14 | **Prep:** 10 MINS | **Cook:** 30 MINS
+
+## Macros
+
+| Calories | Fat | Carbs | Net Carbs | Protein |
+|----------|-----|-------|-----------|---------|
+| 32 | 1 | 6 | 5 | 1 |
+
+## Ingredients
+
+- 10g extra virgin olive oil
+- 120g white onion, diced
+- 15g garlic, minced
+- 28oz can Cento® San Marzano whole peeled tomatoes
+- 66g tomato paste
+- 1g dried oregano
+- 1g crushed red pepper flakes
+- 6g salt, or to taste
+- 5g erythritol, or to taste
+- Dash black pepper
+
+## Directions
+
+1. Dice onions and mince garlic. Set aside.
+2. Add olive oil and onions to a preheated pot on medium heat and stir to combine.
+3. Add garlic, stir to combine, and let mixture cook for 3-5 minutes.
+4. Add tomato paste and thoroughly combine all the ingredients. Simmer for 1 minute.
+5. Put an immersion blender into the can of tomatoes, blend 15-20 seconds or until smooth, add to the pan with the rest of the Sauce ingredients, and stir to combine. You can also crush in the tomatoes by hand if you prefer.
+6. Once sauce starts bubbling, give it a stir, and turn burner to low.
+7. Let sauce simmer for 20-30 minutes or until desired thickness is achieved, stirring occasionally.
+8. Serve right away or add to an airtight container and store in the fridge.
+
+![HOMEMADE MARINARA [COOKED]](../images/lets-get-saucy__homemade-marinara-cooked.jpg)
+
+---
+
+# MAPLE SYRUP
+
+**Serves:** 18 | **Prep:** 10 MINS | **Cook:** 10 MINS
+
+## Macros
+
+| Calories | Fat | Carbs | Net Carbs | Protein |
+|----------|-----|-------|-----------|---------|
+| 0 | 0 | 4 | 0 | 0 |
+
+## Ingredients
+
+### WET
+
+- 500g water
+- 15g maple extract
+- 8g imitation vanilla
+- 25g brown sugar erythritol
+
+### DRY
+
+- 50g granulated erythritol
+- 3.5g salt
+- 2g xanthan gum
+- .5g sucralose
+
+## Directions
+
+1. Add all wet ingredients into a high sided container.
+2. Add 1g butter extract to provide a rich butter flavor to the maple syrup.
+3. In a small bowl, add dry ingredients and mix to combine.
+4. While blending, slowly add your dry ingredients into the container.
+5. Once all dry ingredients have dissolved, continue blending for 2 minutes.
+6. Add the syrup to a pot, put on medium heat, and stir every 2-3 minutes.
+7. Once boiling, allow to boil for one additional minute, remove from heat, and let it cool.
+8. Optional: When cooled, scrape the foam off the top of the syrup and discard.
+9. Add syrup to a container and drizzle on all your breakfast favorites.
+
+![MAPLE SYRUP](../images/lets-get-saucy__maple-syrup.jpg)
+
+---
+
+# RUSSIAN DRESSING
+
+**Serves:** 9 | **Prep:** 5 MINS | **Cook:** N/A
+
+## Macros
+
+| Calories | Fat | Carbs | Net Carbs | Protein |
+|----------|-----|-------|-----------|---------|
+| 31 | 2 | 2 | N/A | 1 |
+
+## Ingredients
+
+- 6g onion
+- 120g no sugar added ketchup
+- 60g light mayonnaise
+- 60g fat-free Greek yogurt
+- 5g Sriracha
+- 7.5g horseradish
+- 2.5g Worcestershire sauce
+- 1.2g smoked paprika
+- 1g salt
+- Dash black pepper
+
+## Directions
+
+1. Grate onion and add to a medium size bowl.
+2. Put bowl on scale, add the rest of your ingredients, and combine.
+3. Serve right away or let it sit in the fridge for a couple of hours to let the flavors compound.
+
+![RUSSIAN DRESSING](../images/lets-get-saucy__russian-dressing.jpg)
+
+---
+
+# SALSA CREMA
+
+**Serves:** 12 | **Prep:** 5 MINS | **Cook:** N/A
+
+## Macros
+
+| Calories | Fat | Carbs | Net Carbs | Protein |
+|----------|-----|-------|-----------|---------|
+| 14 | 0 | 1 | N/A | 2 |
+
+## Ingredients
+
+- 220g fat-free Greek yogurt
+- 4oz canned green chiles
+- 5g cilantro
+- 4g garlic, minced
+- 10g lemon juice
+- 4g salt
+- 0.5g xanthan gum (optional)
+
+## Directions
+
+1. Put all ingredients in a medium sized bowl and mix using an immersion blender for 30-60 seconds.
+2. Optional: Add xanthan gum over the top of the crema and mix in if a thicker consistency is desired.
+3. Serve right away or put into a container and store in the fridge until ready to use.
+
+## Tips
+
+You can also make this in a food processor if you don't have an immersion blender.
+
+![SALSA CREMA](../images/lets-get-saucy__salsa-crema.jpg)
+
+---
+
+# SPICY RANCH
+
+**Serves:** 14 | **Prep:** 5 MINS | **Cook:** N/A
+
+## Macros
+
+| Calories | Fat | Carbs | Net Carbs | Protein |
+|----------|-----|-------|-----------|---------|
+| 35 | 2 | 2 | N/A | 2 |
+
+## Ingredients
+
+### RANCH INGREDIENTS
+
+- 170g fat-free Greek yogurt
+- 105g light mayonnaise
+- 80g reduced-fat buttermilk
+- 2.5g fresh parsley
+- 30g Franks RedHot® sauce
+- 3g garlic, minced
+- 6g onion powder
+- 5g salt
+- 1/4 tsp dill weed
+- 1/4 tsp habanero powder
+- 1/8 tsp black pepper
+- 1 tsp dried chives
+
+### EMULSIFIER BLEND
+
+- 8g avocado oil
+- 2g xanthan gum
+
+## Directions
+
+1. Add all of the Ranch Ingredients into a medium-sized bowl and mix with a spatula.
+2. Into a small bowl, add the Emulsifier Blend and stir until combined.
+3. Add the Emulsifier Blend to the medium sized bowl and, using an immersion blender, blend for 90 seconds or until thoroughly combined.
+4. Serve right away or store in a squeeze bottle and keep in the fridge for up to 2 weeks.
+
+## Tips
+
+If you don't have an immersion blender you can use a food processor or a blender cup.
+
+![SPICY RANCH](../images/lets-get-saucy__spicy-ranch.jpg)
+
+---
+
+# SWEET CHILI SAUCE
+
+**Serves:** 17 | **Prep:** 10 MINS | **Cook:** 15 MINS
+
+## Macros
+
+| Calories | Fat | Carbs | Net Carbs | Protein |
+|----------|-----|-------|-----------|---------|
+| 19 | 0 | 9 | 4 | 0 |
+
+## Ingredients
+
+- 120g rice vinegar
+- 180g water
+- 90g granulated erythritol
+- 30g sugar
+- 3g salt
+- 10g garlic, minced
+- 7g ginger, minced
+- 30g soy sauce
+- 68g chili garlic sauce
+- 12g corn starch
+- 30g water
+- 5g sesame oil
+- 1.5g xanthan gum
+
+## Directions
+
+1. Add vinegar, water, erythritol, sugar, salt, garlic, ginger, and soy sauce to a medium pot. Stir ingredients to combine and place on medium heat. Stir every 1-2 minutes.
+2. Once erythritol and sugar have dissolved, add chili garlic sauce and stir.
+3. Add corn starch and water to a bowl. Use a spoon to mix until the corn starch has completely dissolved into the water.
+4. When the pot starts to boil, add corn starch slurry and stir immediately.
+5. Let the sauce simmer for 1-2 minutes.
+6. Place sesame oil and xanthan gum in a bowl and mix until the xanthan gum has completely dissolved into the oil.
+7. If you can't get sesame oil, replace it with avocado oil or another neutral tasting oil.
+8. Remove pot from heat, add oil mixture, and stir to combine.
+9. Once sauce has reached room temperature, place in a container and refrigerate.
+
+![SWEET CHILI SAUCE](../images/lets-get-saucy__sweet-chili-sauce.jpg)
+
+---
+
+# TZATZIKI SAUCE
+
+**Serves:** 10 | **Prep:** 15 MINS | **Cook:** N/A
+
+## Macros
+
+| Calories | Fat | Carbs | Net Carbs | Protein |
+|----------|-----|-------|-----------|---------|
+| 18 | 0 | 1 | N/A | 3 |
+
+## Ingredients
+
+- 160g fat-free Greek yogurt
+- 4g extra virgin olive oil
+- 15g white vinegar
+- 1/2 tsp dried dill
+- 80g cucumber, peeled, deseeded, and grated
+- 3g garlic, minced
+- 42g fat-free feta
+- 3g salt
+- Dash black pepper
+
+## Directions
+
+1. Peel, deseed, grate, and squeeze cucumber with a cheese cloth or paper towels over a sink to try and get as much moisture out as possible.
+2. Add all ingredients in a bowl and mix until combined.
+3. Serve right away or, for best flavor, cover and refrigerate for at least 2-3 hours.
+
+![TZATZIKI SAUCE](../images/lets-get-saucy__tzatziki-sauce.jpg)
+
+---
+
 # BLT DIP
 
 **Serves:** 13 | **Prep:** 10 MINS | **Cook:** 10 MINS
@@ -9268,137 +9176,229 @@ If you want to use the egg roll filling for a different recipe, it works perfect
 
 ---
 
-# BASQUE CHEESECAKE
+# CANTALOUPE SORBET
 
-**Serves:** 8 | **Prep:** 25 MINS | **Cook:** 35 MINS
+**Serves:** 1 | **Prep:** 15 MINS | **Cook:** 5 MINS
 
 ## Macros
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 372 | 15 | 47 | 28 | 29 |
+| 102 | 0 | 44 | 24 | 3 |
 
 ## Ingredients
 
-- 325g 2% cottage cheese, blended
-- 448g low-fat cream cheese
-- 224g fat-free cream cheese
-- 100g granulated sugar
-- 150g erythritol
-- 4g salt
-- 8g imitation vanilla
-- 3 eggs
-- 2 egg yolks
-- 480g 2% milk
-- 40g all-purpose flour
-- 97.2g Gorilla Mind Vanilla Ice Cream protein
+- 1 cantaloupe
+
+### PINT INGREDIENTS
+
+- 300g cantaloupe
+- 160g water
+- 20g granulated erythritol
+- 0.5g salt
 
 ## Directions
 
-1. Allow cottage cheese, cream cheese, eggs, and milk to come to room temperature. This will take about 2-4 hours.
-2. Add eggs and yolks to a medium bowl.
-3. Using an immersion blender, mix the cottage cheese for 2 minutes or until smooth.
-4. Add flour and protein to a medium bowl and whisk.
-5. Add cottage cheese, cream cheese, sugar, erythritol, salt, and vanilla to a large bowl.
-6. Using a hand mixer, blend for 2 minutes on low or until everything is combined. Using a rubber spatula, scrape down the sides and bottom of the bowl as needed. You can make this entire recipe whisking by hand or with a stand mixer. Whichever option you choose, just follow the instructions as listed.
-7. While mixing on low, add in one egg/yolk at a time until it is fully combined. This should take about 5 minutes in total. Scrape down sides and bottom of bowl.
-8. Slowly pour in milk while mixing on low. Once all milk is poured in, scrape down sides of bowl and mix for an additional minute.
-9. Add flour/protein mixture to a mesh strainer and sift the powder over the bowl while mixing on low. Once all powder is sifted, mix for one minute and scrape down sides. Mix for an additional minute or until everything is combined.
-10. Spray a 10" springform pan with oil, place on a sheet pan, and add mixture to springform pan. You can place parchment paper inside of the springform pan before pouring for easier removal and transfer of the cheesecake. This works for other round 10" pans as well.
-11. Bake in a preheated 475°F oven for 35-40 minutes or until brown on top with a slight jiggle throughout the cheesecake. Turn sheet pan halfway through cooking.
-12. Allow cheesecake to set for 2-4 hours before cutting into it. The goal is to have a custard-like middle with the outer edges firm.
+1. Wash and dry the outside of the cantaloupe, cut the ends off the cantaloupe, trying to make sure to cut off as little of the orange part as possible, then cut in half.
+2. Remove the seeds, put half of the cantaloupe off to the side, and place the other half cut side down on the cutting board.
+3. Cut where the orange meets the green (the rind) and try to follow that all the way down.
+4. Go around the entire cantaloupe until there is no more rind remaining, but if a little rind remains, that is okay. Cube the orange flesh of the cantaloupe and set aside.
+5. Repeat steps 3-6 for the other half of the cantaloupe.
+6. Load the blender up with the chunks of cantaloupe, blend for 30 seconds or until pureed, put into storage containers, and repeat with any remaining cantaloupe.
+7. Directly into a pint add Pint Ingredients and using a handheld blender, mix for 30 seconds.
+8. Put the top on the pint and freeze for 24 hours.
+9. Take the pint out of the freezer, run it under warm water for 60 seconds, dry the pint off, and load it into the CREAMi®.
+10. Run pint on the sorbet function and directly after on the re-spin function.
+11. Unload the pint and using a spoon push the contents of the CREAMi® down, smooth and level the surface, load it back up, and hit the re-spin button.
+12. A perfect sorbet consistency has now been achieved and it is time to eat.
 
-## Tips
-
-If you can't get fat-free cream cheese, you can use a combination of 500g 2% cottage cheese and 500g low-fat cream cheese.
-
-![BASQUE CHEESECAKE](../images/sweet-treats__basque-cheesecake.jpg)
+![CANTALOUPE SORBET](../images/fruit-sorbets__cantaloupe-sorbet.jpg)
 
 ---
 
-# CANDIED PECANS
+# GRAPEFRUIT SORBET
 
-**Serves:** 8 | **Prep:** 5 MINS | **Cook:** 30 MINS
+**Serves:** 1 | **Prep:** 10 MINS | **Cook:** 5 MINS
 
 ## Macros
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 147 | 15 | 8 | 2 | 3 |
+| 73 | 0 | 69 | 19 | 2 |
 
 ## Ingredients
 
-- 224g pecans
-
-### DRY
-
+- 220g grapefruit
+- 220g water
 - 50g granulated erythritol
-- 50g brown sugar erythritol
-- 6g ground cinnamon
-- 3g salt
-
-### WET
-
-- 1 egg white
-- 4.2g vanilla extract
-- 2g water
+- .5g salt
+- .5g xanthan gum
+- Zest of half grapefruit
 
 ## Directions
 
-1. Add Dry Ingredients into a medium-sized bowl and whisk together.
-2. In a separate medium-sized bowl, separate an egg white from the yolk and whisk the white for 60 seconds or until it becomes frothy.
-3. Add vanilla extract and water to the frothed egg white and whisk until combined.
-4. Add ¼ dry ingredients to the wet ingredients and mix until combined. Repeat with ¼ of the dry ingredients at a time until dry ingredients are fully mixed in.
-5. Pour pecans into the bowl and using a spatula, mix ingredients together until all pecans are fully coated.
-6. Spread pecans into one even layer on a cookie sheet lined with parchment paper or silicone baking mat.
-7. Bake in a preheated oven at 300°F for 30 minutes, mixing the pecans halfway through the baking process.
-8. Let cool for one hour and store in an airtight container.
+1. Zest half of a grapefruit into a high sided container.
+2. Juice grapefruit into a medium sized bowl.
+3. Strain juice into the container as well as adding any extra pulp. Add water.
+4. Into a small bowl, add erythritol, salt, and xanthan gum. Whisk together.
+5. Using an immersion blender, start mixing the wet ingredients while slowly adding in the dry ingredients.
+6. Once all dry ingredients have dissolved, continue blending for 90 seconds.
+7. Add to a pint, put the top on, and freeze for 24 hours.
+8. Take the pint out of the freezer, run it under warm water for 60 seconds, dry the pint off, and load it into the CREAMi®.
+9. Run pint on the sorbet function and re-spin the pint 1-2 more times for desired consistency.
+10. Eat.
 
-## Tips
-
-If you want a lighter roast, turn oven temperature down to 250°F and cook for the same amount of time.
-
-![CANDIED PECANS](../images/sweet-treats__candied-pecans.jpg)
+![GRAPEFRUIT SORBET](../images/fruit-sorbets__grapefruit-sorbet.jpg)
 
 ---
 
-# CRISPY RICE SQUARES
+# PEACH SORBET
 
-**Serves:** 9 | **Prep:** 5 MINS | **Cook:** 10 MINS
+**Serves:** 1 | **Prep:** 5 MINS | **Cook:** 5 MINS
 
 ## Macros
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 150 | 3 | 22 | 19 | 11 |
+| 117 | 1 | 59 | 29 | 3 |
 
 ## Ingredients
 
-- 28g butter
-- 50g 2% milk
-- 4g vanilla extract
-- 1g salt
-- 192g Max Mallow®
-- 97.2g Gorilla Mind Vanilla Ice Cream protein powder
-- 148g crispy rice cereal
-- Oil spray
+- 300g peaches
+- 140g water
+- 30g granulated erythritol
+- .5g salt
 
 ## Directions
 
-1. Add butter, milk, vanilla extract, and salt to a large pot.
-2. Set the stovetop to medium-low heat and place the pot onto the stove.
-3. Using a wooden spoon, mix the pot as the butter melts.
-4. Add marshmallows to the pot. Stir the marshmallows every minute until they are almost melted.
-5. Add protein powder, remove pot from heat, and stir until the protein powder is fully mixed in.
-6. Pour crispy rice into the pot and mix to combine.
-7. Lightly spray an 8x8 inch baking pan with oil, pour crispy rice treats into the pan, and pat down into an even layer. Spray a little bit of oil onto your hands and rub them together to prevent the crispy rice treats from sticking to them.
-8. Cut into 9 squares and try one while they are still warm.
+1. Rinse peaches under water, cut around the pit, twist the two halves, and remove the pit.
+2. Add all ingredients to a high sided container.
+3. Using an immersion blender, mix the ingredients for 90 seconds and add to a pint.
+4. Put the top on the pint and freeze for 24 hours.
+5. Take the pint out of the freezer, run it under warm water for 60 seconds, dry the pint off, and load it into the CREAMi®.
+6. Run pint on the sorbet function and re-spin the pint 1-2 more times for desired consistency.
+7. Eat.
+
+![PEACH SORBET](../images/fruit-sorbets__peach-sorbet.jpg)
+
+---
+
+# RASPBERRY SORBET
+
+**Serves:** 1 | **Prep:** 10 MINS | **Cook:** 5 MINS
+
+## Macros
+
+| Calories | Fat | Carbs | Net Carbs | Protein |
+|----------|-----|-------|-----------|---------|
+| 120 | 2 | 67 | 27 | 3 |
+
+## Ingredients
+
+- 230g raspberries
+- 210g water
+- 40g granulated erythritol
+- .5g salt
+
+## Directions
+
+1. Rinse raspberries and add them to a high sided container along with all other ingredients.
+2. Using an immersion blender, mix the ingredients for 90 seconds.
+3. Strain the mixture over the pint and add seeds as desired.
+4. Put the top on the pint and freeze for 24 hours.
+5. Take the pint out of the freezer, run it under warm water for 60 seconds, dry the pint off, and load it into the CREAMi®.
+6. Run pint on the sorbet function and re-spin the pint 1-2 more times for desired consistency.
+7. Eat.
 
 ## Tips
 
-Microwave one serving for 8-10 seconds for a warm, fresh crispy rice square.
+Personally, I like either not adding any seeds at all or using ½ the seeds.
 
-![CRISPY RICE SQUARES](../images/sweet-treats__crispy-rice-squares.jpg)
+![RASPBERRY SORBET](../images/fruit-sorbets__raspberry-sorbet.jpg)
+
+---
+
+# STRAWBERRY SORBET
+
+**Serves:** 1 | **Prep:** 10 MINS | **Cook:** 5 MINS
+
+## Macros
+
+| Calories | Fat | Carbs | Net Carbs | Protein |
+|----------|-----|-------|-----------|---------|
+| 96 | 0 | 44 | 24 | 3 |
+
+## Ingredients
+
+- 1lb strawberries
+
+### PINT INGREDIENTS
+
+- 300g strawberries
+- 130g water
+- 20g granulated erythritol
+- 0.5g salt
+
+## Directions
+
+1. Rinse strawberries under water and cut off the stems.
+2. Add Pint Ingredients into the pint and using an immersion blender crush strawberries and mix for 60-90 seconds or until everything is smooth.
+3. Put the top on the pint and freeze for 24 hours.
+4. Take the pint out of the freezer, run it under warm water for 60 seconds, dry the pint off, and load it into the CREAMi®.
+5. Run pint on the sorbet function and directly after on the re-spin function.
+6. A perfect sorbet consistency has now been achieved and it is time to eat.
+
+## Tips
+
+If you don't have an immersion blender, you can use a food processor or regular blender to break down the strawberries. If you want a more ice cream-like consistency, unload the pint after the re-spin and using a spoon, push the contents of the CREAMi® down, smooth and level the surface, and re-spin for a second time.
+
+![STRAWBERRY SORBET](../images/fruit-sorbets__strawberry-sorbet.jpg)
+
+---
+
+# WATERMELON SORBET
+
+**Serves:** 1 | **Prep:** 15 MINS | **Cook:** 5 MINS
+
+## Macros
+
+| Calories | Fat | Carbs | Net Carbs | Protein |
+|----------|-----|-------|-----------|---------|
+| 99 | 0 | 46 | 26 | 3 |
+
+## Ingredients
+
+- 1 seedless watermelon
+
+### PINT INGREDIENTS
+
+- 330g seedless watermelon
+- 110g water
+- 20g granulated erythritol
+- 0.5g salt
+
+## Directions
+
+1. Wash and dry the outside of the watermelon and put it on the biggest cutting board you have.
+2. Cut the ends off the watermelon, trying to make sure to cut off as little of the pink part as possible, then cut the watermelon in half.
+3. Put half of the watermelon off to the side and the other half cut side down on the cutting board.
+4. Cut where the pink meets the white (the rind) and try to follow that all the way down.
+5. Go around the entire watermelon until there is no more rind remaining, but if a little rind remains, that is okay.
+6. Cube the red flesh of the watermelon and set aside.
+7. Repeat steps 3-6 for the other half of the watermelon.
+8. Load blender up, blend for 30 seconds or until watermelon is broken down, put into storage containers, and repeat until the entire watermelon has been pureed.
+9. Directly into a pint add Pint Ingredients and using a handheld blender, mix for 30 seconds.
+10. Put the top on the pint and freeze for 24 hours.
+11. Take the pint out of the freezer, run it under warm water for 60 seconds, dry the pint off, and load it into the CREAMi®.
+12. Run pint on the sorbet function and directly after on the re-spin function.
+13. Unload the pint and using a spoon, push the contents of the CREAMi® down, smooth and level the surface, load it back up, and hit the re-spin button.
+14. A perfect sorbet consistency has now been achieved and it is time to eat.
+
+## Tips
+
+Instead of blending every gram of watermelon, put some chunks in containers to have as a quick snack or great pre-workout meal.You can buy pre-cut fruit to make the first part of this process go much faster, but it will also be much more expensive to do so. In addition, after you cut and puree the watermelon you will have enough for 10+ sorbets, so it's worth putting the extra work in.
+
+![WATERMELON SORBET](../images/fruit-sorbets__watermelon-sorbet.jpg)
 
 ---
 
