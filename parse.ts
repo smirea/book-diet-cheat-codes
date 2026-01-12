@@ -22,7 +22,7 @@ const CONFIG = {
   recipesDir: "/Users/stefan/Downloads/book/recipes",
   imagesDir: "/Users/stefan/Downloads/book/images",
   progressFile: "/Users/stefan/Downloads/book/progress.json",
-  geminiApiKey: "AIzaSyC21LBlN7E3u4e4B2oX-wp-ioplsD0ZfU8",
+  geminiApiKey: process.env.GEMINI_API_KEY!,
   geminiModel: "gemini-2.5-flash",
   totalPages: 475,
 
