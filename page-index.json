@@ -1,0 +1,1874 @@
+[
+  {
+    "page": 46,
+    "title": "BREAKFAST",
+    "hasIngredients": false,
+    "hasMacros": false,
+    "hasDirections": false,
+    "category": ""
+  },
+  {
+    "page": 48,
+    "title": "BANANA PANCAKES",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Breakfast Bliss"
+  },
+  {
+    "page": 50,
+    "title": "JAPANESE PANCAKES",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Breakfast Bliss"
+  },
+  {
+    "page": 52,
+    "title": "15 MINS",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Breakfast Bliss"
+  },
+  {
+    "page": 54,
+    "title": "STRAWBERRY CHEESECAKE",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Breakfast Bliss"
+  },
+  {
+    "page": 55,
+    "title": "446 CALORIES",
+    "hasIngredients": false,
+    "hasMacros": true,
+    "hasDirections": false,
+    "category": ""
+  },
+  {
+    "page": 56,
+    "title": "FRENCH TOAST",
+    "hasIngredients": true,
+    "hasMacros": false,
+    "hasDirections": true,
+    "category": "Breakfast Bliss"
+  },
+  {
+    "page": 58,
+    "title": "BIRTHDAY CAKE",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Breakfast Bliss"
+  },
+  {
+    "page": 60,
+    "title": "BREAKFAST SAUSAGE",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Breakfast Bliss"
+  },
+  {
+    "page": 62,
+    "title": "NICKDONALD’S",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Breakfast Bliss"
+  },
+  {
+    "page": 64,
+    "title": "NICKDONALD’S BREAKFAST",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Breakfast Bliss"
+  },
+  {
+    "page": 66,
+    "title": "200 CALORIE",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Breakfast Bliss"
+  },
+  {
+    "page": 68,
+    "title": "KOREAN BREAKFAST",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Breakfast Bliss"
+  },
+  {
+    "page": 70,
+    "title": "HONEY BUTTER",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Breakfast Bliss"
+  },
+  {
+    "page": 71,
+    "title": "M A C R O S (PER SERVING)",
+    "hasIngredients": false,
+    "hasMacros": true,
+    "hasDirections": false,
+    "category": ""
+  },
+  {
+    "page": 72,
+    "title": "LEMON GLAZE MUFFINS",
+    "hasIngredients": true,
+    "hasMacros": false,
+    "hasDirections": true,
+    "category": "Breakfast Bliss"
+  },
+  {
+    "page": 74,
+    "title": "BANANA BREAD",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Breakfast Bliss"
+  },
+  {
+    "page": 75,
+    "title": "M A C R O S (PER SERVING)",
+    "hasIngredients": false,
+    "hasMacros": true,
+    "hasDirections": false,
+    "category": ""
+  },
+  {
+    "page": 76,
+    "title": "PUMPKIN PIE",
+    "hasIngredients": true,
+    "hasMacros": false,
+    "hasDirections": true,
+    "category": "Breakfast Bliss"
+  },
+  {
+    "page": 77,
+    "title": "M A C R O S (PER SERVING)",
+    "hasIngredients": false,
+    "hasMacros": true,
+    "hasDirections": false,
+    "category": ""
+  },
+  {
+    "page": 78,
+    "title": "JUMBO BLUEBERRY MUFFINS",
+    "hasIngredients": true,
+    "hasMacros": false,
+    "hasDirections": true,
+    "category": "Breakfast Bliss"
+  },
+  {
+    "page": 80,
+    "title": "JUMBO CHOCOLATE CHIP",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Breakfast Bliss"
+  },
+  {
+    "page": 82,
+    "title": "JUMBO TRIPLE CHOCOLATE",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Breakfast Bliss"
+  },
+  {
+    "page": 83,
+    "title": "258 CALORIES",
+    "hasIngredients": false,
+    "hasMacros": true,
+    "hasDirections": false,
+    "category": ""
+  },
+  {
+    "page": 84,
+    "title": "JUMBO PUMPKIN CHEESECAKE",
+    "hasIngredients": true,
+    "hasMacros": false,
+    "hasDirections": true,
+    "category": "Breakfast Bliss"
+  },
+  {
+    "page": 86,
+    "title": "MIDDAY",
+    "hasIngredients": false,
+    "hasMacros": false,
+    "hasDirections": false,
+    "category": ""
+  },
+  {
+    "page": 88,
+    "title": "CHICKEN STRIPS",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Midday Munchies"
+  },
+  {
+    "page": 90,
+    "title": "JALAPEÑO POPPER",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Midday Munchies"
+  },
+  {
+    "page": 91,
+    "title": "M A C R O S (PER SERVING)",
+    "hasIngredients": false,
+    "hasMacros": true,
+    "hasDirections": false,
+    "category": ""
+  },
+  {
+    "page": 92,
+    "title": "CHICKEN PARMESAN",
+    "hasIngredients": true,
+    "hasMacros": false,
+    "hasDirections": true,
+    "category": "Midday Munchies"
+  },
+  {
+    "page": 94,
+    "title": "MEATBALL SANDWICH",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Midday Munchies"
+  },
+  {
+    "page": 96,
+    "title": "REUBEN",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Midday Munchies"
+  },
+  {
+    "page": 98,
+    "title": "HAM AND CHEESE PITA",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Midday Munchies"
+  },
+  {
+    "page": 100,
+    "title": "CHEESY POBLANO",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Midday Munchies"
+  },
+  {
+    "page": 102,
+    "title": "DINNER IS",
+    "hasIngredients": false,
+    "hasMacros": false,
+    "hasDirections": false,
+    "category": ""
+  },
+  {
+    "page": 104,
+    "title": "STEAK TACOS",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Dinner is Served"
+  },
+  {
+    "page": 106,
+    "title": "SLOPPY JOES",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Dinner is Served"
+  },
+  {
+    "page": 108,
+    "title": "OG MAC AND CHEESE",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Dinner is Served"
+  },
+  {
+    "page": 110,
+    "title": "BUFFALO",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Dinner is Served"
+  },
+  {
+    "page": 111,
+    "title": "M A C R O S (PER SERVING)",
+    "hasIngredients": false,
+    "hasMacros": true,
+    "hasDirections": false,
+    "category": ""
+  },
+  {
+    "page": 112,
+    "title": "TACO",
+    "hasIngredients": true,
+    "hasMacros": false,
+    "hasDirections": true,
+    "category": "Dinner is Served"
+  },
+  {
+    "page": 114,
+    "title": "ITALIAN SAUSAGE",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Dinner is Served"
+  },
+  {
+    "page": 115,
+    "title": "M A C R O S (PER SERVING)",
+    "hasIngredients": false,
+    "hasMacros": true,
+    "hasDirections": false,
+    "category": ""
+  },
+  {
+    "page": 116,
+    "title": "NICKWRAP SUPREME",
+    "hasIngredients": true,
+    "hasMacros": false,
+    "hasDirections": true,
+    "category": "Dinner is Served"
+  },
+  {
+    "page": 118,
+    "title": "JALAPEÑO CHEESEBURGER",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Dinner is Served"
+  },
+  {
+    "page": 119,
+    "title": "M A C R O S (PER SERVING)",
+    "hasIngredients": false,
+    "hasMacros": true,
+    "hasDirections": false,
+    "category": ""
+  },
+  {
+    "page": 120,
+    "title": "BEEFY 5-LAYER",
+    "hasIngredients": true,
+    "hasMacros": false,
+    "hasDirections": true,
+    "category": "Dinner is Served"
+  },
+  {
+    "page": 121,
+    "title": "M A C R O S (PER SERVING)",
+    "hasIngredients": false,
+    "hasMacros": false,
+    "hasDirections": false,
+    "category": ""
+  },
+  {
+    "page": 122,
+    "title": "CHEESY GORDITA",
+    "hasIngredients": true,
+    "hasMacros": false,
+    "hasDirections": true,
+    "category": "Dinner is Served"
+  },
+  {
+    "page": 123,
+    "title": "M A C R O S (PER SERVING)",
+    "hasIngredients": false,
+    "hasMacros": true,
+    "hasDirections": false,
+    "category": ""
+  },
+  {
+    "page": 124,
+    "title": "MEXICAN PIZZA",
+    "hasIngredients": true,
+    "hasMacros": false,
+    "hasDirections": true,
+    "category": "Dinner is Served"
+  },
+  {
+    "page": 126,
+    "title": "NICKCHICKEN",
+    "hasIngredients": true,
+    "hasMacros": false,
+    "hasDirections": true,
+    "category": "Dinner is Served"
+  },
+  {
+    "page": 127,
+    "title": "DIRECTIONS, CONT",
+    "hasIngredients": false,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": ""
+  },
+  {
+    "page": 130,
+    "title": "GARLIC PARMESAN",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Dinner is Served"
+  },
+  {
+    "page": 131,
+    "title": "985 CALORIES",
+    "hasIngredients": false,
+    "hasMacros": true,
+    "hasDirections": false,
+    "category": ""
+  },
+  {
+    "page": 132,
+    "title": "CHEESY BREAD",
+    "hasIngredients": true,
+    "hasMacros": false,
+    "hasDirections": true,
+    "category": "Dinner is Served"
+  },
+  {
+    "page": 134,
+    "title": "SMASHBURGER",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Dinner is Served"
+  },
+  {
+    "page": 136,
+    "title": "CHICKEN GYRO",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Dinner is Served"
+  },
+  {
+    "page": 138,
+    "title": "CREAMY CAJUN CHICKEN",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Dinner is Served"
+  },
+  {
+    "page": 140,
+    "title": "MANICOTTI",
+    "hasIngredients": true,
+    "hasMacros": false,
+    "hasDirections": true,
+    "category": "Dinner is Served"
+  },
+  {
+    "page": 141,
+    "title": "CHEESE FILLING",
+    "hasIngredients": false,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Dinner is Served"
+  },
+  {
+    "page": 143,
+    "title": "M A C R O S (PER SERVING)",
+    "hasIngredients": false,
+    "hasMacros": true,
+    "hasDirections": false,
+    "category": ""
+  },
+  {
+    "page": 144,
+    "title": "MEATBALL SUB",
+    "hasIngredients": true,
+    "hasMacros": false,
+    "hasDirections": true,
+    "category": "Dinner is Served"
+  },
+  {
+    "page": 146,
+    "title": "MEATLOAF",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Dinner is Served"
+  },
+  {
+    "page": 148,
+    "title": "SMASHBURGER SALAD",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Dinner is Served"
+  },
+  {
+    "page": 149,
+    "title": "577 CALORIES",
+    "hasIngredients": false,
+    "hasMacros": true,
+    "hasDirections": false,
+    "category": ""
+  },
+  {
+    "page": 150,
+    "title": "ELOTE SALAD",
+    "hasIngredients": true,
+    "hasMacros": false,
+    "hasDirections": true,
+    "category": "Dinner is Served"
+  },
+  {
+    "page": 152,
+    "title": "CHICKEN GYRO SALAD",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Dinner is Served"
+  },
+  {
+    "page": 154,
+    "title": "1 HOUR CALZONE",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Dinner is Served"
+  },
+  {
+    "page": 156,
+    "title": "SAUSAGE AND PEPPERONI PIZZA",
+    "hasIngredients": true,
+    "hasMacros": false,
+    "hasDirections": true,
+    "category": "Dinner is Served"
+  },
+  {
+    "page": 157,
+    "title": "INGREDIENTS, CONT",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Dinner is Served"
+  },
+  {
+    "page": 160,
+    "title": "ITALIAN BEEF PIZZA",
+    "hasIngredients": true,
+    "hasMacros": false,
+    "hasDirections": true,
+    "category": "Dinner is Served"
+  },
+  {
+    "page": 161,
+    "title": "INGREDIENTS, CONT",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Dinner is Served"
+  },
+  {
+    "page": 164,
+    "title": "1 HOUR PIZZA",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Dinner is Served"
+  },
+  {
+    "page": 166,
+    "title": "BBQ CHICKEN",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Dinner is Served"
+  },
+  {
+    "page": 168,
+    "title": "CHEESE AND PEPPERONI",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Dinner is Served"
+  },
+  {
+    "page": 170,
+    "title": "PAN PIZZA",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Dinner is Served"
+  },
+  {
+    "page": 171,
+    "title": "M A C R O S (PER SERVING)",
+    "hasIngredients": false,
+    "hasMacros": true,
+    "hasDirections": false,
+    "category": ""
+  },
+  {
+    "page": 172,
+    "title": "DEEP DISH PIZZA",
+    "hasIngredients": true,
+    "hasMacros": false,
+    "hasDirections": true,
+    "category": "Dinner is Served"
+  },
+  {
+    "page": 173,
+    "title": "M A C R O S (PER SERVING)",
+    "hasIngredients": false,
+    "hasMacros": true,
+    "hasDirections": false,
+    "category": ""
+  },
+  {
+    "page": 174,
+    "title": "LOU’S SAUSAGE",
+    "hasIngredients": true,
+    "hasMacros": false,
+    "hasDirections": true,
+    "category": "Dinner is Served"
+  },
+  {
+    "page": 175,
+    "title": "DEEP DISH PROCESS",
+    "hasIngredients": false,
+    "hasMacros": false,
+    "hasDirections": false,
+    "category": "Dinner is Served"
+  },
+  {
+    "page": 178,
+    "title": "DETROIT PIZZA",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Dinner is Served"
+  },
+  {
+    "page": 180,
+    "title": "MARGHERITA PIZZA",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Dinner is Served"
+  },
+  {
+    "page": 182,
+    "title": "PIZZA POT PIE",
+    "hasIngredients": true,
+    "hasMacros": false,
+    "hasDirections": true,
+    "category": "Dinner is Served"
+  },
+  {
+    "page": 183,
+    "title": "INGREDIENTS, CONT",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Dinner is Served"
+  },
+  {
+    "page": 186,
+    "title": "CHICKEN",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Dinner is Served"
+  },
+  {
+    "page": 188,
+    "title": "SWEET",
+    "hasIngredients": false,
+    "hasMacros": false,
+    "hasDirections": false,
+    "category": ""
+  },
+  {
+    "page": 190,
+    "title": "BASQUE CHEESECAKE",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Sweet Treats"
+  },
+  {
+    "page": 192,
+    "title": "CRISPY RICE SQUARES",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Sweet Treats"
+  },
+  {
+    "page": 194,
+    "title": "CANDIED PECANS",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Sweet Treats"
+  },
+  {
+    "page": 196,
+    "title": "BLENDER",
+    "hasIngredients": false,
+    "hasMacros": false,
+    "hasDirections": false,
+    "category": "ICE CREAM"
+  },
+  {
+    "page": 198,
+    "title": "NICKFLURRY",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Blender Ice Cream"
+  },
+  {
+    "page": 200,
+    "title": "CRUNCHY CINNAMON SQUARES",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Blender Ice Cream"
+  },
+  {
+    "page": 202,
+    "title": "CRUNCHY CINNAMON SQUARE",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Blender Ice Cream"
+  },
+  {
+    "page": 203,
+    "title": "M A C R O S (PER SERVING)",
+    "hasIngredients": false,
+    "hasMacros": true,
+    "hasDirections": false,
+    "category": ""
+  },
+  {
+    "page": 204,
+    "title": "MINT CHOCOLATE COOKIE",
+    "hasIngredients": true,
+    "hasMacros": false,
+    "hasDirections": true,
+    "category": "Blender Ice Cream"
+  },
+  {
+    "page": 206,
+    "title": "SALTED CARAMEL FUDGE",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "which will stick directly onto the caramel. Pour the ice cream into your glass,"
+  },
+  {
+    "page": 208,
+    "title": "S’MORES PROTEIN",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Blender Ice Cream"
+  },
+  {
+    "page": 210,
+    "title": "COTTON CANDY",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Blender Ice Cream"
+  },
+  {
+    "page": 212,
+    "title": "OATMEAL CRÈME PIE",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Blender Ice Cream"
+  },
+  {
+    "page": 214,
+    "title": "HAZELNUT PROTEIN",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Blender Ice Cream"
+  },
+  {
+    "page": 216,
+    "title": "CARAMEL PUMPKIN SPICE",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Blender Ice Cream"
+  },
+  {
+    "page": 218,
+    "title": "PROTEIN ICE CREAM",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Blender Ice Cream"
+  },
+  {
+    "page": 220,
+    "title": "LEMON PROTEIN",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Blender Ice Cream"
+  },
+  {
+    "page": 222,
+    "title": "PEANUT BUTTER CUP",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Blender Ice Cream"
+  },
+  {
+    "page": 224,
+    "title": "STRAWBERRY DONUT",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Blender Ice Cream"
+  },
+  {
+    "page": 226,
+    "title": "BIRTHDAY CAKE",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Blender Ice Cream"
+  },
+  {
+    "page": 228,
+    "title": "PEPPERMINT CHIP",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Blender Ice Cream"
+  },
+  {
+    "page": 230,
+    "title": "CHOCOLATE CHIP",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Blender Ice Cream"
+  },
+  {
+    "page": 231,
+    "title": "489 CALORIES",
+    "hasIngredients": false,
+    "hasMacros": true,
+    "hasDirections": false,
+    "category": ""
+  },
+  {
+    "page": 232,
+    "title": "ANIMAL CRACKER",
+    "hasIngredients": true,
+    "hasMacros": false,
+    "hasDirections": true,
+    "category": "Blender Ice Cream"
+  },
+  {
+    "page": 234,
+    "title": "MINT COOKIE FREEZE",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Blender Ice Cream"
+  },
+  {
+    "page": 236,
+    "title": "PECAN PIE FREEZE",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Blender Ice Cream"
+  },
+  {
+    "page": 238,
+    "title": "STRAWBERRY SOFT SERVE",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Blender Ice Cream"
+  },
+  {
+    "page": 240,
+    "title": "ICE CREAM",
+    "hasIngredients": false,
+    "hasMacros": false,
+    "hasDirections": false,
+    "category": "ICE CREAM"
+  },
+  {
+    "page": 242,
+    "title": "VANILLA BASE",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Ice Cream Pints"
+  },
+  {
+    "page": 244,
+    "title": "VANILLA BASE",
+    "hasIngredients": true,
+    "hasMacros": false,
+    "hasDirections": true,
+    "category": "Ice Cream Pints"
+  },
+  {
+    "page": 246,
+    "title": "VANILLA BASE",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Ice Cream Pints"
+  },
+  {
+    "page": 248,
+    "title": "CHOCOLATE BASE “GOOD”",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Ice Cream Pints"
+  },
+  {
+    "page": 250,
+    "title": "CHOCOLATE BASE “BETTER”",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Ice Cream Pints"
+  },
+  {
+    "page": 252,
+    "title": "CHOCOLATE BASE “BEST”",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Ice Cream Pints"
+  },
+  {
+    "page": 254,
+    "title": "CHOCOLATE CHIP",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Ice Cream Pints"
+  },
+  {
+    "page": 256,
+    "title": "MINT CHOCOLATE CHIP",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "taste great in mint ice cream, but have their differences. McCormick’s® is"
+  },
+  {
+    "page": 258,
+    "title": "CHOCOLATE CHIP COOKIE DOUGH",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Ice Cream Pints"
+  },
+  {
+    "page": 260,
+    "title": "5 MINS",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Ice Cream Pints"
+  },
+  {
+    "page": 262,
+    "title": "OATMEAL CRÈME PIE",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Ice Cream Pints"
+  },
+  {
+    "page": 264,
+    "title": "FUDGE BROWNIE",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Ice Cream Pints"
+  },
+  {
+    "page": 266,
+    "title": "CHERRY CHOCOLATE CHUNK",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Ice Cream Pints"
+  },
+  {
+    "page": 268,
+    "title": "5 MINS",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Ice Cream Pints"
+  },
+  {
+    "page": 270,
+    "title": "FRUITY CRISPS",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Ice Cream Pints"
+  },
+  {
+    "page": 272,
+    "title": "CRUNCHY CINNAMON SQUARES",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Ice Cream Pints"
+  },
+  {
+    "page": 274,
+    "title": "MARSHMALLOWS +",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Ice Cream Pints"
+  },
+  {
+    "page": 276,
+    "title": "PEANUT BUTTER PUFFS",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Ice Cream Pints"
+  },
+  {
+    "page": 278,
+    "title": "ICE CREAM",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Ice Cream Pints"
+  },
+  {
+    "page": 280,
+    "title": "COCOA CRISPS",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Ice Cream Pints"
+  },
+  {
+    "page": 282,
+    "title": "APPLE PIE ICE CREAM",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Ice Cream Pints"
+  },
+  {
+    "page": 284,
+    "title": "EGGNOG ICE CREAM",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Ice Cream Pints"
+  },
+  {
+    "page": 286,
+    "title": "FRUIT",
+    "hasIngredients": false,
+    "hasMacros": false,
+    "hasDirections": false,
+    "category": ""
+  },
+  {
+    "page": 288,
+    "title": "WATERMELON SORBET",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": ""
+  },
+  {
+    "page": 290,
+    "title": "STRAWBERRY SORBET",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "T I P : If you want a more ice cream-like consistency, unload the pint after the"
+  },
+  {
+    "page": 292,
+    "title": "CANTALOUPE SORBET",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": ""
+  },
+  {
+    "page": 294,
+    "title": "RASPBERRY SORBET",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": ""
+  },
+  {
+    "page": 296,
+    "title": "GRAPEFRUIT SORBET",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": ""
+  },
+  {
+    "page": 298,
+    "title": "PEACH SORBET",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": ""
+  },
+  {
+    "page": 300,
+    "title": "DOUGH",
+    "hasIngredients": false,
+    "hasMacros": false,
+    "hasDirections": false,
+    "category": ""
+  },
+  {
+    "page": 302,
+    "title": "CHOCOLATE CHIP",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": ""
+  },
+  {
+    "page": 304,
+    "title": "CHOCOLATE CHIP",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": ""
+  },
+  {
+    "page": 306,
+    "title": "PEANUT BUTTER",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": ""
+  },
+  {
+    "page": 308,
+    "title": "SNICKERDOODLE",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": ""
+  },
+  {
+    "page": 310,
+    "title": "10 MINS",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": ""
+  },
+  {
+    "page": 312,
+    "title": "BIRTHDAY CAKE",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": ""
+  },
+  {
+    "page": 314,
+    "title": "SHARE-",
+    "hasIngredients": false,
+    "hasMacros": false,
+    "hasDirections": false,
+    "category": ""
+  },
+  {
+    "page": 316,
+    "title": "NICKDONALD’S FRENCH FRIES",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Shareables"
+  },
+  {
+    "page": 318,
+    "title": "CRISPY ROASTED POTATOES",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Shareables"
+  },
+  {
+    "page": 320,
+    "title": "MOZZARELLA STICKS",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Shareables"
+  },
+  {
+    "page": 322,
+    "title": "TACO EGG ROLLS",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Shareables"
+  },
+  {
+    "page": 324,
+    "title": "MAC AND CHEESE",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Shareables"
+  },
+  {
+    "page": 326,
+    "title": "DUMPLING FRIED RICE",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Shareables"
+  },
+  {
+    "page": 328,
+    "title": "SHRIMP FRIED RICE",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Shareables"
+  },
+  {
+    "page": 330,
+    "title": "KIMCHI FRIED RICE",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Shareables"
+  },
+  {
+    "page": 332,
+    "title": "BLT DIP",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Shareables"
+  },
+  {
+    "page": 334,
+    "title": "BUFFALO CHICKEN DIP",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Shareables"
+  },
+  {
+    "page": 336,
+    "title": "REFRIED BEANS",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Shareables"
+  },
+  {
+    "page": 338,
+    "title": "LET’S GET",
+    "hasIngredients": false,
+    "hasMacros": false,
+    "hasDirections": false,
+    "category": "SAUCY"
+  },
+  {
+    "page": 340,
+    "title": "FOOLPROOF",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Let’s Get Saucy"
+  },
+  {
+    "page": 342,
+    "title": "HOMEMADE MARINARA",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Let’s Get Saucy"
+  },
+  {
+    "page": 344,
+    "title": "SPICY RANCH",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Let’s Get Saucy"
+  },
+  {
+    "page": 346,
+    "title": "CHIPOTLE AIOLI",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Let’s Get Saucy"
+  },
+  {
+    "page": 348,
+    "title": "GARLIC",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Let’s Get Saucy"
+  },
+  {
+    "page": 350,
+    "title": "GARLIC",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Let’s Get Saucy"
+  },
+  {
+    "page": 352,
+    "title": "TZATZIKI SAUCE",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Let’s Get Saucy"
+  },
+  {
+    "page": 354,
+    "title": "SALSA CREMA",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Let’s Get Saucy"
+  },
+  {
+    "page": 356,
+    "title": "CILANTRO LIME SALSA",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Let’s Get Saucy"
+  },
+  {
+    "page": 358,
+    "title": "RUSSIAN DRESSING",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Let’s Get Saucy"
+  },
+  {
+    "page": 360,
+    "title": "MAPLE SYRUP",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Let’s Get Saucy"
+  },
+  {
+    "page": 362,
+    "title": "BUFFALO SAUCE",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Let’s Get Saucy"
+  },
+  {
+    "page": 364,
+    "title": "SWEET CHILI SAUCE",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Let’s Get Saucy"
+  },
+  {
+    "page": 366,
+    "title": "DOUGH-",
+    "hasIngredients": false,
+    "hasMacros": false,
+    "hasDirections": false,
+    "category": ""
+  },
+  {
+    "page": 368,
+    "title": "PROTEIN BREAD",
+    "hasIngredients": true,
+    "hasMacros": false,
+    "hasDirections": true,
+    "category": "Doughlicious"
+  },
+  {
+    "page": 369,
+    "title": "DIRECTIONS, CONT",
+    "hasIngredients": false,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Doughlicious"
+  },
+  {
+    "page": 370,
+    "title": "PROTEIN BREAD PROCESS",
+    "hasIngredients": false,
+    "hasMacros": false,
+    "hasDirections": false,
+    "category": "Doughlicious"
+  },
+  {
+    "page": 374,
+    "title": "PROTEIN BUNS",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Doughlicious"
+  },
+  {
+    "page": 375,
+    "title": "PROTEIN BUNS PROCESS",
+    "hasIngredients": false,
+    "hasMacros": false,
+    "hasDirections": false,
+    "category": "Doughlicious"
+  },
+  {
+    "page": 377,
+    "title": "M A C R O S (PER SERVING)",
+    "hasIngredients": false,
+    "hasMacros": true,
+    "hasDirections": false,
+    "category": ""
+  },
+  {
+    "page": 378,
+    "title": "POTATO BUNS",
+    "hasIngredients": true,
+    "hasMacros": false,
+    "hasDirections": true,
+    "category": "Doughlicious"
+  },
+  {
+    "page": 379,
+    "title": "POTATO BUNS PROCESS",
+    "hasIngredients": false,
+    "hasMacros": false,
+    "hasDirections": false,
+    "category": "Doughlicious"
+  },
+  {
+    "page": 382,
+    "title": "PROTEIN BAGUETTE",
+    "hasIngredients": true,
+    "hasMacros": false,
+    "hasDirections": true,
+    "category": "Doughlicious"
+  },
+  {
+    "page": 383,
+    "title": "DIRECTIONS, CONT",
+    "hasIngredients": false,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Doughlicious"
+  },
+  {
+    "page": 385,
+    "title": "PROTEIN BAGUETTE PROCESS",
+    "hasIngredients": false,
+    "hasMacros": false,
+    "hasDirections": false,
+    "category": "Doughlicious"
+  },
+  {
+    "page": 388,
+    "title": "HOAGIE ROLLS",
+    "hasIngredients": true,
+    "hasMacros": false,
+    "hasDirections": true,
+    "category": "Doughlicious"
+  },
+  {
+    "page": 389,
+    "title": "DIRECTIONS, CONT",
+    "hasIngredients": false,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Doughlicious"
+  },
+  {
+    "page": 391,
+    "title": "HOAGIE ROLLS PROCESS",
+    "hasIngredients": false,
+    "hasMacros": false,
+    "hasDirections": false,
+    "category": "Doughlicious"
+  },
+  {
+    "page": 394,
+    "title": "PROTEIN BREADSTICKS",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Doughlicious"
+  },
+  {
+    "page": 396,
+    "title": "PROTEIN PITA",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Doughlicious"
+  },
+  {
+    "page": 397,
+    "title": "PROTEIN PITA PROCESS",
+    "hasIngredients": false,
+    "hasMacros": false,
+    "hasDirections": false,
+    "category": "Doughlicious"
+  },
+  {
+    "page": 400,
+    "title": "BURRITO TORTILLAS",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Doughlicious"
+  },
+  {
+    "page": 402,
+    "title": "SCHOOL",
+    "hasIngredients": false,
+    "hasMacros": false,
+    "hasDirections": false,
+    "category": ""
+  },
+  {
+    "page": 404,
+    "title": "SAUSAGE EGG NICKMUFFIN",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Prep School"
+  },
+  {
+    "page": 406,
+    "title": "NICKCHICKEN MEAL PREP",
+    "hasIngredients": true,
+    "hasMacros": false,
+    "hasDirections": true,
+    "category": "Prep School"
+  },
+  {
+    "page": 407,
+    "title": "INGREDIENTS, CONT",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Prep School"
+  },
+  {
+    "page": 410,
+    "title": "$1 PAN PIZZA",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Prep School"
+  },
+  {
+    "page": 412,
+    "title": "$1 NEAPOLITAN PIZZA",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Prep School"
+  },
+  {
+    "page": 414,
+    "title": "$1 BREAKFAST BURRITO MEAL",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Prep School"
+  },
+  {
+    "page": 416,
+    "title": "$1 BURRITO MEAL PREP",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Prep School"
+  },
+  {
+    "page": 417,
+    "title": "M A C R O S (PER BURRITO)",
+    "hasIngredients": false,
+    "hasMacros": true,
+    "hasDirections": false,
+    "category": ""
+  },
+  {
+    "page": 418,
+    "title": "CHEESY BEEF BURRITOS",
+    "hasIngredients": true,
+    "hasMacros": false,
+    "hasDirections": true,
+    "category": "Prep School"
+  },
+  {
+    "page": 420,
+    "title": "STEAK FAJITA DINNER",
+    "hasIngredients": true,
+    "hasMacros": false,
+    "hasDirections": true,
+    "category": "Prep School"
+  },
+  {
+    "page": 421,
+    "title": "INGREDIENTS, CONT",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": ""
+  },
+  {
+    "page": 424,
+    "title": "CHICKEN NOODLE SOUP",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Prep School"
+  },
+  {
+    "page": 425,
+    "title": "M A C R O S (PER SERVING)",
+    "hasIngredients": false,
+    "hasMacros": true,
+    "hasDirections": false,
+    "category": ""
+  },
+  {
+    "page": 426,
+    "title": "CHICKEN PARM SANDWICH",
+    "hasIngredients": true,
+    "hasMacros": false,
+    "hasDirections": true,
+    "category": "Prep School"
+  },
+  {
+    "page": 428,
+    "title": "PULLED PORK + MAC",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Prep School"
+  },
+  {
+    "page": 430,
+    "title": "CHICKEN ALFREDO",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Prep School"
+  },
+  {
+    "page": 431,
+    "title": "M A C R O S (PER MEAL PREP)",
+    "hasIngredients": false,
+    "hasMacros": true,
+    "hasDirections": false,
+    "category": ""
+  },
+  {
+    "page": 432,
+    "title": "BEEF STROGANOFF",
+    "hasIngredients": true,
+    "hasMacros": false,
+    "hasDirections": true,
+    "category": "Prep School"
+  },
+  {
+    "page": 434,
+    "title": "CREAMY BEEF & SHELLS",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Prep School"
+  },
+  {
+    "page": 436,
+    "title": "CHICKEN TINGA TOSTADAS",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Prep School"
+  },
+  {
+    "page": 438,
+    "title": "PIZZA POT PIE MEAL PREP",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Prep School"
+  },
+  {
+    "page": 439,
+    "title": "DIRECTIONS, CONT",
+    "hasIngredients": true,
+    "hasMacros": false,
+    "hasDirections": true,
+    "category": "Prep School"
+  },
+  {
+    "page": 442,
+    "title": "BUFFALO WING COMBO MEAL",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Prep School"
+  },
+  {
+    "page": 444,
+    "title": "GARLIC PARMESAN WING",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Prep School"
+  },
+  {
+    "page": 446,
+    "title": "STUFFED CHEESY BREAD",
+    "hasIngredients": true,
+    "hasMacros": false,
+    "hasDirections": true,
+    "category": "Prep School"
+  },
+  {
+    "page": 447,
+    "title": "DIRECTIONS, CONT",
+    "hasIngredients": true,
+    "hasMacros": true,
+    "hasDirections": true,
+    "category": "Prep School"
+  },
+  {
+    "page": 450,
+    "title": "REFERENCE",
+    "hasIngredients": false,
+    "hasMacros": false,
+    "hasDirections": false,
+    "category": ""
+  },
+  {
+    "page": 451,
+    "title": "M A S T E R R E C I P E N U T R I T I O N TA B L E",
+    "hasIngredients": false,
+    "hasMacros": true,
+    "hasDirections": false,
+    "category": ""
+  },
+  {
+    "page": 452,
+    "title": "M A S T E R R E C I P E N U T R I T I O N TA B L E",
+    "hasIngredients": false,
+    "hasMacros": true,
+    "hasDirections": false,
+    "category": ""
+  },
+  {
+    "page": 453,
+    "title": "M A S T E R R E C I P E N U T R I T I O N TA B L E",
+    "hasIngredients": false,
+    "hasMacros": true,
+    "hasDirections": false,
+    "category": ""
+  },
+  {
+    "page": 454,
+    "title": "M A S T E R R E C I P E N U T R I T I O N TA B L E",
+    "hasIngredients": false,
+    "hasMacros": true,
+    "hasDirections": false,
+    "category": ""
+  },
+  {
+    "page": 455,
+    "title": "M A S T E R R E C I P E N U T R I T I O N TA B L E",
+    "hasIngredients": false,
+    "hasMacros": true,
+    "hasDirections": false,
+    "category": ""
+  },
+  {
+    "page": 457,
+    "title": "M E AT + S E A F O O D M A C R O S",
+    "hasIngredients": false,
+    "hasMacros": true,
+    "hasDirections": false,
+    "category": ""
+  },
+  {
+    "page": 458,
+    "title": "M E AT + S E A F O O D M A C R O S , C O N T",
+    "hasIngredients": false,
+    "hasMacros": true,
+    "hasDirections": false,
+    "category": ""
+  },
+  {
+    "page": 459,
+    "title": "M E AT + S E A F O O D M A C R O S",
+    "hasIngredients": false,
+    "hasMacros": true,
+    "hasDirections": false,
+    "category": ""
+  },
+  {
+    "page": 460,
+    "title": "M E AT + S E A F O O D M A C R O S , C O N T",
+    "hasIngredients": false,
+    "hasMacros": true,
+    "hasDirections": false,
+    "category": ""
+  }
+]
