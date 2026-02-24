@@ -10,7 +10,7 @@
 
 import { $ } from "bun";
 import { existsSync, mkdirSync, readFileSync, writeFileSync, readdirSync, unlinkSync } from "fs";
-import { join, dirname } from "path";
+import { join } from "path";
 
 // ============================================================================
 // Configuration
@@ -18,10 +18,10 @@ import { join, dirname } from "path";
 
 const CONFIG = {
   pdfPath: '',
-  outputDir: "/Users/stefan/Downloads/book",
-  recipesDir: "/Users/stefan/Downloads/book/recipes",
-  imagesDir: "/Users/stefan/Downloads/book/images",
-  progressFile: "/Users/stefan/Downloads/book/progress.json",
+  outputDir: process.cwd(),
+  recipesDir: join(process.cwd(), 'recipes'),
+  imagesDir: join(process.cwd(), 'images'),
+  progressFile: join(process.cwd(), 'progress.json'),
   geminiApiKey: process.env.GEMINI_API_KEY!,
   geminiModel: "gemini-2.5-flash",
   totalPages: 475,
@@ -137,6 +137,62 @@ async function runCommand(cmd: string): Promise<string> {
   return result.stdout.toString();
 }
 
+function expandHomePath(path: string): string {
+  if (!path.startsWith('~')) {
+    return path;
+  }
+  const home = process.env.HOME || '';
+  if (!home) {
+    return path;
+  }
+  return path === '~' ? home : join(home, path.slice(2));
+}
+
+function configureOutputPaths(outputDir: string): void {
+  const resolvedOutputDir = expandHomePath(outputDir);
+  CONFIG.outputDir = resolvedOutputDir;
+  CONFIG.recipesDir = join(resolvedOutputDir, 'recipes');
+  CONFIG.imagesDir = join(resolvedOutputDir, 'images');
+  CONFIG.progressFile = join(resolvedOutputDir, 'progress.json');
+}
+
+function createDefaultProgress(): Progress {
+  return {
+    lastUpdated: new Date().toISOString(),
+    overviewComplete: false,
+    recipesProcessed: [],
+    pagesProcessed: [],
+    currentPage: CONFIG.recipeStartPage,
+    totalRecipes: 0,
+    errors: [],
+  };
+}
+
+function normalizeProgress(progress: Progress): Progress {
+  const recipesProcessed = Array.from(new Set(progress.recipesProcessed));
+  const pagesProcessed = Array.from(new Set(progress.pagesProcessed)).sort((a, b) => a - b);
+  const currentPage = progress.currentPage && progress.currentPage > 0 ? progress.currentPage : CONFIG.recipeStartPage;
+  return {
+    ...progress,
+    recipesProcessed,
+    pagesProcessed,
+    currentPage,
+    totalRecipes: recipesProcessed.length,
+  };
+}
+
+function readProgressFile(filePath: string): Progress | null {
+  if (!existsSync(filePath)) {
+    return null;
+  }
+  try {
+    const data = readFileSync(filePath, 'utf-8');
+    return normalizeProgress(JSON.parse(data));
+  } catch {
+    return null;
+  }
+}
+
 let runtimeRecipeEndPage = CONFIG.recipeEndPage;
 let runtimeReferenceRange = { ...CONFIG.overviewPages.reference };
 
@@ -162,19 +218,7 @@ async function initializePdfLayout(): Promise<void> {
 }
 
 function loadProgress(): Progress {
-  if (existsSync(CONFIG.progressFile)) {
-    const data = readFileSync(CONFIG.progressFile, "utf-8");
-    return JSON.parse(data);
-  }
-  return {
-    lastUpdated: new Date().toISOString(),
-    overviewComplete: false,
-    recipesProcessed: [],
-    pagesProcessed: [],
-    currentPage: CONFIG.recipeStartPage,
-    totalRecipes: 0,
-    errors: [],
-  };
+  return readProgressFile(CONFIG.progressFile) || createDefaultProgress();
 }
 
 function saveProgress(progress: Progress): void {
@@ -865,11 +909,13 @@ Diet Cheat Codes PDF Parser
 
 Usage:
   bun run parse.ts <pdf-path>                    Process all recipes
+  bun run parse.ts <pdf-path> --output-dir <dir> Process all recipes to a custom output directory
   bun run parse.ts <pdf-path> --reparse <pages>  Re-parse specific pages
   bun run parse.ts --help                        Show this help
 
 Examples:
   bun run parse.ts "/path/to/Diet Cheat Codes 1526.pdf"
+  bun run parse.ts "/path/to/Diet Cheat Codes 1526.pdf" --output-dir ./book-export
   bun run parse.ts "/path/to/Diet Cheat Codes 1526.pdf" --reparse 47,48
                                               Re-parse pages 47-48 as single recipe
   bun run parse.ts "/path/to/Diet Cheat Codes 1526.pdf" --reparse 121,122,123
@@ -879,6 +925,7 @@ Examples:
 
 Options:
   <pdf-path>          Path to the Diet Cheat Codes PDF file
+  --output-dir <dir>  Output directory (default: current working directory)
   --reparse <pages>   Comma-separated list of page numbers to re-parse
   --name <filename>   Output filename (without .md extension)
   --help              Show this help message
@@ -894,13 +941,25 @@ async function main(): Promise<void> {
     return;
   }
 
+  const outputDirIndex = args.indexOf('--output-dir');
+  if (outputDirIndex !== -1 && !args[outputDirIndex + 1]) {
+    logError('--output-dir requires a directory path');
+    process.exit(1);
+  }
+
+  const outputDirArg = outputDirIndex !== -1
+    ? args[outputDirIndex + 1]
+    : process.cwd();
+
+  configureOutputPaths(outputDirArg);
+
   const pdfPath = args.find((arg, index) => {
     if (arg.startsWith('-')) {
       return false;
     }
 
     const previousArg = args[index - 1];
-    return previousArg !== '--reparse' && previousArg !== '--name';
+    return previousArg !== '--reparse' && previousArg !== '--name' && previousArg !== '--output-dir';
   });
 
   if (!pdfPath) {
@@ -943,6 +1002,7 @@ async function main(): Promise<void> {
   console.log("═══════════════════════════════════════════════════════════════");
   console.log("  Diet Cheat Codes PDF Parser");
   console.log("═══════════════════════════════════════════════════════════════");
+  console.log(`  Output directory: ${CONFIG.outputDir}`);
   console.log("");
 
   // Ensure directories exist
