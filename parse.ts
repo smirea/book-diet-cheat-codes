@@ -104,6 +104,8 @@ interface PageAnalysis {
   pageNumber: number;
 }
 
+type ProcessResult = 'processed' | 'skipped' | 'failed';
+
 // ============================================================================
 // Utility Functions
 // ============================================================================
@@ -234,6 +236,103 @@ function log(message: string): void {
 function logError(message: string): void {
   const timestamp = new Date().toISOString().slice(11, 19);
   console.error(`[${timestamp}] ERROR: ${message}`);
+}
+
+function getRecipeNameSlugFromIdentifier(identifier: string): string | null {
+  const normalizedIdentifier = identifier.endsWith('.md')
+    ? identifier.slice(0, -3)
+    : identifier;
+  if (!normalizedIdentifier) {
+    return null;
+  }
+  const parts = normalizedIdentifier.split('__');
+  const nameSlug = parts.length > 1 ? parts.slice(1).join('__') : normalizedIdentifier;
+  return nameSlug.trim() || null;
+}
+
+function createProcessedRecipeNameLookup(progress: Progress): Map<string, string> {
+  const lookup = new Map<string, string>();
+  const addIdentifier = (identifier: string): void => {
+    const normalizedIdentifier = identifier.endsWith('.md')
+      ? identifier.slice(0, -3)
+      : identifier;
+    const nameSlug = getRecipeNameSlugFromIdentifier(normalizedIdentifier);
+    if (!nameSlug || lookup.has(nameSlug)) {
+      return;
+    }
+    lookup.set(nameSlug, normalizedIdentifier);
+  };
+
+  progress.recipesProcessed.forEach(addIdentifier);
+
+  if (existsSync(CONFIG.recipesDir)) {
+    const recipeFiles = readdirSync(CONFIG.recipesDir).filter(file => file.endsWith('.md'));
+    recipeFiles.forEach(addIdentifier);
+  }
+
+  return lookup;
+}
+
+function trackRecipe(progress: Progress, filename: string): void {
+  if (!progress.recipesProcessed.includes(filename)) {
+    progress.recipesProcessed.push(filename);
+    progress.totalRecipes = progress.recipesProcessed.length;
+  }
+}
+
+function markRecipePagesProcessed(progress: Progress, recipePage: number, photoPage: number): void {
+  if (!progress.pagesProcessed.includes(recipePage)) {
+    progress.pagesProcessed.push(recipePage);
+  }
+  if (!progress.pagesProcessed.includes(photoPage)) {
+    progress.pagesProcessed.push(photoPage);
+  }
+  progress.currentPage = recipePage + 1;
+}
+
+function extractRecipeNameFromPageText(text: string): string | null {
+  const normalizedText = text.replace(/\r/g, '\n').replace(/\f/g, '\n');
+  const servesMatch = normalizedText.match(/\bSERVES\b/i);
+
+  if (!servesMatch || servesMatch.index === undefined) {
+    return null;
+  }
+
+  const headerText = normalizedText
+    .slice(0, servesMatch.index)
+    .replace(/DIET\s+CHEAT\s+CODES/ig, ' ')
+    .replace(/\b\d+\s*$/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+
+  if (!headerText) {
+    return null;
+  }
+
+  const blockedHeaders = new Set(['REFERENCE', 'REFERENCE TABLES', 'PREP SCHOOL']);
+  if (blockedHeaders.has(headerText.toUpperCase())) {
+    return null;
+  }
+
+  return headerText;
+}
+
+async function extractRecipeNameFromPdfPage(page: number): Promise<{ name: string; slug: string } | null> {
+  try {
+    const text = await extractPageText(page);
+    const name = extractRecipeNameFromPageText(text);
+    if (!name) {
+      return null;
+    }
+    const slug = slugify(name);
+    if (!slug) {
+      return null;
+    }
+    return { name, slug };
+  } catch (error: any) {
+    logError(`Failed to extract recipe name on page ${page}: ${error.message}`);
+    return null;
+  }
 }
 
 // ============================================================================
@@ -665,21 +764,36 @@ function getIncrementalRecipeStartPage(progress: Progress): number {
 async function processRecipe(
   recipePage: number,
   photoPage: number,
-  progress: Progress
-): Promise<boolean> {
+  progress: Progress,
+  processedRecipeNameLookup: Map<string, string>
+): Promise<ProcessResult> {
   try {
     log(`Processing page ${recipePage}...`);
+
+    const extractedName = await extractRecipeNameFromPdfPage(recipePage);
+    if (extractedName && processedRecipeNameLookup.has(extractedName.slug)) {
+      const existingRecipe = processedRecipeNameLookup.get(extractedName.slug)!;
+      trackRecipe(progress, existingRecipe);
+      markRecipePagesProcessed(progress, recipePage, photoPage);
+      saveProgress(progress);
+      log(`  Recipe "${extractedName.name}" already processed, skipping...`);
+      return 'skipped';
+    }
 
     const recipe = await parseRecipePage(recipePage);
     if (!recipe) {
       log(`  Page ${recipePage} is not a recipe page, skipping...`);
-      return false;
+      markRecipePagesProcessed(progress, recipePage, photoPage);
+      saveProgress(progress);
+      return 'skipped';
     }
 
     // Validate recipe has required fields
     if (!recipe.name || !recipe.ingredients || recipe.ingredients.length === 0) {
       log(`  Page ${recipePage} parsed but missing required fields, skipping...`);
-      return false;
+      markRecipePagesProcessed(progress, recipePage, photoPage);
+      saveProgress(progress);
+      return 'skipped';
     }
 
     // Generate filename
@@ -688,11 +802,13 @@ async function processRecipe(
     const filename = `${categorySlug}__${nameSlug}`;
 
     // Check if already processed
-    if (progress.recipesProcessed.includes(filename)) {
-      log(`  Recipe ${filename} already processed, skipping...`);
-      progress.pagesProcessed.push(recipePage);
+    if (processedRecipeNameLookup.has(nameSlug)) {
+      const existingRecipe = processedRecipeNameLookup.get(nameSlug)!;
+      trackRecipe(progress, existingRecipe);
+      markRecipePagesProcessed(progress, recipePage, photoPage);
       saveProgress(progress);
-      return true;
+      log(`  Recipe "${recipe.name}" already processed, skipping...`);
+      return 'skipped';
     }
 
     log(`  Found: ${recipe.name} (${recipe.category || "Unknown"})`);
@@ -709,15 +825,13 @@ async function processRecipe(
     writeFileSync(mdPath, markdown);
 
     // Update progress
-    progress.recipesProcessed.push(filename);
-    progress.pagesProcessed.push(recipePage);
-    progress.pagesProcessed.push(photoPage);
-    progress.totalRecipes = progress.recipesProcessed.length;
-    progress.currentPage = recipePage + 1;
+    processedRecipeNameLookup.set(nameSlug, filename);
+    trackRecipe(progress, filename);
+    markRecipePagesProcessed(progress, recipePage, photoPage);
     saveProgress(progress);
 
     log(`  Saved: ${filename}.md`);
-    return true;
+    return 'processed';
   } catch (error: any) {
     logError(`Failed to process page ${recipePage}: ${error.message}`);
     progress.errors.push({
@@ -726,13 +840,14 @@ async function processRecipe(
       timestamp: new Date().toISOString()
     });
     saveProgress(progress);
-    return false;
+    return 'failed';
   }
 }
 
 async function processAllRecipes(progress: Progress): Promise<void> {
   log("Starting recipe processing...");
   log(`Current progress: ${progress.recipesProcessed.length} recipes processed`);
+  const processedRecipeNameLookup = createProcessedRecipeNameLookup(progress);
 
   const startPage = getIncrementalRecipeStartPage(progress);
   const candidates = getRecipePageCandidates(startPage, runtimeRecipeEndPage);
@@ -748,9 +863,11 @@ async function processAllRecipes(progress: Progress): Promise<void> {
   for (const recipePage of toProcess) {
     const photoPage = recipePage - 1;
 
-    const success = await processRecipe(recipePage, photoPage, progress);
-    if (success) {
+    const result = await processRecipe(recipePage, photoPage, progress, processedRecipeNameLookup);
+    if (result === 'processed') {
       processed++;
+    } else if (result === 'skipped') {
+      skipped++;
     } else {
       // Mark page as processed even if failed so we don't retry
       if (!progress.pagesProcessed.includes(recipePage)) {
@@ -761,12 +878,12 @@ async function processAllRecipes(progress: Progress): Promise<void> {
     }
 
     // Log progress every 10 recipes
-    if ((processed + failed) % 10 === 0) {
-      log(`Progress: ${processed} processed, ${failed} failed, ${toProcess.length - processed - failed} remaining`);
+    if ((processed + skipped + failed) % 10 === 0) {
+      log(`Progress: ${processed} processed, ${skipped} skipped, ${failed} failed, ${toProcess.length - processed - skipped - failed} remaining`);
     }
   }
 
-  log(`Recipe processing complete: ${processed} processed, ${failed} failed`);
+  log(`Recipe processing complete: ${processed} processed, ${skipped} skipped, ${failed} failed`);
 }
 
 // ============================================================================
