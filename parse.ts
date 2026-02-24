@@ -5,7 +5,7 @@
  * Parses the cookbook PDF into structured markdown files using Gemini 2.5 Flash.
  * Supports resuming from where it left off via progress.json.
  *
- * Usage: bun run parse.ts
+ * Usage: bun run parse.ts <pdf-path>
  */
 
 import { $ } from "bun";
@@ -17,7 +17,7 @@ import { join, dirname } from "path";
 // ============================================================================
 
 const CONFIG = {
-  pdfPath: "/Users/stefan/Downloads/Diet Cheat Codes 1526.pdf",
+  pdfPath: '',
   outputDir: "/Users/stefan/Downloads/book",
   recipesDir: "/Users/stefan/Downloads/book/recipes",
   imagesDir: "/Users/stefan/Downloads/book/images",
@@ -38,7 +38,10 @@ const CONFIG = {
   // Recipe section starts around page 45
   recipeStartPage: 45,
   recipeEndPage: 460,
+  trailingNonRecipePages: 15,
 };
+
+const PDF_DOWNLOAD_URL = 'https://dietcheatcodes.com/d/confirm_email/7a94da0fdbc3593a523a9ac8d5ab1658be59efcd';
 
 // Category name mappings
 const CATEGORY_MAP: Record<string, string> = {
@@ -132,6 +135,30 @@ function getCategorySlug(category: string): string {
 async function runCommand(cmd: string): Promise<string> {
   const result = await $`sh -c ${cmd}`.quiet().nothrow();
   return result.stdout.toString();
+}
+
+let runtimeRecipeEndPage = CONFIG.recipeEndPage;
+let runtimeReferenceRange = { ...CONFIG.overviewPages.reference };
+
+async function initializePdfLayout(): Promise<void> {
+  const info = await runCommand(`pdfinfo "${CONFIG.pdfPath}"`);
+  const pagesMatch = info.match(/Pages:\s+(\d+)/);
+
+  if (!pagesMatch) {
+    log('Could not read PDF page count from pdfinfo, using configured page ranges');
+    runtimeRecipeEndPage = CONFIG.recipeEndPage;
+    runtimeReferenceRange = { ...CONFIG.overviewPages.reference };
+    return;
+  }
+
+  const totalPages = parseInt(pagesMatch[1], 10);
+  const computedRecipeEndPage = totalPages - CONFIG.trailingNonRecipePages;
+
+  runtimeRecipeEndPage = Math.max(CONFIG.recipeStartPage, computedRecipeEndPage);
+  runtimeReferenceRange = {
+    start: runtimeRecipeEndPage + 1,
+    end: Math.max(runtimeRecipeEndPage + 1, totalPages - 1),
+  };
 }
 
 function loadProgress(): Progress {
@@ -510,7 +537,7 @@ async function generateOverview(progress: Progress): Promise<void> {
 
   // Extract reference tables
   log("Extracting reference tables...");
-  const referenceText = await extractPageText(CONFIG.overviewPages.reference.start, CONFIG.overviewPages.reference.end);
+  const referenceText = await extractPageText(runtimeReferenceRange.start, runtimeReferenceRange.end);
   sections.push("## Reference Tables");
   sections.push("");
   sections.push(referenceText.trim());
@@ -576,6 +603,19 @@ function getRecipePageCandidates(startPage: number, endPage: number): number[] {
     }
   }
   return candidates;
+}
+
+function getIncrementalRecipeStartPage(progress: Progress): number {
+  const processedRecipePages = progress.pagesProcessed.filter(page => page >= CONFIG.recipeStartPage && page % 2 === 0);
+  const maxProcessedPage = processedRecipePages.length > 0
+    ? Math.max(...processedRecipePages)
+    : CONFIG.recipeStartPage - 2;
+  const currentPage = progress.currentPage && progress.currentPage > 0
+    ? progress.currentPage
+    : CONFIG.recipeStartPage;
+  const normalizedCurrentPage = currentPage % 2 === 0 ? currentPage : currentPage + 1;
+  const startPage = Math.max(CONFIG.recipeStartPage, maxProcessedPage + 2, normalizedCurrentPage);
+  return startPage % 2 === 0 ? startPage : startPage + 1;
 }
 
 async function processRecipe(
@@ -650,13 +690,12 @@ async function processAllRecipes(progress: Progress): Promise<void> {
   log("Starting recipe processing...");
   log(`Current progress: ${progress.recipesProcessed.length} recipes processed`);
 
-  // Get candidate recipe pages (every even page in recipe range)
-  const candidates = getRecipePageCandidates(CONFIG.recipeStartPage, CONFIG.recipeEndPage);
-
-  // Filter out already processed pages
+  const startPage = getIncrementalRecipeStartPage(progress);
+  const candidates = getRecipePageCandidates(startPage, runtimeRecipeEndPage);
   const toProcess = candidates.filter(page => !progress.pagesProcessed.includes(page));
 
-  log(`${toProcess.length} candidate pages to process (${candidates.length - toProcess.length} already done)`);
+  log(`Scanning recipe pages ${startPage}-${runtimeRecipeEndPage}`);
+  log(`${toProcess.length} candidate pages to process (${candidates.length - toProcess.length} already done in this range)`);
 
   let processed = 0;
   let skipped = 0;
@@ -825,17 +864,21 @@ function printUsage(): void {
 Diet Cheat Codes PDF Parser
 
 Usage:
-  bun run parse.ts                    Process all recipes
-  bun run parse.ts --reparse <pages>  Re-parse specific pages
-  bun run parse.ts --help             Show this help
+  bun run parse.ts <pdf-path>                    Process all recipes
+  bun run parse.ts <pdf-path> --reparse <pages>  Re-parse specific pages
+  bun run parse.ts --help                        Show this help
 
 Examples:
-  bun run parse.ts --reparse 47,48           Re-parse pages 47-48 as single recipe
-  bun run parse.ts --reparse 121,122,123     Re-parse multi-page recipe
-  bun run parse.ts --reparse 72 --name breakfast-bliss__lemon-glaze-muffins
+  bun run parse.ts "/path/to/Diet Cheat Codes 1526.pdf"
+  bun run parse.ts "/path/to/Diet Cheat Codes 1526.pdf" --reparse 47,48
+                                              Re-parse pages 47-48 as single recipe
+  bun run parse.ts "/path/to/Diet Cheat Codes 1526.pdf" --reparse 121,122,123
+                                              Re-parse multi-page recipe
+  bun run parse.ts "/path/to/Diet Cheat Codes 1526.pdf" --reparse 72 --name breakfast-bliss__lemon-glaze-muffins
                                               Re-parse and save with specific name
 
 Options:
+  <pdf-path>          Path to the Diet Cheat Codes PDF file
   --reparse <pages>   Comma-separated list of page numbers to re-parse
   --name <filename>   Output filename (without .md extension)
   --help              Show this help message
@@ -850,6 +893,23 @@ async function main(): Promise<void> {
     printUsage();
     return;
   }
+
+  const pdfPath = args.find((arg, index) => {
+    if (arg.startsWith('-')) {
+      return false;
+    }
+
+    const previousArg = args[index - 1];
+    return previousArg !== '--reparse' && previousArg !== '--name';
+  });
+
+  if (!pdfPath) {
+    console.log(`PDF path is required. Download it from "${PDF_DOWNLOAD_URL}"`);
+    process.exit(1);
+  }
+
+  CONFIG.pdfPath = pdfPath;
+  await initializePdfLayout();
 
   // Check for reparse mode
   const reparseIndex = args.indexOf("--reparse");
