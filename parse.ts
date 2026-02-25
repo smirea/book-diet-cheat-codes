@@ -106,6 +106,24 @@ interface PageAnalysis {
 
 type ProcessResult = 'processed' | 'skipped' | 'failed';
 
+interface ProcessingStats {
+  processed: number;
+  skipped: number;
+  failed: number;
+}
+
+interface RecipeTableEntry {
+  name: string;
+  section: string;
+  ratio: number;
+  calories: string;
+  protein: string;
+  fat: string;
+  carbs: string;
+  fiber: string;
+  file: string;
+}
+
 // ============================================================================
 // Utility Functions
 // ============================================================================
@@ -236,6 +254,192 @@ function log(message: string): void {
 function logError(message: string): void {
   const timestamp = new Date().toISOString().slice(11, 19);
   console.error(`[${timestamp}] ERROR: ${message}`);
+}
+
+function parseNumericValue(value: string): number | null {
+  const normalized = String(value).trim();
+  if (!normalized || normalized.toUpperCase() === 'N/A' || normalized.toLowerCase() === 'undefined') {
+    return null;
+  }
+  const match = normalized.match(/-?\d+(?:\.\d+)?/);
+  if (!match) {
+    return null;
+  }
+  const parsed = parseFloat(match[0]);
+  return Number.isFinite(parsed) ? parsed : null;
+}
+
+function formatNumber(value: number): string {
+  if (Number.isInteger(value)) {
+    return String(value);
+  }
+  return value.toFixed(2).replace(/\.?0+$/, '');
+}
+
+function titleCaseSlug(slug: string): string {
+  if (!slug.trim()) {
+    return '';
+  }
+  return slug
+    .split('-')
+    .filter(Boolean)
+    .map(part => part.charAt(0).toUpperCase() + part.slice(1))
+    .join(' ');
+}
+
+function escapeTableCell(value: string): string {
+  return value.replace(/\|/g, '\\|').trim();
+}
+
+function parseRecipeTableEntry(filePath: string, file: string): RecipeTableEntry | null {
+  const content = readFileSync(filePath, 'utf-8');
+  const lines = content.split(/\r?\n/);
+  const titleLine = lines.find(line => line.startsWith('# '));
+
+  if (!titleLine) {
+    return null;
+  }
+
+  const headerIndex = lines.findIndex(line => line.includes('| Calories |') && line.includes('Protein'));
+  if (headerIndex === -1) {
+    return null;
+  }
+
+  const dataLine = lines
+    .slice(headerIndex + 1)
+    .find(line => line.trim().startsWith('|') && !line.includes('---'));
+
+  if (!dataLine) {
+    return null;
+  }
+
+  const cells = dataLine
+    .split('|')
+    .map(cell => cell.trim())
+    .filter((_, index, array) => index > 0 && index < array.length - 1);
+
+  if (cells.length < 4) {
+    return null;
+  }
+
+  const calories = cells[0] || 'N/A';
+  const fat = cells[1] || 'N/A';
+  const carbs = cells[2] || 'N/A';
+  const netCarbs = cells.length >= 5 ? (cells[3] || 'N/A') : 'N/A';
+  const protein = cells.length >= 5 ? (cells[4] || 'N/A') : (cells[3] || 'N/A');
+
+  const caloriesNum = parseNumericValue(calories);
+  const proteinNum = parseNumericValue(protein);
+  const carbsNum = parseNumericValue(carbs);
+  const netCarbsNum = parseNumericValue(netCarbs);
+
+  const ratio = caloriesNum && caloriesNum > 0 && proteinNum !== null
+    ? proteinNum / caloriesNum
+    : 0;
+
+  const fiber = carbsNum !== null && netCarbsNum !== null
+    ? formatNumber(Math.max(0, carbsNum - netCarbsNum))
+    : 'N/A';
+
+  const filenameWithoutExtension = file.endsWith('.md') ? file.slice(0, -3) : file;
+  const categorySlug = filenameWithoutExtension.includes('__')
+    ? filenameWithoutExtension.split('__')[0]
+    : filenameWithoutExtension;
+
+  return {
+    name: titleLine.slice(2).trim(),
+    section: titleCaseSlug(categorySlug),
+    ratio,
+    calories,
+    protein,
+    fat,
+    carbs,
+    fiber,
+    file,
+  };
+}
+
+function generateRecipesTable(): number {
+  if (!existsSync(CONFIG.recipesDir)) {
+    const outputPath = join(CONFIG.outputDir, 'recipes-table.md');
+    writeFileSync(outputPath, '# Recipes Table\n\n*0 recipes sorted by protein/calorie ratio (descending)*\n');
+    log(`Recipes table saved to ${outputPath}`);
+    return 0;
+  }
+
+  const recipeFiles = readdirSync(CONFIG.recipesDir)
+    .filter(file => file.endsWith('.md'))
+    .sort();
+
+  const entries = recipeFiles
+    .map(file => parseRecipeTableEntry(join(CONFIG.recipesDir, file), file))
+    .filter((entry): entry is RecipeTableEntry => entry !== null);
+
+  entries.sort((a, b) => {
+    if (b.ratio !== a.ratio) {
+      return b.ratio - a.ratio;
+    }
+    return a.name.localeCompare(b.name);
+  });
+
+  const lines: string[] = [];
+  lines.push('# Recipes Table');
+  lines.push('');
+  lines.push(`*${entries.length} recipes sorted by protein/calorie ratio (descending)*`);
+  lines.push('');
+  lines.push('| Name | Section | Ratio | Calories | Protein | Fat | Carbs | Fiber | File |');
+  lines.push('|------|---------|-------|----------|---------|-----|-------|-------|------|');
+
+  for (const entry of entries) {
+    lines.push(
+      `| ${escapeTableCell(entry.name)} | ${escapeTableCell(entry.section)} | ${entry.ratio.toFixed(2)} | ${escapeTableCell(entry.calories)} | ${escapeTableCell(entry.protein)} | ${escapeTableCell(entry.fat)} | ${escapeTableCell(entry.carbs)} | ${escapeTableCell(entry.fiber)} | [${entry.file}](recipes/${entry.file}) |`
+    );
+  }
+
+  lines.push('');
+
+  const outputPath = join(CONFIG.outputDir, 'recipes-table.md');
+  writeFileSync(outputPath, lines.join('\n'));
+  log(`Recipes table saved to ${outputPath}`);
+
+  return entries.length;
+}
+
+function normalizeRecipeForCombinedDoc(content: string): string {
+  return content.replace(/\.\.\/images\//g, 'images/').trim();
+}
+
+function generateCombinedMarkdown(): number {
+  const overviewPath = join(CONFIG.outputDir, 'overview.md');
+  const recipeFiles = existsSync(CONFIG.recipesDir)
+    ? readdirSync(CONFIG.recipesDir).filter(file => file.endsWith('.md')).sort()
+    : [];
+
+  const sections: string[] = [];
+
+  if (existsSync(overviewPath)) {
+    sections.push(readFileSync(overviewPath, 'utf-8').trim());
+  }
+
+  for (const file of recipeFiles) {
+    const recipePath = join(CONFIG.recipesDir, file);
+    const recipeContent = readFileSync(recipePath, 'utf-8');
+    sections.push(normalizeRecipeForCombinedDoc(recipeContent));
+  }
+
+  const outputPath = join(CONFIG.outputDir, 'diet-cheat-codes.md');
+  const outputContent = sections.filter(Boolean).join('\n\n---\n\n');
+  writeFileSync(outputPath, `${outputContent}\n`);
+  log(`Combined markdown saved to ${outputPath}`);
+
+  return recipeFiles.length;
+}
+
+async function regenerateAncillaryFiles(progress: Progress): Promise<void> {
+  log('Regenerating ancillary files (overview, recipes-table, diet-cheat-codes)...');
+  await generateOverview(progress, true);
+  generateRecipesTable();
+  generateCombinedMarkdown();
 }
 
 function getRecipeNameSlugFromIdentifier(identifier: string): string | null {
@@ -632,13 +836,13 @@ function generateRecipeMarkdown(recipe: Recipe, imageFilename: string | null): s
   return lines.join("\n");
 }
 
-async function generateOverview(progress: Progress): Promise<void> {
-  if (progress.overviewComplete) {
+async function generateOverview(progress: Progress, force: boolean = false): Promise<boolean> {
+  if (progress.overviewComplete && !force) {
     log("Overview already complete, skipping...");
-    return;
+    return false;
   }
 
-  log("Generating overview.md...");
+  log(force ? 'Regenerating overview.md...' : 'Generating overview.md...');
 
   const sections: string[] = [];
   sections.push("# Diet Cheat Codes - Overview");
@@ -693,6 +897,7 @@ async function generateOverview(progress: Progress): Promise<void> {
   saveProgress(progress);
 
   log(`Overview saved to ${overviewPath}`);
+  return true;
 }
 
 // ============================================================================
@@ -844,7 +1049,7 @@ async function processRecipe(
   }
 }
 
-async function processAllRecipes(progress: Progress): Promise<void> {
+async function processAllRecipes(progress: Progress): Promise<ProcessingStats> {
   log("Starting recipe processing...");
   log(`Current progress: ${progress.recipesProcessed.length} recipes processed`);
   const processedRecipeNameLookup = createProcessedRecipeNameLookup(progress);
@@ -884,18 +1089,19 @@ async function processAllRecipes(progress: Progress): Promise<void> {
   }
 
   log(`Recipe processing complete: ${processed} processed, ${skipped} skipped, ${failed} failed`);
+  return { processed, skipped, failed };
 }
 
 // ============================================================================
 // Re-parse Single Recipe (for fixing issues)
 // ============================================================================
 
-async function reparseRecipe(pages: number[], outputName?: string): Promise<void> {
+async function reparseRecipe(pages: number[], outputName?: string): Promise<boolean> {
   log(`Re-parsing recipe from pages: ${pages.join(", ")}`);
 
   if (pages.length === 0) {
     logError("No pages specified");
-    return;
+    return false;
   }
 
   // Sort pages and determine photo vs recipe pages
@@ -914,7 +1120,7 @@ async function reparseRecipe(pages: number[], outputName?: string): Promise<void
 
   if (!recipe) {
     logError("Failed to parse recipe from provided pages");
-    return;
+    return false;
   }
 
   log(`  Parsed: ${recipe.name} (${recipe.category})`);
@@ -944,6 +1150,7 @@ async function reparseRecipe(pages: number[], outputName?: string): Promise<void
     progress.totalRecipes = progress.recipesProcessed.length;
   }
   saveProgress(progress);
+  return true;
 }
 
 async function parseMultiPageRecipe(imageBuffers: string[], pageNumbers: number[]): Promise<Recipe | null> {
@@ -1111,7 +1318,13 @@ async function main(): Promise<void> {
     mkdirSync(CONFIG.recipesDir, { recursive: true });
     mkdirSync(CONFIG.imagesDir, { recursive: true });
 
-    await reparseRecipe(pages, outputName);
+    const didWork = await reparseRecipe(pages, outputName);
+    if (didWork) {
+      const progress = loadProgress();
+      await regenerateAncillaryFiles(progress);
+    } else {
+      log('No work done, skipping ancillary file regeneration.');
+    }
     return;
   }
 
@@ -1146,11 +1359,15 @@ async function main(): Promise<void> {
   });
 
   try {
-    // Step 1: Generate overview if not done
-    await generateOverview(progress);
+    const overviewGenerated = await generateOverview(progress);
+    const processingStats = await processAllRecipes(progress);
+    const workDone = overviewGenerated || processingStats.processed > 0;
 
-    // Step 2: Process all recipes
-    await processAllRecipes(progress);
+    if (workDone) {
+      await regenerateAncillaryFiles(progress);
+    } else {
+      log('No work done, skipping ancillary file regeneration.');
+    }
 
     // Final summary
     console.log("");
