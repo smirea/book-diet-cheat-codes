@@ -27,4 +27,12 @@
 
 If you need to eat ASAP, put pita directly on a piece of parchment paper, add ham and cheese, wrap it up, and heat up in the microwave for 20-30 seconds. To finish, add mayonnaise and veggies.
 
-![HAM AND CHEESE PITA](../images/midday-munchies__ham-and-cheese-pita.jpg)
+![HAM AND CHEESE PITA](../images/lunch__ham-and-cheese-pita__p97.jpg)
+
+## Additional Recipe Pages
+
+![HAM AND CHEESE PITA - page 98](../images/lunch__ham-and-cheese-pita__p98.jpg)
+
+## Source Pages
+
+97, 98

@@ -14,9 +14,9 @@
 - 50g 2% milk
 - 4g vanilla extract
 - 1g salt
-- 192g Max Mallow®
+- 192g Max Mallow*
 - 97.2g Gorilla Mind Vanilla Ice Cream protein powder
-- 148g crispy rice cereal
+- 145g crispy rice cereal
 - Oil spray
 
 ## Directions
@@ -34,4 +34,12 @@
 
 Microwave one serving for 8-10 seconds for a warm, fresh crispy rice square.
 
-![CRISPY RICE SQUARES](../images/sweet-treats__crispy-rice-squares.jpg)
+![CRISPY RICE SQUARES](../images/desserts__crispy-rice-squares__p191.jpg)
+
+## Additional Recipe Pages
+
+![CRISPY RICE SQUARES - page 192](../images/desserts__crispy-rice-squares__p192.jpg)
+
+## Source Pages
+
+191, 192

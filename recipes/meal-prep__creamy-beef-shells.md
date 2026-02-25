@@ -6,7 +6,7 @@
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 526 | 15 | 53 | N/A | 44 |
+| 526 | 15 | 53 | undefined | 44 |
 
 ## Ingredients
 
@@ -20,9 +20,7 @@
 - 3g crushed red pepper
 - 1420g bone broth
 - 21g gelatin
-- 2382g Cento
-
-San Marzano Tomatoes, crushed
+- 2829g Cento San Marzano Tomatoes, crushed
 - 100g water
 - 12g salt (for pasta)
 - 908g medium shell pasta
@@ -54,4 +52,12 @@ San Marzano Tomatoes, crushed
 
 This recipe requires a 20 QT POT. If you don't have one, make 1/3 the recipe in a 5.5 qt pot for 6 servings.
 
-![CREAMY BEEF & SHELLS](../images/prep-school__creamy-beef-shells.jpg)
+![CREAMY BEEF & SHELLS](../images/meal-prep__creamy-beef-shells__p439.jpg)
+
+## Additional Recipe Pages
+
+![CREAMY BEEF & SHELLS - page 440](../images/meal-prep__creamy-beef-shells__p440.jpg)
+
+## Source Pages
+
+439, 440

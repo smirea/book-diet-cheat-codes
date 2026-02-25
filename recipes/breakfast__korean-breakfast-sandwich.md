@@ -21,7 +21,7 @@
 ### SANDWICH
 
 - Bagel (110 cal)
-- 2 slices jalapeño Velveeta®
+- 2 slices jalapeño Velveeta*
 - 56g Canadian bacon (60 cal)
 - ¼ fluffy eggs
 - 20g chipotle aioli
@@ -43,4 +43,12 @@
 13. Wrap sandwich in parchment, microwave for 30 seconds, and let rest (still wrapped) for 2 minutes to let the flavors mingle with each other.
 14. Cut in half and enjoy.
 
-![KOREAN BREAKFAST SANDWICH](../images/breakfast-bliss__korean-breakfast-sandwich.jpg)
+![KOREAN BREAKFAST SANDWICH](../images/breakfast__korean-breakfast-sandwich__p67.jpg)
+
+## Additional Recipe Pages
+
+![KOREAN BREAKFAST SANDWICH - page 68](../images/breakfast__korean-breakfast-sandwich__p68.jpg)
+
+## Source Pages
+
+67, 68

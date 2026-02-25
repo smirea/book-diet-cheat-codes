@@ -6,7 +6,7 @@
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 541 | 11 | 72 | N/A | 41 |
+| 541 | 11 | 72 | undefined | 41 |
 
 ## Ingredients
 
@@ -15,17 +15,18 @@
 - 700g chicken breast
 - 9g salt
 - 6g granulated erythritol
+- 3g baking soda
 
 ### WET STATION ONE
 
 - 230g water
 - 20g corn starch
 
-### DRY STATION
+### DRY STATION:
 
 - 90g all-purpose flour
 - 3g garlic powder
-- 3g paprika
+- 2g paprika
 - 3g salt
 - 2g white pepper
 - 3g black pepper
@@ -58,7 +59,7 @@
 ## Directions
 
 1. Add beef broth and sugar to a large bowl and whisk until sugar is dissolved.
-2. Peel potatoes and using a fry tower cutter, cut the potatoes into shoestring french fry size and add to beef broth mixture. Can also cut the fries by hand into 3/8" x 3/8" pieces to replicate the slim profile of a NickDonald's french fry.
+2. Peel potatoes and using a fry tower cutter, cut the potatoes into shoestring french fry size and add to beef broth mixture.
 3. Once all fries are added to the beef broth, mix fries around to keep them separated. Make sure all fries are covered with broth and set to the side.
 4. Preheat an air fryer to 400°F.
 5. Cut chicken breast into medium-sized chunks, add to blender, and pulse blender for 10-15 seconds or until it is a similar consistency to ground chicken.
@@ -75,17 +76,23 @@
 16. Cook chicken for 6-8 minutes in the air fryer or until chicken has reached an internal temperature of 165°F, flipping halfway through.
 17. Repeat until all chicken is cooked.
 18. While patties are cooking, drain broth out of the fries, and add fries to a salad spinner.
-19. Use salad spinner to get excess liquid off the fries and place them onto paper towels. If you don't have a salad spinner, paper towels will work by themselves, but you will just have to use more of them.
+19. Use salad spinner to get excess liquid off of the fries and place them onto paper towels.
 20. Using paper towels, pat the fries dry and once the final NickChicken is finished, lightly spray the bottom of the air fryer with oil.
 21. Add a layer of fries to the air fryer, lightly spray the top of the fries with oil, and repeat layering/oil combination until all fries are added.
-22. Cook at 400°F for 20-25 minutes, tossing every 5-6 minutes. Every time the fries are shaken or tossed, lightly spray them with oil.
+22. Cook at 400°F for 20-25 minutes, tossing every 5-6 minutes.
 23. Take fries out, add salt to taste, and shake them to evenly disperse salt.
 24. Thinly slice lettuce, add light mayo to condiment cups, lay out 5 meal prep containers, and let NickChickens and fries come to room temperature.
 25. Add NickChicken, fries, lettuce, and mayo to each meal prep container and refrigerate.
 26. When ready to chow down, toast the inside of a bun, place fries and NickChicken in a preheated 350°F air fryer for 3-4 minutes, plate it, and eat.
 
-## Tips
+![NICKCHICKEN MEAL PREP](../images/meal-prep__nickchicken-meal-prep__p411.jpg)
 
-Put some of the dry mix on a plate or in a separate container before putting patty into the dry station. Then you can easily add the dry mixture to the top of the patty after it is already in the dry station container.
+## Additional Recipe Pages
 
-![NICKCHICKEN MEAL PREP](../images/prep-school__nickchicken-meal-prep.jpg)
+![NICKCHICKEN MEAL PREP - page 412](../images/meal-prep__nickchicken-meal-prep__p412.jpg)
+
+![NICKCHICKEN MEAL PREP - page 413](../images/meal-prep__nickchicken-meal-prep__p413.jpg)
+
+## Source Pages
+
+411, 412, 413

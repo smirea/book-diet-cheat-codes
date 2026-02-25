@@ -36,9 +36,17 @@
 2. Add the rest of the Dry Ingredients to the bowl and whisk thoroughly.
 3. In a separate large bowl, microwave butter in ten second intervals until melted.
 4. Add the rest of the Wet Ingredients over the butter and whisk until combined.
-5. Add the Dry Ingredients to the Wet Ingredients in 3-4 parts and combine using a whisk. Once one part is fully mixed in, add another, and repeat until finished. * When mixture becomes too thick for the whisk, switch to a spatula.
+5. Add the Dry Ingredients to the Wet Ingredients in 3-4 parts and combine using a whisk. Once one part is fully mixed in, add another, and repeat until finished. When mixture becomes too thick for the whisk, switch to a spatula.
 6. To ensure everything is well combined, bring mixture up the sides of the bowl with the spatula and wipe down the sides of the bowl. Repeat this process 3-5 times.
 7. Add chocolate chips, mix until combined, and put in a container.
 8. Enjoy right away or for peak flavor, refrigerate for 24 hours.
 
-![CHOCOLATE CHIP COOKIE DOUGH](../images/cookie-dough__chocolate-chip-cookie-dough.jpg)
+![CHOCOLATE CHIP COOKIE DOUGH](../images/cookie-dough__chocolate-chip-cookie-dough__p301.jpg)
+
+## Additional Recipe Pages
+
+![CHOCOLATE CHIP COOKIE DOUGH - page 302](../images/cookie-dough__chocolate-chip-cookie-dough__p302.jpg)
+
+## Source Pages
+
+301, 302

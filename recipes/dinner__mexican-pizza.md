@@ -6,7 +6,7 @@
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 395 | 12 | 52 | 30 | 40 |
+| 0 |  |  | undefined |  |
 
 ## Ingredients
 
@@ -35,7 +35,7 @@
 
 - 2 La Banderita® Carb Counter taco tortillas
 - 80g fat-free refried beans
-- 100g Pizza Filling
+- 110g Pizza Filling
 - 20g enchilada sauce
 - 28g reduced-fat colby jack cheese
 - Tomatoes, diced
@@ -54,4 +54,8 @@
 10. Place the other tortilla on top of the ground beef, top with enchilada sauce and cheese, and bake in a preheated 350°F oven for 3-5 minutes.
 11. Garnish with tomatoes, cut into 4 pieces, and enjoy.
 
-![MEXICAN PIZZA](../images/dinner-is-served__mexican-pizza.jpg)
+![MEXICAN PIZZA](../images/dinner__mexican-pizza__p124.jpg)
+
+## Source Pages
+
+124

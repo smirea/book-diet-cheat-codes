@@ -10,10 +10,9 @@
 
 ## Ingredients
 
-- 480g ice
-
 ### SPIN 1
 
+- 480g ice
 - 130g 1% milk
 - 120g fat-free Greek yogurt
 - 4.2g vanilla extract
@@ -40,7 +39,15 @@
 3. Take blade out, mix everything around with a spatula, scrape off any dry ingredients stuck on the walls of blender, and replace blade.
 4. Add Spin 2 ingredients to blender in the order listed and blend for 1 minute on high.
 5. Take blade out, mix everything around with a spatula, scrape off any dry ingredients stuck on the walls of blender, and blend for 1 more minute.
-6. Add ½ the Mix-ins and stir together.
+6. Add 1/2 the Mix-ins and stir together.
 7. Top with remaining Mix-ins and it's time to eat.
 
-![COOKIES N' CREAM NICKFLURRY](../images/blender-ice-cream__cookies-n-cream-nickflurry.jpg)
+![COOKIES N' CREAM NICKFLURRY](../images/blender-ice-cream__cookies-n-cream-nickflurry__p197.jpg)
+
+## Additional Recipe Pages
+
+![COOKIES N' CREAM NICKFLURRY - page 198](../images/blender-ice-cream__cookies-n-cream-nickflurry__p198.jpg)
+
+## Source Pages
+
+197, 198

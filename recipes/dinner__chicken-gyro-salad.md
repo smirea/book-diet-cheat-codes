@@ -6,14 +6,13 @@
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 481 | 4 | 30 | N/A | 83 |
+| 481 | 46 | 30 | undefined | 83 |
 
 ## Ingredients
 
-- 4 chicken breasts
-
 ### CHICKEN MARINADE
 
+- 4 chicken breasts
 - 6g fresh parsley, chopped
 - 30g white vinegar
 - 10g garlic, minced
@@ -48,6 +47,14 @@
 
 ## Tips
 
-Although there is a lot of prep work for this recipe, if you make it once, you should have enough prepared ingredients for the entire week. The only thing you will have to prep each day is the lettuce, cucumber, and tomato - and even those can be prepared for multiple days at a time if you prefer.
+Although there is a lot of prep work for this recipe, if you make it once, you should have enough prepared ingredients for the entire week. The only thing you will have to prep each day is the lettuce, cucumber, and tomato – and even those can be prepared for multiple days at a time if you prefer.
 
-![CHICKEN GYRO SALAD](../images/dinner-is-served__chicken-gyro-salad.jpg)
+![CHICKEN GYRO SALAD](../images/dinner__chicken-gyro-salad__p151.jpg)
+
+## Additional Recipe Pages
+
+![CHICKEN GYRO SALAD - page 152](../images/dinner__chicken-gyro-salad__p152.jpg)
+
+## Source Pages
+
+151, 152

@@ -6,7 +6,7 @@
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 78 | 5 | 2 | N/A | 8 |
+| 78 | 5 | 2 | undefined | 8 |
 
 ## Ingredients
 
@@ -29,4 +29,12 @@
 
 I prefer to spend the extra couple minutes cooking fresh bacon to my preferred doneness. However, when short on time, real bacon bits are a great alternative.
 
-![BLT DIP](../images/shareables__blt-dip.jpg)
+![BLT DIP](../images/sides__blt-dip__p331.jpg)
+
+## Additional Recipe Pages
+
+![BLT DIP - page 332](../images/sides__blt-dip__p332.jpg)
+
+## Source Pages
+
+331, 332

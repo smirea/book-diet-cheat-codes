@@ -37,4 +37,12 @@
 7. Once the first spin is finished, load pint right back up for a re-spin.
 8. Load the pint back up, press the mix-in setting, and you now have eggnog ice cream for a fraction of the calories.
 
-![EGGNOG ICE CREAM](../images/ice-cream-pints__eggnog-ice-cream.jpg)
+![EGGNOG ICE CREAM](../images/ice-cream__eggnog-ice-cream__p283.jpg)
+
+## Additional Recipe Pages
+
+![EGGNOG ICE CREAM - page 284](../images/ice-cream__eggnog-ice-cream__p284.jpg)
+
+## Source Pages
+
+283, 284

@@ -43,4 +43,12 @@
 
 Leave a couple grams of cereal on the side to top your pint with when it is finished.
 
-![CRUNCHY CINNAMON SQUARES ICE CREAM](../images/ice-cream-pints__crunchy-cinnamon-squares-ice-cream.jpg)
+![CRUNCHY CINNAMON SQUARES ICE CREAM](../images/ice-cream__crunchy-cinnamon-squares-ice-cream__p271.jpg)
+
+## Additional Recipe Pages
+
+![CRUNCHY CINNAMON SQUARES ICE CREAM - page 272](../images/ice-cream__crunchy-cinnamon-squares-ice-cream__p272.jpg)
+
+## Source Pages
+
+271, 272

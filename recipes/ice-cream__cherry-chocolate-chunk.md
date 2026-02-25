@@ -46,4 +46,12 @@
 
 You can deseed, juice, and strain your own cherries in place of the jarred cherries and cherry juice. Also, you can make a homemade version of jarred cherries. Please refer to the recipe video for more detailed information.
 
-![CHERRY CHOCOLATE CHUNK](../images/ice-cream-pints__cherry-chocolate-chunk.jpg)
+![CHERRY CHOCOLATE CHUNK](../images/ice-cream__cherry-chocolate-chunk__p265.jpg)
+
+## Additional Recipe Pages
+
+![CHERRY CHOCOLATE CHUNK - page 266](../images/ice-cream__cherry-chocolate-chunk__p266.jpg)
+
+## Source Pages
+
+265, 266

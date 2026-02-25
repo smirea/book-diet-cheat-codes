@@ -29,4 +29,12 @@
 3. Heat a pan over medium heat and cook the patties for 2-3 minutes on one side, until browned.
 4. Flip the patties and cook for an additional 1-2 minutes.
 
-![NICKDONALD'S BREAKFAST SAUSAGE](../images/breakfast-bliss__nickdonalds-breakfast-sausage.jpg)
+![NICKDONALD'S BREAKFAST SAUSAGE](../images/breakfast__nickdonalds-breakfast-sausage__p61.jpg)
+
+## Additional Recipe Pages
+
+![NICKDONALD'S BREAKFAST SAUSAGE - page 62](../images/breakfast__nickdonalds-breakfast-sausage__p62.jpg)
+
+## Source Pages
+
+61, 62

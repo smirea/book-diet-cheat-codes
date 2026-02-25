@@ -6,7 +6,7 @@
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 517 | 18 | 70 | 34 | 54 |
+| 303 | 13 | 30 | 24 | 24 |
 
 ## Ingredients
 
@@ -41,7 +41,7 @@
 3. Lightly spray a pan with oil, turn burner on medium, and start adding small chunks of ground beef until all beef is in the pan.
 4. Once all beef is added, lightly spray the top of the meat with oil, then evenly add seasoning mix over the top. Add 15g of water to the pan.
 5. Stir meat every 1-2 minutes until browned.
-6. Set cooked meat aside in a container on or a plate and cover.
+6. Set cooked meat aside in a container or on a plate and cover.
 7. Place the taco tortillas on the counter, add La Preferida® cheddar cheese, and spread evenly across all tortillas.
 8. Take the refried beans, microwave for 20 seconds, and spread evenly across the center of the snack tortillas, leaving about an inch of bare tortilla on each side.
 9. Directly on top of the beans add seasoned beef, sour cream, and sharp cheddar cheese.
@@ -56,4 +56,12 @@
 
 If you can't get the snack size tortilla, you can use a taco tortilla and cut off about an inch around it to make it the same size.
 
-![BEEFY 5-LAYER BURRITOS](../images/dinner-is-served__beefy-5-layer-burritos.jpg)
+![BEEFY 5-LAYER BURRITOS](../images/dinner__beefy-5-layer-burritos__p120.jpg)
+
+## Additional Recipe Pages
+
+![BEEFY 5-LAYER BURRITOS - page 121](../images/dinner__beefy-5-layer-burritos__p121.jpg)
+
+## Source Pages
+
+120, 121

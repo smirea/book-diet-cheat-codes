@@ -6,13 +6,12 @@
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 271 | 3 | 42 | N/A | 21 |
+| 271 | 3 | 42 | undefined | 21 |
 
 ## Ingredients
 
 - 126g Banza® Noodles
 - 4g salt
-- Dash onion powder
 - Dash black pepper
 
 ### CHEESE MIX
@@ -22,6 +21,7 @@
 - 56g fat-free cheddar cheese
 - 60g fat-free milk
 - 4g garlic, minced
+- Dash onion powder
 
 ### EGG ROLL BUILD
 
@@ -49,4 +49,12 @@
 
 Make double the egg rolls, pull them from the freezer, and air fry whenever you need a quick snack or meal. Use these as an appetizer or as a side to another low-calorie entrée.
 
-![MAC AND CHEESE EGG ROLLS](../images/shareables__mac-and-cheese-egg-rolls.jpg)
+![MAC AND CHEESE EGG ROLLS](../images/sides__mac-and-cheese-egg-rolls__p323.jpg)
+
+## Additional Recipe Pages
+
+![MAC AND CHEESE EGG ROLLS - page 324](../images/sides__mac-and-cheese-egg-rolls__p324.jpg)
+
+## Source Pages
+
+323, 324

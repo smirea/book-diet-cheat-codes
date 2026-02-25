@@ -8,13 +8,16 @@
  * Usage: bun run parse.ts <pdf-path>
  */
 
-import { $ } from "bun";
-import { existsSync, mkdirSync, readFileSync, writeFileSync, readdirSync, unlinkSync } from "fs";
-import { join } from "path";
-
-// ============================================================================
-// Configuration
-// ============================================================================
+import { $ } from 'bun';
+import {
+  existsSync,
+  mkdirSync,
+  readFileSync,
+  writeFileSync,
+  readdirSync,
+  unlinkSync,
+} from 'fs';
+import { join } from 'path';
 
 const CONFIG = {
   pdfPath: '',
@@ -22,53 +25,85 @@ const CONFIG = {
   recipesDir: join(process.cwd(), 'recipes'),
   imagesDir: join(process.cwd(), 'images'),
   progressFile: join(process.cwd(), 'progress.json'),
-  geminiApiKey: process.env.GEMINI_API_KEY!,
-  geminiModel: "gemini-2.5-flash",
+  geminiApiKey: process.env.GEMINI_API_KEY || '',
+  geminiModel: 'gemini-2.5-flash',
   totalPages: 475,
-
-  // Page ranges for different sections
   overviewPages: {
-    intro: { start: 8, end: 15 },      // Introduction, disclaimers
-    pantry: { start: 16, end: 19 },    // Pantry Essentials
-    kitchen: { start: 20, end: 25 },   // Kitchen Gear
-    techniques: { start: 26, end: 44 }, // Cooking Techniques, FAQs, etc.
-    reference: { start: 461, end: 474 } // Reference Tables
+    intro: { start: 8, end: 15 },
+    pantry: { start: 16, end: 19 },
+    kitchen: { start: 20, end: 25 },
+    techniques: { start: 26, end: 44 },
+    reference: { start: 461, end: 474 },
   },
-
-  // Recipe section starts around page 45
   recipeStartPage: 45,
   recipeEndPage: 460,
-  trailingNonRecipePages: 15,
 };
 
 const PDF_DOWNLOAD_URL = 'https://dietcheatcodes.com/d/confirm_email/7a94da0fdbc3593a523a9ac8d5ab1658be59efcd';
 
-// Category name mappings
 const CATEGORY_MAP: Record<string, string> = {
-  "breakfast bliss": "breakfast-bliss",
-  "midday munchies": "midday-munchies",
-  "dinner is served": "dinner-is-served",
-  "sweet treats": "sweet-treats",
-  "ice cream pints": "ice-cream-pints",
-  "fruit sorbets": "fruit-sorbets",
-  "cookie dough": "cookie-dough",
-  "shareables": "shareables",
-  "let's get saucy": "lets-get-saucy",
-  "doughlicious": "doughlicious",
-  "prep school": "prep-school",
-  "blender ice cream": "blender-ice-cream",
-  "protein ice cream": "protein-ice-cream",
+  'breakfast bliss': 'breakfast-bliss',
+  'midday munchies': 'midday-munchies',
+  'dinner is served': 'dinner-is-served',
+  'sweet treats': 'sweet-treats',
+  'blender ice cream': 'blender-ice-cream',
+  'ice cream pints': 'ice-cream-pints',
+  'fruit sorbets': 'fruit-sorbets',
+  'cookie dough': 'cookie-dough',
+  'shareables': 'shareables',
+  "let's get saucy": 'lets-get-saucy',
+  'doughlicious': 'doughlicious',
+  'prep school': 'prep-school',
+  'protein ice cream': 'protein-ice-cream',
 };
 
-// ============================================================================
-// Types
-// ============================================================================
+const LEGACY_PREFIX_PRIORITY: Record<string, string[]> = {
+  'breakfast-bliss': ['breakfast', 'breakfast-bliss'],
+  'midday-munchies': ['lunch', 'midday-munchies'],
+  'dinner-is-served': ['dinner', 'dinner-is-served'],
+  'sweet-treats': ['desserts', 'sweet-treats'],
+  'blender-ice-cream': ['blender-ice-cream'],
+  'ice-cream-pints': ['ice-cream', 'ice-cream-pints'],
+  'fruit-sorbets': ['sorbets', 'fruit-sorbets'],
+  'cookie-dough': ['cookie-dough'],
+  'shareables': ['sides', 'shareables'],
+  'lets-get-saucy': ['sauces', 'lets-get-saucy'],
+  'doughlicious': ['breads', 'doughlicious'],
+  'prep-school': ['meal-prep', 'prep-school'],
+};
+
+const CATEGORY_PATTERNS: Array<{ slug: string; patterns: RegExp[] }> = [
+  { slug: 'breakfast-bliss', patterns: [/BREAKFAST\s*BLISS/i] },
+  { slug: 'midday-munchies', patterns: [/MIDDAY\s*MUNCHIES/i] },
+  { slug: 'dinner-is-served', patterns: [/DINNER\s*IS\s*SERVED/i] },
+  { slug: 'sweet-treats', patterns: [/SWEET\s*TREATS/i] },
+  { slug: 'blender-ice-cream', patterns: [/BLENDER\s*ICE\s*CREAM/i] },
+  { slug: 'ice-cream-pints', patterns: [/ICE\s*CREAM\s*PINTS/i] },
+  { slug: 'fruit-sorbets', patterns: [/FRUIT\s*SORBETS/i] },
+  { slug: 'cookie-dough', patterns: [/COOKIE\s*DOUGH/i] },
+  { slug: 'shareables', patterns: [/SHARE\s*-?\s*ABLES/i, /SHAREABLES/i] },
+  { slug: 'lets-get-saucy', patterns: [/LET[’']?S\s*GET\s*SAUCY/i] },
+  { slug: 'doughlicious', patterns: [/DOUGH\s*-?\s*LICIOUS/i] },
+  { slug: 'prep-school', patterns: [/PREP\s*SCHOOL/i] },
+];
+
+const HARD_BOUNDARY_PATTERNS: RegExp[] = [
+  /REFERENCE\s*TABLES?/i,
+  /RECIPE\s*PAGE\s*BREAKDOWN/i,
+  /MASTER\s*RECIPE\s*NUTRITION\s*TABLE/i,
+  /M\s*E\s*A\s*T\s*\+\s*S\s*E\s*A\s*F\s*O\s*O\s*D\s*M\s*A\s*C\s*R\s*O\s*S/i,
+  /FRUIT\s*MACROS/i,
+  /VEGETABLE\s*MACROS/i,
+  /SEASONING\s*MACROS/i,
+  /SATIETY\s*INDEX/i,
+];
 
 interface Progress {
   lastUpdated: string;
   overviewComplete: boolean;
   recipesProcessed: string[];
   pagesProcessed: number[];
+  rangeKeysProcessed: string[];
   currentPage: number;
   totalRecipes: number;
   errors: Array<{ page: number; error: string; timestamp: string }>;
@@ -96,20 +131,41 @@ interface Recipe {
   notes: string;
 }
 
-interface PageAnalysis {
-  isRecipePage: boolean;
-  isPhotoPage: boolean;
-  recipeName?: string;
-  category?: string;
-  pageNumber: number;
+interface PageMeta {
+  page: number;
+  wordCount: number;
+  isRecipeStart: boolean;
+  isContinuation: boolean;
+  isImageLike: boolean;
+  isBoundary: boolean;
+  sectionHint?: string;
 }
 
-type ProcessResult = 'processed' | 'skipped' | 'failed';
+interface RecipeRange {
+  startPage: number;
+  endPage: number;
+  pages: number[];
+  rangeKey: string;
+  nameHint?: string;
+  sectionHint?: string;
+}
+
+interface RangeScanResult {
+  pageTexts: string[];
+  pageMetas: PageMeta[];
+  recipeRanges: RecipeRange[];
+  recipeStartPage: number;
+  recipeEndPage: number;
+  referenceStartPage: number;
+  totalPages: number;
+}
 
 interface ProcessingStats {
   processed: number;
   skipped: number;
   failed: number;
+  keepRecipeFiles: Set<string>;
+  keepImageFiles: Set<string>;
 }
 
 interface RecipeTableEntry {
@@ -124,25 +180,35 @@ interface RecipeTableEntry {
   file: string;
 }
 
-// ============================================================================
-// Utility Functions
-// ============================================================================
+interface RecipeOutput {
+  filename: string;
+  imageFilenames: string[];
+}
+
+let runtimeTotalPages = CONFIG.totalPages;
+let runtimeRecipeStartPage = CONFIG.recipeStartPage;
+let runtimeRecipeEndPage = CONFIG.recipeEndPage;
+let runtimeReferenceRange = { ...CONFIG.overviewPages.reference };
+let cachedRangeScan: RangeScanResult | null = null;
 
 function slugify(text: string): string {
   return text
     .toLowerCase()
-    .replace(/[''"]/g, "")
-    .replace(/[^a-z0-9]+/g, "-")
-    .replace(/^-+|-+$/g, "")
-    .replace(/-+/g, "-");
+    .replace(/[’'"`]/g, '')
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '')
+    .replace(/-+/g, '-');
 }
 
 function cleanMacroValue(value: string): string {
   const trimmed = String(value).trim();
-  if (trimmed === "N/A" || trimmed === "" || trimmed === "0") {
-    return trimmed;
+  const normalized = trimmed.toLowerCase();
+  if (trimmed === '' || normalized === 'n/a' || normalized === 'undefined' || normalized === 'null') {
+    return 'N/A';
   }
-  // Extract just the number, removing G, g, and any text like FAT, CARBS, PROTEIN
+  if (trimmed === '0') {
+    return '0';
+  }
   const match = trimmed.match(/^(\d+(?:\.\d+)?)/);
   return match ? match[1] : trimmed;
 }
@@ -150,6 +216,41 @@ function cleanMacroValue(value: string): string {
 function getCategorySlug(category: string): string {
   const normalized = category.toLowerCase().trim();
   return CATEGORY_MAP[normalized] || slugify(category);
+}
+
+function titleCaseSlug(slug: string): string {
+  if (!slug.trim()) {
+    return '';
+  }
+  return slug
+    .split('-')
+    .filter(Boolean)
+    .map(part => part.charAt(0).toUpperCase() + part.slice(1))
+    .join(' ');
+}
+
+function parseNumericValue(value: string): number | null {
+  const normalized = String(value).trim();
+  if (!normalized || normalized.toUpperCase() === 'N/A' || normalized.toLowerCase() === 'undefined') {
+    return null;
+  }
+  const match = normalized.match(/-?\d+(?:\.\d+)?/);
+  if (!match) {
+    return null;
+  }
+  const parsed = parseFloat(match[0]);
+  return Number.isFinite(parsed) ? parsed : null;
+}
+
+function formatNumber(value: number): string {
+  if (Number.isInteger(value)) {
+    return String(value);
+  }
+  return value.toFixed(2).replace(/\.?0+$/, '');
+}
+
+function escapeTableCell(value: string): string {
+  return value.replace(/\|/g, '\\|').trim();
 }
 
 async function runCommand(cmd: string): Promise<string> {
@@ -182,22 +283,26 @@ function createDefaultProgress(): Progress {
     overviewComplete: false,
     recipesProcessed: [],
     pagesProcessed: [],
+    rangeKeysProcessed: [],
     currentPage: CONFIG.recipeStartPage,
     totalRecipes: 0,
     errors: [],
   };
 }
 
-function normalizeProgress(progress: Progress): Progress {
-  const recipesProcessed = Array.from(new Set(progress.recipesProcessed));
-  const pagesProcessed = Array.from(new Set(progress.pagesProcessed)).sort((a, b) => a - b);
-  const currentPage = progress.currentPage && progress.currentPage > 0 ? progress.currentPage : CONFIG.recipeStartPage;
+function normalizeProgress(progress: Partial<Progress>): Progress {
+  const recipesProcessed = Array.from(new Set(progress.recipesProcessed || [])).sort();
+  const pagesProcessed = Array.from(new Set(progress.pagesProcessed || [])).sort((a, b) => a - b);
+  const rangeKeysProcessed = Array.from(new Set(progress.rangeKeysProcessed || [])).sort();
   return {
-    ...progress,
+    lastUpdated: progress.lastUpdated || new Date().toISOString(),
+    overviewComplete: Boolean(progress.overviewComplete),
     recipesProcessed,
     pagesProcessed,
-    currentPage,
+    rangeKeysProcessed,
+    currentPage: progress.currentPage && progress.currentPage > 0 ? progress.currentPage : CONFIG.recipeStartPage,
     totalRecipes: recipesProcessed.length,
+    errors: Array.isArray(progress.errors) ? progress.errors : [],
   };
 }
 
@@ -213,36 +318,13 @@ function readProgressFile(filePath: string): Progress | null {
   }
 }
 
-let runtimeRecipeEndPage = CONFIG.recipeEndPage;
-let runtimeReferenceRange = { ...CONFIG.overviewPages.reference };
-
-async function initializePdfLayout(): Promise<void> {
-  const info = await runCommand(`pdfinfo "${CONFIG.pdfPath}"`);
-  const pagesMatch = info.match(/Pages:\s+(\d+)/);
-
-  if (!pagesMatch) {
-    log('Could not read PDF page count from pdfinfo, using configured page ranges');
-    runtimeRecipeEndPage = CONFIG.recipeEndPage;
-    runtimeReferenceRange = { ...CONFIG.overviewPages.reference };
-    return;
-  }
-
-  const totalPages = parseInt(pagesMatch[1], 10);
-  const computedRecipeEndPage = totalPages - CONFIG.trailingNonRecipePages;
-
-  runtimeRecipeEndPage = Math.max(CONFIG.recipeStartPage, computedRecipeEndPage);
-  runtimeReferenceRange = {
-    start: runtimeRecipeEndPage + 1,
-    end: Math.max(runtimeRecipeEndPage + 1, totalPages - 1),
-  };
-}
-
 function loadProgress(): Progress {
   return readProgressFile(CONFIG.progressFile) || createDefaultProgress();
 }
 
 function saveProgress(progress: Progress): void {
   progress.lastUpdated = new Date().toISOString();
+  progress.totalRecipes = Array.from(new Set(progress.recipesProcessed)).length;
   writeFileSync(CONFIG.progressFile, JSON.stringify(progress, null, 2));
 }
 
@@ -256,46 +338,267 @@ function logError(message: string): void {
   console.error(`[${timestamp}] ERROR: ${message}`);
 }
 
-function parseNumericValue(value: string): number | null {
-  const normalized = String(value).trim();
-  if (!normalized || normalized.toUpperCase() === 'N/A' || normalized.toLowerCase() === 'undefined') {
+async function initializePdfLayout(): Promise<void> {
+  const info = await runCommand(`pdfinfo "${CONFIG.pdfPath}"`);
+  const pagesMatch = info.match(/Pages:\s+(\d+)/);
+  if (!pagesMatch) {
+    log('Could not read PDF page count from pdfinfo, using configured page ranges');
+    runtimeTotalPages = CONFIG.totalPages;
+    runtimeRecipeStartPage = CONFIG.recipeStartPage;
+    runtimeRecipeEndPage = CONFIG.recipeEndPage;
+    runtimeReferenceRange = { ...CONFIG.overviewPages.reference };
+    return;
+  }
+  runtimeTotalPages = parseInt(pagesMatch[1], 10);
+}
+
+function getPageTextWordCount(pageText: string): number {
+  return pageText
+    .replace(/\r/g, '\n')
+    .split(/\s+/)
+    .map(token => token.trim())
+    .filter(Boolean).length;
+}
+
+function detectCategoryHint(pageText: string): string | undefined {
+  for (const category of CATEGORY_PATTERNS) {
+    if (category.patterns.some(pattern => pattern.test(pageText))) {
+      return category.slug;
+    }
+  }
+  return undefined;
+}
+
+function extractRecipeNameFromPageText(text: string): string | null {
+  const normalizedText = text.replace(/\r/g, '\n').replace(/\f/g, '\n');
+  const servesMatch = normalizedText.match(/\bSERVES\b/i);
+  if (!servesMatch || servesMatch.index === undefined) {
     return null;
   }
-  const match = normalized.match(/-?\d+(?:\.\d+)?/);
-  if (!match) {
+
+  const headerText = normalizedText
+    .slice(0, servesMatch.index)
+    .replace(/DIET\s+CHEAT\s+CODES/ig, ' ')
+    .replace(/\b\d+\s*$/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+
+  if (!headerText) {
     return null;
   }
-  const parsed = parseFloat(match[0]);
-  return Number.isFinite(parsed) ? parsed : null;
-}
 
-function formatNumber(value: number): string {
-  if (Number.isInteger(value)) {
-    return String(value);
+  const blockedHeaders = new Set(['REFERENCE', 'REFERENCE TABLES', 'PREP SCHOOL']);
+  if (blockedHeaders.has(headerText.toUpperCase())) {
+    return null;
   }
-  return value.toFixed(2).replace(/\.?0+$/, '');
+
+  return headerText;
 }
 
-function titleCaseSlug(slug: string): string {
-  if (!slug.trim()) {
-    return '';
+function classifyPage(
+  page: number,
+  pageText: string,
+  currentSectionHint?: string
+): { meta: PageMeta; nextSectionHint?: string } {
+  const wordCount = getPageTextWordCount(pageText);
+  const hasServes = /\bSERVES\b/i.test(pageText);
+  const hasIngredients = /\bINGREDIENTS\b/i.test(pageText);
+  const hasDirections = /\bDIRECTIONS\b/i.test(pageText);
+  const hasMacros = /\bMACROS\b|M\s*A\s*C\s*R\s*O\s*S/i.test(pageText);
+  const hasCont = /\bCONT\b|CONTINUATION/i.test(pageText);
+  const hasProcess = /\bPROCESS\b/i.test(pageText);
+  const hasStep = /\bSTEP\s*\d+/i.test(pageText);
+  const hasHeader = /DIET\s+CHEAT\s+CODES/i.test(pageText);
+  const hasRecipeBreakdown =
+    /RECIPE\s*PAGE\s*BREAKDOWN/i.test(pageText) || /If you tap on the book title/i.test(pageText);
+
+  const detectedCategory = detectCategoryHint(pageText);
+
+  const isRecipeStart = hasServes && hasIngredients && hasDirections && !hasRecipeBreakdown;
+  const isSectionDivider =
+    Boolean(detectedCategory) &&
+    wordCount <= 12 &&
+    !hasHeader &&
+    !hasServes &&
+    !hasIngredients &&
+    !hasDirections &&
+    !hasMacros &&
+    !hasCont &&
+    !hasProcess &&
+    !hasStep;
+
+  const isHardBoundary = HARD_BOUNDARY_PATTERNS.some(pattern => pattern.test(pageText));
+  const isBoundary = isSectionDivider || isHardBoundary || hasRecipeBreakdown;
+
+  const isContinuation =
+    !isRecipeStart &&
+    !isBoundary &&
+    (hasCont || hasProcess || hasStep || (!hasServes && (hasMacros || hasIngredients || hasDirections)));
+
+  const isImageLike = !isRecipeStart && !isContinuation && !isBoundary && wordCount <= 10;
+
+  const nextSectionHint = isSectionDivider ? detectedCategory : currentSectionHint;
+  const sectionHint = detectedCategory || currentSectionHint;
+
+  return {
+    meta: {
+      page,
+      wordCount,
+      isRecipeStart,
+      isContinuation,
+      isImageLike,
+      isBoundary,
+      sectionHint,
+    },
+    nextSectionHint,
+  };
+}
+
+async function extractAllPdfTextPages(): Promise<string[]> {
+  const fullText = await runCommand(`pdftotext "${CONFIG.pdfPath}" -`);
+  const split = fullText.split('\f');
+  const pages: string[] = [''];
+  for (let i = 0; i < split.length; i++) {
+    if (i === split.length - 1 && split[i].trim() === '') {
+      continue;
+    }
+    pages.push(split[i]);
   }
-  return slug
-    .split('-')
-    .filter(Boolean)
-    .map(part => part.charAt(0).toUpperCase() + part.slice(1))
-    .join(' ');
+  return pages;
 }
 
-function escapeTableCell(value: string): string {
-  return value.replace(/\|/g, '\\|').trim();
+function resolveRecipeRanges(
+  pageTexts: string[],
+  pageMetas: PageMeta[],
+  recipeStartPage: number,
+  recipeEndPage: number
+): RecipeRange[] {
+  const startPages: number[] = [];
+  for (let page = recipeStartPage; page <= recipeEndPage; page++) {
+    if (pageMetas[page]?.isRecipeStart) {
+      startPages.push(page);
+    }
+  }
+
+  const ranges: RecipeRange[] = [];
+
+  for (let index = 0; index < startPages.length; index++) {
+    const startPage = startPages[index];
+    const nextStartPage = startPages[index + 1] ?? recipeEndPage + 1;
+
+    const included = new Set<number>([startPage]);
+
+    if (startPage > 1 && pageMetas[startPage - 1]?.isImageLike) {
+      included.add(startPage - 1);
+    }
+
+    const betweenPages: number[] = [];
+    for (let page = startPage + 1; page < nextStartPage; page++) {
+      betweenPages.push(page);
+      if (pageMetas[page]?.isContinuation) {
+        included.add(page);
+      }
+    }
+
+    const hasContinuation = betweenPages.some(page => pageMetas[page]?.isContinuation);
+
+    if (hasContinuation) {
+      const trailingImageRun = new Set<number>();
+      for (let page = nextStartPage - 1; page > startPage; page--) {
+        if (pageMetas[page]?.isImageLike) {
+          trailingImageRun.add(page);
+        } else {
+          break;
+        }
+      }
+
+      for (const page of betweenPages) {
+        if (pageMetas[page]?.isImageLike && !trailingImageRun.has(page)) {
+          included.add(page);
+        }
+      }
+    }
+
+    const pages = Array.from(included).sort((a, b) => a - b);
+    const endPage = pages[pages.length - 1];
+    const nameHint = extractRecipeNameFromPageText(pageTexts[startPage] || '') || undefined;
+    const sectionHint = pageMetas[startPage]?.sectionHint;
+
+    ranges.push({
+      startPage,
+      endPage,
+      pages,
+      rangeKey: `${pages[0]}-${pages[pages.length - 1]}`,
+      nameHint,
+      sectionHint,
+    });
+  }
+
+  return ranges;
+}
+
+async function scanRecipeRanges(force = false): Promise<RangeScanResult> {
+  if (cachedRangeScan && !force) {
+    return cachedRangeScan;
+  }
+
+  const pageTexts = await extractAllPdfTextPages();
+
+  const pageMetas: PageMeta[] = [];
+  let sectionHint: string | undefined;
+
+  const totalPages = Math.min(runtimeTotalPages, pageTexts.length - 1);
+
+  for (let page = 1; page <= totalPages; page++) {
+    const pageText = pageTexts[page] || '';
+    const classified = classifyPage(page, pageText, sectionHint);
+    pageMetas[page] = classified.meta;
+    sectionHint = classified.nextSectionHint;
+  }
+
+  let recipeStartPage = CONFIG.recipeStartPage;
+  for (let page = 1; page <= totalPages; page++) {
+    if (pageMetas[page]?.isRecipeStart) {
+      recipeStartPage = page;
+      break;
+    }
+  }
+
+  let recipeEndPage = totalPages;
+  for (let page = recipeStartPage + 1; page <= totalPages; page++) {
+    if (/REFERENCE\s*TABLES?/i.test(pageTexts[page] || '')) {
+      recipeEndPage = page - 1;
+      break;
+    }
+  }
+
+  const referenceStartPage = Math.min(recipeEndPage + 1, totalPages);
+  const recipeRanges = resolveRecipeRanges(pageTexts, pageMetas, recipeStartPage, recipeEndPage);
+
+  runtimeRecipeStartPage = recipeStartPage;
+  runtimeRecipeEndPage = recipeEndPage;
+  runtimeReferenceRange = {
+    start: referenceStartPage,
+    end: totalPages,
+  };
+
+  cachedRangeScan = {
+    pageTexts,
+    pageMetas,
+    recipeRanges,
+    recipeStartPage,
+    recipeEndPage,
+    referenceStartPage,
+    totalPages,
+  };
+
+  return cachedRangeScan;
 }
 
 function parseRecipeTableEntry(filePath: string, file: string): RecipeTableEntry | null {
   const content = readFileSync(filePath, 'utf-8');
   const lines = content.split(/\r?\n/);
   const titleLine = lines.find(line => line.startsWith('# '));
-
   if (!titleLine) {
     return null;
   }
@@ -333,13 +636,10 @@ function parseRecipeTableEntry(filePath: string, file: string): RecipeTableEntry
   const carbsNum = parseNumericValue(carbs);
   const netCarbsNum = parseNumericValue(netCarbs);
 
-  const ratio = caloriesNum && caloriesNum > 0 && proteinNum !== null
-    ? proteinNum / caloriesNum
-    : 0;
+  const ratio = caloriesNum && caloriesNum > 0 && proteinNum !== null ? proteinNum / caloriesNum : 0;
 
-  const fiber = carbsNum !== null && netCarbsNum !== null
-    ? formatNumber(Math.max(0, carbsNum - netCarbsNum))
-    : 'N/A';
+  const fiber =
+    carbsNum !== null && netCarbsNum !== null ? formatNumber(Math.max(0, carbsNum - netCarbsNum)) : 'N/A';
 
   const filenameWithoutExtension = file.endsWith('.md') ? file.slice(0, -3) : file;
   const categorySlug = filenameWithoutExtension.includes('__')
@@ -435,6 +735,65 @@ function generateCombinedMarkdown(): number {
   return recipeFiles.length;
 }
 
+async function generateOverview(progress: Progress, force = false): Promise<boolean> {
+  if (progress.overviewComplete && !force) {
+    log('Overview already complete, skipping...');
+    return false;
+  }
+
+  log(force ? 'Regenerating overview.md...' : 'Generating overview.md...');
+
+  const sections: string[] = [];
+  sections.push('# Diet Cheat Codes - Overview');
+  sections.push('');
+  sections.push('*A comprehensive guide to making delicious, low-calorie versions of your favorite foods.*');
+  sections.push('');
+
+  log('Extracting introduction...');
+  const introText = await extractPageText(CONFIG.overviewPages.intro.start, CONFIG.overviewPages.intro.end);
+  sections.push('## Introduction');
+  sections.push('');
+  sections.push(introText.trim());
+  sections.push('');
+
+  log('Extracting pantry essentials...');
+  const pantryText = await extractPageText(CONFIG.overviewPages.pantry.start, CONFIG.overviewPages.pantry.end);
+  sections.push('## Pantry Essentials');
+  sections.push('');
+  sections.push(pantryText.trim());
+  sections.push('');
+
+  log('Extracting kitchen gear...');
+  const kitchenText = await extractPageText(CONFIG.overviewPages.kitchen.start, CONFIG.overviewPages.kitchen.end);
+  sections.push('## Kitchen Gear');
+  sections.push('');
+  sections.push(kitchenText.trim());
+  sections.push('');
+
+  log('Extracting cooking techniques...');
+  const techniquesText = await extractPageText(CONFIG.overviewPages.techniques.start, CONFIG.overviewPages.techniques.end);
+  sections.push('## Cooking Techniques & FAQs');
+  sections.push('');
+  sections.push(techniquesText.trim());
+  sections.push('');
+
+  log('Extracting reference tables...');
+  const referenceText = await extractPageText(runtimeReferenceRange.start, runtimeReferenceRange.end);
+  sections.push('## Reference Tables');
+  sections.push('');
+  sections.push(referenceText.trim());
+  sections.push('');
+
+  const overviewPath = join(CONFIG.outputDir, 'overview.md');
+  writeFileSync(overviewPath, sections.join('\n'));
+
+  progress.overviewComplete = true;
+  saveProgress(progress);
+
+  log(`Overview saved to ${overviewPath}`);
+  return true;
+}
+
 async function regenerateAncillaryFiles(progress: Progress): Promise<void> {
   log('Regenerating ancillary files (overview, recipes-table, diet-cheat-codes)...');
   await generateOverview(progress, true);
@@ -442,233 +801,124 @@ async function regenerateAncillaryFiles(progress: Progress): Promise<void> {
   generateCombinedMarkdown();
 }
 
-function getRecipeNameSlugFromIdentifier(identifier: string): string | null {
-  const normalizedIdentifier = identifier.endsWith('.md')
-    ? identifier.slice(0, -3)
-    : identifier;
-  if (!normalizedIdentifier) {
-    return null;
-  }
-  const parts = normalizedIdentifier.split('__');
-  const nameSlug = parts.length > 1 ? parts.slice(1).join('__') : normalizedIdentifier;
-  return nameSlug.trim() || null;
-}
-
-function createProcessedRecipeNameLookup(progress: Progress): Map<string, string> {
-  const lookup = new Map<string, string>();
-  const addIdentifier = (identifier: string): void => {
-    const normalizedIdentifier = identifier.endsWith('.md')
-      ? identifier.slice(0, -3)
-      : identifier;
-    const nameSlug = getRecipeNameSlugFromIdentifier(normalizedIdentifier);
-    if (!nameSlug || lookup.has(nameSlug)) {
-      return;
-    }
-    lookup.set(nameSlug, normalizedIdentifier);
-  };
-
-  progress.recipesProcessed.forEach(addIdentifier);
-
-  if (existsSync(CONFIG.recipesDir)) {
-    const recipeFiles = readdirSync(CONFIG.recipesDir).filter(file => file.endsWith('.md'));
-    recipeFiles.forEach(addIdentifier);
-  }
-
-  return lookup;
-}
-
-function trackRecipe(progress: Progress, filename: string): void {
-  if (!progress.recipesProcessed.includes(filename)) {
-    progress.recipesProcessed.push(filename);
-    progress.totalRecipes = progress.recipesProcessed.length;
-  }
-}
-
-function markRecipePagesProcessed(progress: Progress, recipePage: number, photoPage: number): void {
-  if (!progress.pagesProcessed.includes(recipePage)) {
-    progress.pagesProcessed.push(recipePage);
-  }
-  if (!progress.pagesProcessed.includes(photoPage)) {
-    progress.pagesProcessed.push(photoPage);
-  }
-  progress.currentPage = recipePage + 1;
-}
-
-function extractRecipeNameFromPageText(text: string): string | null {
-  const normalizedText = text.replace(/\r/g, '\n').replace(/\f/g, '\n');
-  const servesMatch = normalizedText.match(/\bSERVES\b/i);
-
-  if (!servesMatch || servesMatch.index === undefined) {
-    return null;
-  }
-
-  const headerText = normalizedText
-    .slice(0, servesMatch.index)
-    .replace(/DIET\s+CHEAT\s+CODES/ig, ' ')
-    .replace(/\b\d+\s*$/g, ' ')
-    .replace(/\s+/g, ' ')
-    .trim();
-
-  if (!headerText) {
-    return null;
-  }
-
-  const blockedHeaders = new Set(['REFERENCE', 'REFERENCE TABLES', 'PREP SCHOOL']);
-  if (blockedHeaders.has(headerText.toUpperCase())) {
-    return null;
-  }
-
-  return headerText;
-}
-
-async function extractRecipeNameFromPdfPage(page: number): Promise<{ name: string; slug: string } | null> {
-  try {
-    const text = await extractPageText(page);
-    const name = extractRecipeNameFromPageText(text);
-    if (!name) {
-      return null;
-    }
-    const slug = slugify(name);
-    if (!slug) {
-      return null;
-    }
-    return { name, slug };
-  } catch (error: any) {
-    logError(`Failed to extract recipe name on page ${page}: ${error.message}`);
-    return null;
-  }
-}
-
-// ============================================================================
-// PDF Processing Functions
-// ============================================================================
-
 async function extractPageText(startPage: number, endPage: number = startPage): Promise<string> {
   const cmd = `pdftotext -f ${startPage} -l ${endPage} "${CONFIG.pdfPath}" -`;
   return runCommand(cmd);
 }
 
 async function extractPageImage(page: number, outputPath: string): Promise<void> {
-  // Convert PDF page to PNG image for Gemini
   const cmd = `pdftoppm -f ${page} -l ${page} -png -r 150 "${CONFIG.pdfPath}" "${outputPath}"`;
   await runCommand(cmd);
-}
-
-async function extractAllImages(): Promise<void> {
-  log("Extracting all images from PDF (this may take a while)...");
-  const tempDir = join(CONFIG.outputDir, "temp_images");
-  mkdirSync(tempDir, { recursive: true });
-
-  // Extract all images from PDF
-  const cmd = `pdfimages -j "${CONFIG.pdfPath}" "${tempDir}/img"`;
-  await runCommand(cmd);
-
-  log(`Images extracted to ${tempDir}`);
 }
 
 async function getPageImageBase64(page: number): Promise<string> {
   const tempPath = join(CONFIG.outputDir, `temp_page_${page}`);
   await extractPageImage(page, tempPath);
 
-  // pdftoppm adds suffix like -1.png
   const imagePath = `${tempPath}-${page.toString().padStart(1, '0')}.png`;
   const altPath = `${tempPath}-01.png`;
   const actualPath = existsSync(imagePath) ? imagePath : existsSync(altPath) ? altPath : `${tempPath}-1.png`;
 
   if (!existsSync(actualPath)) {
-    // Try to find any matching file
-    const files = readdirSync(CONFIG.outputDir).filter(f => f.startsWith(`temp_page_${page}`));
+    const files = readdirSync(CONFIG.outputDir).filter(file => file.startsWith(`temp_page_${page}`));
     if (files.length > 0) {
       const foundPath = join(CONFIG.outputDir, files[0]);
       const buffer = readFileSync(foundPath);
       unlinkSync(foundPath);
-      return buffer.toString("base64");
+      return buffer.toString('base64');
     }
     throw new Error(`Could not find extracted image for page ${page}`);
   }
 
   const buffer = readFileSync(actualPath);
-  unlinkSync(actualPath); // Clean up temp file
-  return buffer.toString("base64");
+  unlinkSync(actualPath);
+  return buffer.toString('base64');
 }
 
-// ============================================================================
-// Gemini API Integration
-// ============================================================================
+async function extractRecipeImage(page: number, outputFilename: string): Promise<boolean> {
+  const outputPath = join(CONFIG.imagesDir, outputFilename);
+
+  if (existsSync(outputPath)) {
+    return true;
+  }
+
+  const tempPrefix = `temp_photo_${page}_${Date.now()}_${Math.floor(Math.random() * 100000)}`;
+  const tempBase = join(CONFIG.outputDir, tempPrefix);
+
+  try {
+    const cmd = `pdftoppm -f ${page} -l ${page} -jpeg -r 220 "${CONFIG.pdfPath}" "${tempBase}"`;
+    await runCommand(cmd);
+
+    const files = readdirSync(CONFIG.outputDir).filter(file => file.startsWith(tempPrefix));
+    if (files.length === 0) {
+      return false;
+    }
+
+    const tempFile = join(CONFIG.outputDir, files[0]);
+    const buffer = readFileSync(tempFile);
+    writeFileSync(outputPath, buffer);
+    unlinkSync(tempFile);
+    return true;
+  } catch (error: any) {
+    logError(`Failed to extract image for page ${page}: ${error.message}`);
+    return false;
+  }
+}
 
 const RECIPE_SCHEMA = {
-  type: "object",
+  type: 'object',
   properties: {
-    name: { type: "string", description: "The recipe name exactly as shown" },
-    category: { type: "string", description: "The category shown at bottom of page (e.g., 'Breakfast Bliss', 'Dinner is Served')" },
-    serves: { type: "string", description: "Number of servings" },
-    prepTime: { type: "string", description: "Prep time (e.g., '5 MINS')" },
-    cookTime: { type: "string", description: "Cook time (e.g., '10 MINS')" },
+    name: { type: 'string', description: 'The recipe name exactly as shown' },
+    category: {
+      type: 'string',
+      description: 'The category shown at bottom of recipe page (e.g., Breakfast Bliss)',
+    },
+    serves: { type: 'string', description: 'Number of servings' },
+    prepTime: { type: 'string', description: 'Prep time (e.g., 5 MINS)' },
+    cookTime: { type: 'string', description: 'Cook time (e.g., 10 MINS)' },
     macros: {
-      type: "object",
+      type: 'object',
       properties: {
-        calories: { type: "number" },
-        fat: { type: "string" },
-        carbs: { type: "string" },
-        netCarbs: { type: "string" },
-        protein: { type: "string" }
+        calories: { type: 'number' },
+        fat: { type: 'string' },
+        carbs: { type: 'string' },
+        netCarbs: { type: 'string' },
+        protein: { type: 'string' },
       },
-      required: ["calories", "fat", "carbs", "protein"]
+      required: ['calories', 'fat', 'carbs', 'protein'],
     },
     ingredients: {
-      type: "array",
+      type: 'array',
       items: {
-        type: "object",
+        type: 'object',
         properties: {
-          section: { type: "string", description: "Section name like 'WET', 'DRY', 'MAIN', or empty string if no sections" },
+          section: {
+            type: 'string',
+            description: 'Section name like WET, DRY, MAIN, or empty string if no sections',
+          },
           items: {
-            type: "array",
-            items: { type: "string" },
-            description: "List of ingredients with amounts"
-          }
+            type: 'array',
+            items: { type: 'string' },
+            description: 'List of ingredients with amounts',
+          },
         },
-        required: ["section", "items"]
-      }
+        required: ['section', 'items'],
+      },
     },
     directions: {
-      type: "array",
-      items: { type: "string" },
-      description: "Numbered steps as strings without the number prefix"
+      type: 'array',
+      items: { type: 'string' },
+      description: 'Numbered steps as strings without number prefix',
     },
-    tips: { type: "string", description: "Any TIP mentioned, empty string if none" },
-    notes: { type: "string", description: "Any NOTE mentioned, empty string if none" }
+    tips: { type: 'string', description: 'Any TIP mentioned, empty string if none' },
+    notes: { type: 'string', description: 'Any NOTE mentioned, empty string if none' },
   },
-  required: ["name", "category", "serves", "prepTime", "cookTime", "macros", "ingredients", "directions"]
+  required: ['name', 'category', 'serves', 'prepTime', 'cookTime', 'macros', 'ingredients', 'directions'],
 };
 
-const PAGE_ANALYSIS_SCHEMA = {
-  type: "object",
-  properties: {
-    isRecipePage: { type: "boolean", description: "True if this page contains a recipe with ingredients and directions" },
-    isPhotoPage: { type: "boolean", description: "True if this is primarily a photo page (full-page image)" },
-    isSectionDivider: { type: "boolean", description: "True if this is a section divider page (like 'BREAKFAST BLISS' title page)" },
-    recipeName: { type: "string", description: "Name of recipe if visible on this page" },
-    category: { type: "string", description: "Category name if visible (e.g., 'Breakfast Bliss')" },
-    pageType: { type: "string", description: "One of: recipe, photo, section_divider, table_of_contents, intro, reference_table, other" }
-  },
-  required: ["isRecipePage", "isPhotoPage", "pageType"]
-};
-
-async function callGeminiAPI(
-  prompt: string,
-  imageBase64: string | null,
-  schema: object,
-  retries: number = 3
-): Promise<any> {
-  const parts: any[] = [{ text: prompt }];
-
-  if (imageBase64) {
-    parts.push({
-      inline_data: {
-        mime_type: "image/png",
-        data: imageBase64
-      }
-    });
+async function callGeminiWithParts(parts: any[], schema: object, retries: number = 3): Promise<any> {
+  if (!CONFIG.geminiApiKey) {
+    throw new Error('GEMINI_API_KEY is not set');
   }
 
   for (let attempt = 1; attempt <= retries; attempt++) {
@@ -676,22 +926,21 @@ async function callGeminiAPI(
       const response = await fetch(
         `https://generativelanguage.googleapis.com/v1beta/models/${CONFIG.geminiModel}:generateContent?key=${CONFIG.geminiApiKey}`,
         {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({
             contents: [{ parts }],
             generationConfig: {
-              response_mime_type: "application/json",
-              response_schema: schema
-            }
-          })
+              response_mime_type: 'application/json',
+              response_schema: schema,
+            },
+          }),
         }
       );
 
       if (!response.ok) {
         const errorText = await response.text();
         if (response.status === 429) {
-          // Rate limited - wait and retry
           const waitTime = Math.pow(2, attempt) * 1000;
           log(`Rate limited, waiting ${waitTime}ms before retry ${attempt}/${retries}`);
           await Bun.sleep(waitTime);
@@ -701,13 +950,11 @@ async function callGeminiAPI(
       }
 
       const data = await response.json();
-
       if (!data.candidates?.[0]?.content?.parts?.[0]?.text) {
-        throw new Error("Invalid response structure from Gemini");
+        throw new Error('Invalid response structure from Gemini');
       }
 
-      const text = data.candidates[0].content.parts[0].text;
-      return JSON.parse(text);
+      return JSON.parse(data.candidates[0].content.parts[0].text);
     } catch (error: any) {
       if (attempt === retries) {
         throw error;
@@ -717,550 +964,476 @@ async function callGeminiAPI(
       await Bun.sleep(waitTime);
     }
   }
-}
 
-async function analyzePage(page: number): Promise<PageAnalysis> {
-  const imageBase64 = await getPageImageBase64(page);
-
-  const prompt = `Analyze this cookbook page and determine what type of content it contains.
-Look for:
-- Is this a recipe page with ingredients, directions, and macros?
-- Is this a full-page photo (usually the page before a recipe)?
-- Is this a section divider (large category title like "BREAKFAST BLISS")?
-- What category does this belong to (look at footer or header)?
-
-Return accurate JSON based on what you see.`;
-
-  const result = await callGeminiAPI(prompt, imageBase64, PAGE_ANALYSIS_SCHEMA);
-  return {
-    ...result,
-    pageNumber: page
-  };
-}
-
-async function parseRecipePage(page: number): Promise<Recipe | null> {
-  const imageBase64 = await getPageImageBase64(page);
-
-  const prompt = `Extract all recipe information from this cookbook page into structured JSON.
-
-IMPORTANT:
-- Extract the recipe name EXACTLY as shown (preserve capitalization)
-- Include ALL ingredients with their exact measurements
-- Include ALL directions steps
-- Look for the category at the bottom of the page (e.g., "Breakfast Bliss", "Dinner is Served")
-- Extract the MACROS box values (calories, fat, carbs, net carbs, protein)
-- If ingredients are divided into sections (WET, DRY, etc.), preserve those sections
-- Include any TIP or NOTE sections
-- For serves/prep/cook, include just the value (e.g., "1", "5 MINS", "10 MINS")
-
-Be precise and thorough. Do not skip any information.`;
-
-  try {
-    const result = await callGeminiAPI(prompt, imageBase64, RECIPE_SCHEMA);
-    return result as Recipe;
-  } catch (error: any) {
-    logError(`Failed to parse recipe on page ${page}: ${error.message}`);
-    return null;
-  }
-}
-
-// ============================================================================
-// Markdown Generation
-// ============================================================================
-
-function generateRecipeMarkdown(recipe: Recipe, imageFilename: string | null): string {
-  const lines: string[] = [];
-
-  // Title
-  lines.push(`# ${recipe.name}`);
-  lines.push("");
-
-  // Meta info
-  lines.push(`**Serves:** ${recipe.serves} | **Prep:** ${recipe.prepTime} | **Cook:** ${recipe.cookTime}`);
-  lines.push("");
-
-  // Macros table
-  lines.push("## Macros");
-  lines.push("");
-  lines.push("| Calories | Fat | Carbs | Net Carbs | Protein |");
-  lines.push("|----------|-----|-------|-----------|---------|");
-  lines.push(`| ${recipe.macros.calories} | ${cleanMacroValue(recipe.macros.fat)} | ${cleanMacroValue(recipe.macros.carbs)} | ${cleanMacroValue(recipe.macros.netCarbs) || "N/A"} | ${cleanMacroValue(recipe.macros.protein)} |`);
-  lines.push("");
-
-  // Ingredients
-  lines.push("## Ingredients");
-  lines.push("");
-
-  for (const section of recipe.ingredients) {
-    if (section.section && section.section.trim() !== "") {
-      lines.push(`### ${section.section}`);
-      lines.push("");
-    }
-    for (const item of section.items) {
-      lines.push(`- ${item}`);
-    }
-    lines.push("");
-  }
-
-  // Directions
-  lines.push("## Directions");
-  lines.push("");
-
-  recipe.directions.forEach((step, index) => {
-    lines.push(`${index + 1}. ${step}`);
-  });
-  lines.push("");
-
-  // Tips
-  if (recipe.tips && recipe.tips.trim() !== "") {
-    lines.push("## Tips");
-    lines.push("");
-    lines.push(recipe.tips);
-    lines.push("");
-  }
-
-  // Notes
-  if (recipe.notes && recipe.notes.trim() !== "") {
-    lines.push("## Notes");
-    lines.push("");
-    lines.push(recipe.notes);
-    lines.push("");
-  }
-
-  // Image
-  if (imageFilename) {
-    lines.push(`![${recipe.name}](../images/${imageFilename})`);
-    lines.push("");
-  }
-
-  return lines.join("\n");
-}
-
-async function generateOverview(progress: Progress, force: boolean = false): Promise<boolean> {
-  if (progress.overviewComplete && !force) {
-    log("Overview already complete, skipping...");
-    return false;
-  }
-
-  log(force ? 'Regenerating overview.md...' : 'Generating overview.md...');
-
-  const sections: string[] = [];
-  sections.push("# Diet Cheat Codes - Overview");
-  sections.push("");
-  sections.push("*A comprehensive guide to making delicious, low-calorie versions of your favorite foods.*");
-  sections.push("");
-
-  // Extract intro section
-  log("Extracting introduction...");
-  const introText = await extractPageText(CONFIG.overviewPages.intro.start, CONFIG.overviewPages.intro.end);
-  sections.push("## Introduction");
-  sections.push("");
-  sections.push(introText.trim());
-  sections.push("");
-
-  // Extract pantry essentials
-  log("Extracting pantry essentials...");
-  const pantryText = await extractPageText(CONFIG.overviewPages.pantry.start, CONFIG.overviewPages.pantry.end);
-  sections.push("## Pantry Essentials");
-  sections.push("");
-  sections.push(pantryText.trim());
-  sections.push("");
-
-  // Extract kitchen gear
-  log("Extracting kitchen gear...");
-  const kitchenText = await extractPageText(CONFIG.overviewPages.kitchen.start, CONFIG.overviewPages.kitchen.end);
-  sections.push("## Kitchen Gear");
-  sections.push("");
-  sections.push(kitchenText.trim());
-  sections.push("");
-
-  // Extract cooking techniques
-  log("Extracting cooking techniques...");
-  const techniquesText = await extractPageText(CONFIG.overviewPages.techniques.start, CONFIG.overviewPages.techniques.end);
-  sections.push("## Cooking Techniques & FAQs");
-  sections.push("");
-  sections.push(techniquesText.trim());
-  sections.push("");
-
-  // Extract reference tables
-  log("Extracting reference tables...");
-  const referenceText = await extractPageText(runtimeReferenceRange.start, runtimeReferenceRange.end);
-  sections.push("## Reference Tables");
-  sections.push("");
-  sections.push(referenceText.trim());
-  sections.push("");
-
-  const overviewPath = join(CONFIG.outputDir, "overview.md");
-  writeFileSync(overviewPath, sections.join("\n"));
-
-  progress.overviewComplete = true;
-  saveProgress(progress);
-
-  log(`Overview saved to ${overviewPath}`);
-  return true;
-}
-
-// ============================================================================
-// Image Extraction and Matching
-// ============================================================================
-
-async function extractRecipeImage(photoPage: number, outputFilename: string): Promise<boolean> {
-  const outputPath = join(CONFIG.imagesDir, outputFilename);
-
-  if (existsSync(outputPath)) {
-    return true; // Already extracted
-  }
-
-  try {
-    // Extract page as high-quality JPEG
-    const tempBase = join(CONFIG.outputDir, `temp_photo_${photoPage}`);
-    const cmd = `pdftoppm -f ${photoPage} -l ${photoPage} -jpeg -r 200 "${CONFIG.pdfPath}" "${tempBase}"`;
-    await runCommand(cmd);
-
-    // Find the generated file
-    const files = readdirSync(CONFIG.outputDir).filter(f => f.startsWith(`temp_photo_${photoPage}`));
-    if (files.length > 0) {
-      const tempFile = join(CONFIG.outputDir, files[0]);
-      const buffer = readFileSync(tempFile);
-      writeFileSync(outputPath, buffer);
-      unlinkSync(tempFile);
-      return true;
-    }
-
-    return false;
-  } catch (error: any) {
-    logError(`Failed to extract image for page ${photoPage}: ${error.message}`);
-    return false;
-  }
-}
-
-// ============================================================================
-// Main Processing
-// ============================================================================
-
-// Recipe pages follow a pattern: even pages have recipes, odd pages have photos
-// But we'll process directly and skip if parsing fails
-function getRecipePageCandidates(startPage: number, endPage: number): number[] {
-  const candidates: number[] = [];
-  // Based on analysis: recipes start at page 47/48 and are on alternating pages
-  // Start from 47 and try every odd page first (since first recipe was at 48 = photo at 47)
-  // Actually the pattern is: photo on odd, recipe on even (47=photo, 48=recipe)
-  for (let page = 48; page <= endPage; page += 2) {
-    if (page >= startPage) {
-      candidates.push(page);
-    }
-  }
-  return candidates;
-}
-
-function getIncrementalRecipeStartPage(progress: Progress): number {
-  const processedRecipePages = progress.pagesProcessed.filter(page => page >= CONFIG.recipeStartPage && page % 2 === 0);
-  const maxProcessedPage = processedRecipePages.length > 0
-    ? Math.max(...processedRecipePages)
-    : CONFIG.recipeStartPage - 2;
-  const currentPage = progress.currentPage && progress.currentPage > 0
-    ? progress.currentPage
-    : CONFIG.recipeStartPage;
-  const normalizedCurrentPage = currentPage % 2 === 0 ? currentPage : currentPage + 1;
-  const startPage = Math.max(CONFIG.recipeStartPage, maxProcessedPage + 2, normalizedCurrentPage);
-  return startPage % 2 === 0 ? startPage : startPage + 1;
-}
-
-async function processRecipe(
-  recipePage: number,
-  photoPage: number,
-  progress: Progress,
-  processedRecipeNameLookup: Map<string, string>
-): Promise<ProcessResult> {
-  try {
-    log(`Processing page ${recipePage}...`);
-
-    const extractedName = await extractRecipeNameFromPdfPage(recipePage);
-    if (extractedName && processedRecipeNameLookup.has(extractedName.slug)) {
-      const existingRecipe = processedRecipeNameLookup.get(extractedName.slug)!;
-      trackRecipe(progress, existingRecipe);
-      markRecipePagesProcessed(progress, recipePage, photoPage);
-      saveProgress(progress);
-      log(`  Recipe "${extractedName.name}" already processed, skipping...`);
-      return 'skipped';
-    }
-
-    const recipe = await parseRecipePage(recipePage);
-    if (!recipe) {
-      log(`  Page ${recipePage} is not a recipe page, skipping...`);
-      markRecipePagesProcessed(progress, recipePage, photoPage);
-      saveProgress(progress);
-      return 'skipped';
-    }
-
-    // Validate recipe has required fields
-    if (!recipe.name || !recipe.ingredients || recipe.ingredients.length === 0) {
-      log(`  Page ${recipePage} parsed but missing required fields, skipping...`);
-      markRecipePagesProcessed(progress, recipePage, photoPage);
-      saveProgress(progress);
-      return 'skipped';
-    }
-
-    // Generate filename
-    const categorySlug = getCategorySlug(recipe.category || "uncategorized");
-    const nameSlug = slugify(recipe.name);
-    const filename = `${categorySlug}__${nameSlug}`;
-
-    // Check if already processed
-    if (processedRecipeNameLookup.has(nameSlug)) {
-      const existingRecipe = processedRecipeNameLookup.get(nameSlug)!;
-      trackRecipe(progress, existingRecipe);
-      markRecipePagesProcessed(progress, recipePage, photoPage);
-      saveProgress(progress);
-      log(`  Recipe "${recipe.name}" already processed, skipping...`);
-      return 'skipped';
-    }
-
-    log(`  Found: ${recipe.name} (${recipe.category || "Unknown"})`);
-
-    // Extract photo
-    const imageFilename = `${filename}.jpg`;
-    const hasImage = await extractRecipeImage(photoPage, imageFilename);
-
-    // Generate markdown
-    const markdown = generateRecipeMarkdown(recipe, hasImage ? imageFilename : null);
-
-    // Save markdown file
-    const mdPath = join(CONFIG.recipesDir, `${filename}.md`);
-    writeFileSync(mdPath, markdown);
-
-    // Update progress
-    processedRecipeNameLookup.set(nameSlug, filename);
-    trackRecipe(progress, filename);
-    markRecipePagesProcessed(progress, recipePage, photoPage);
-    saveProgress(progress);
-
-    log(`  Saved: ${filename}.md`);
-    return 'processed';
-  } catch (error: any) {
-    logError(`Failed to process page ${recipePage}: ${error.message}`);
-    progress.errors.push({
-      page: recipePage,
-      error: error.message,
-      timestamp: new Date().toISOString()
-    });
-    saveProgress(progress);
-    return 'failed';
-  }
-}
-
-async function processAllRecipes(progress: Progress): Promise<ProcessingStats> {
-  log("Starting recipe processing...");
-  log(`Current progress: ${progress.recipesProcessed.length} recipes processed`);
-  const processedRecipeNameLookup = createProcessedRecipeNameLookup(progress);
-
-  const startPage = getIncrementalRecipeStartPage(progress);
-  const candidates = getRecipePageCandidates(startPage, runtimeRecipeEndPage);
-  const toProcess = candidates.filter(page => !progress.pagesProcessed.includes(page));
-
-  log(`Scanning recipe pages ${startPage}-${runtimeRecipeEndPage}`);
-  log(`${toProcess.length} candidate pages to process (${candidates.length - toProcess.length} already done in this range)`);
-
-  let processed = 0;
-  let skipped = 0;
-  let failed = 0;
-
-  for (const recipePage of toProcess) {
-    const photoPage = recipePage - 1;
-
-    const result = await processRecipe(recipePage, photoPage, progress, processedRecipeNameLookup);
-    if (result === 'processed') {
-      processed++;
-    } else if (result === 'skipped') {
-      skipped++;
-    } else {
-      // Mark page as processed even if failed so we don't retry
-      if (!progress.pagesProcessed.includes(recipePage)) {
-        progress.pagesProcessed.push(recipePage);
-        saveProgress(progress);
-      }
-      failed++;
-    }
-
-    // Log progress every 10 recipes
-    if ((processed + skipped + failed) % 10 === 0) {
-      log(`Progress: ${processed} processed, ${skipped} skipped, ${failed} failed, ${toProcess.length - processed - skipped - failed} remaining`);
-    }
-  }
-
-  log(`Recipe processing complete: ${processed} processed, ${skipped} skipped, ${failed} failed`);
-  return { processed, skipped, failed };
-}
-
-// ============================================================================
-// Re-parse Single Recipe (for fixing issues)
-// ============================================================================
-
-async function reparseRecipe(pages: number[], outputName?: string): Promise<boolean> {
-  log(`Re-parsing recipe from pages: ${pages.join(", ")}`);
-
-  if (pages.length === 0) {
-    logError("No pages specified");
-    return false;
-  }
-
-  // Sort pages and determine photo vs recipe pages
-  const sortedPages = [...pages].sort((a, b) => a - b);
-
-  // For multi-page recipes, combine images
-  const imageBuffers: string[] = [];
-  for (const page of sortedPages) {
-    log(`  Extracting page ${page}...`);
-    const base64 = await getPageImageBase64(page);
-    imageBuffers.push(base64);
-  }
-
-  // Send all pages to Gemini for parsing
-  const recipe = await parseMultiPageRecipe(imageBuffers, sortedPages);
-
-  if (!recipe) {
-    logError("Failed to parse recipe from provided pages");
-    return false;
-  }
-
-  log(`  Parsed: ${recipe.name} (${recipe.category})`);
-  log(`  Macros: ${recipe.macros.calories} cal, ${recipe.macros.fat} fat, ${recipe.macros.carbs} carbs, ${recipe.macros.protein} protein`);
-
-  // Generate filename
-  const categorySlug = getCategorySlug(recipe.category || "uncategorized");
-  const nameSlug = slugify(recipe.name);
-  const filename = outputName || `${categorySlug}__${nameSlug}`;
-
-  // Extract photo from first page (usually the photo page)
-  const photoPage = sortedPages[0];
-  const imageFilename = `${filename}.jpg`;
-  await extractRecipeImage(photoPage, imageFilename);
-
-  // Generate and save markdown
-  const markdown = generateRecipeMarkdown(recipe, imageFilename);
-  const mdPath = join(CONFIG.recipesDir, `${filename}.md`);
-  writeFileSync(mdPath, markdown);
-
-  log(`  Saved: ${filename}.md`);
-
-  // Update progress
-  const progress = loadProgress();
-  if (!progress.recipesProcessed.includes(filename)) {
-    progress.recipesProcessed.push(filename);
-    progress.totalRecipes = progress.recipesProcessed.length;
-  }
-  saveProgress(progress);
-  return true;
+  throw new Error('Failed to call Gemini API');
 }
 
 async function parseMultiPageRecipe(imageBuffers: string[], pageNumbers: number[]): Promise<Recipe | null> {
-  // Build parts array with all images
   const parts: any[] = [
     {
-      text: `Extract the recipe information from these ${imageBuffers.length} cookbook pages (pages ${pageNumbers.join(", ")}).
+      text: `Extract the recipe information from these ${imageBuffers.length} cookbook pages (pages ${pageNumbers.join(', ')}).
 
 These pages together contain ONE recipe. Look across ALL pages to find:
-- Recipe name (usually large text at top)
-- Category (shown at bottom of recipe page, e.g., "Breakfast Bliss", "Dinner is Served")
+- Recipe name
+- Category
 - Serves/Prep/Cook times
-- MACROS box (calories, fat, carbs, net carbs, protein) - THIS IS CRITICAL, find the macros box
-- All ingredients with exact measurements
-- All directions/steps
+- MACROS (calories, fat, carbs, net carbs, protein)
+- All ingredients
+- All directions
 - Any tips or notes
 
-The MACROS are usually in a colored box showing:
-- CALORIES (a number like 361, 487, etc.)
-- FAT (like "2G FAT" or "20G")
-- CARBS (like "72G CARBS")
-- NET CARBS (sometimes shown)
-- PROTEIN (like "37G PROTEIN")
-
-If you see "0" for macros but there are clearly real values shown, extract the REAL values.
-Be thorough - check all pages for the complete recipe information.`
-    }
+If one page is a process/addendum page with only step photos, still include that page's context and keep the recipe aligned to the main recipe page.`,
+    },
   ];
 
-  // Add all images
   for (const base64 of imageBuffers) {
     parts.push({
       inline_data: {
-        mime_type: "image/png",
-        data: base64
-      }
+        mime_type: 'image/png',
+        data: base64,
+      },
     });
   }
 
   try {
-    const response = await fetch(
-      `https://generativelanguage.googleapis.com/v1beta/models/${CONFIG.geminiModel}:generateContent?key=${CONFIG.geminiApiKey}`,
-      {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          contents: [{ parts }],
-          generationConfig: {
-            response_mime_type: "application/json",
-            response_schema: RECIPE_SCHEMA
-          }
-        })
-      }
-    );
-
-    if (!response.ok) {
-      const errorText = await response.text();
-      throw new Error(`Gemini API error: ${response.status} - ${errorText}`);
-    }
-
-    const data = await response.json();
-    if (!data.candidates?.[0]?.content?.parts?.[0]?.text) {
-      throw new Error("Invalid response structure from Gemini");
-    }
-
-    return JSON.parse(data.candidates[0].content.parts[0].text) as Recipe;
+    const result = await callGeminiWithParts(parts, RECIPE_SCHEMA);
+    return result as Recipe;
   } catch (error: any) {
     logError(`Multi-page parse failed: ${error.message}`);
     return null;
   }
 }
 
-// ============================================================================
-// CLI Interface
-// ============================================================================
+function generateRecipeMarkdown(recipe: Recipe, imageFilenames: string[], sourcePages: number[]): string {
+  const lines: string[] = [];
+
+  lines.push(`# ${recipe.name}`);
+  lines.push('');
+  lines.push(`**Serves:** ${recipe.serves} | **Prep:** ${recipe.prepTime} | **Cook:** ${recipe.cookTime}`);
+  lines.push('');
+
+  lines.push('## Macros');
+  lines.push('');
+  lines.push('| Calories | Fat | Carbs | Net Carbs | Protein |');
+  lines.push('|----------|-----|-------|-----------|---------|');
+  lines.push(
+    `| ${recipe.macros.calories} | ${cleanMacroValue(recipe.macros.fat)} | ${cleanMacroValue(recipe.macros.carbs)} | ${cleanMacroValue(recipe.macros.netCarbs) || 'N/A'} | ${cleanMacroValue(recipe.macros.protein)} |`
+  );
+  lines.push('');
+
+  lines.push('## Ingredients');
+  lines.push('');
+
+  for (const section of recipe.ingredients) {
+    if (section.section && section.section.trim() !== '') {
+      lines.push(`### ${section.section}`);
+      lines.push('');
+    }
+    for (const item of section.items) {
+      lines.push(`- ${item}`);
+    }
+    lines.push('');
+  }
+
+  lines.push('## Directions');
+  lines.push('');
+  recipe.directions.forEach((step, index) => {
+    lines.push(`${index + 1}. ${step}`);
+  });
+  lines.push('');
+
+  if (recipe.tips && recipe.tips.trim() !== '') {
+    lines.push('## Tips');
+    lines.push('');
+    lines.push(recipe.tips);
+    lines.push('');
+  }
+
+  if (recipe.notes && recipe.notes.trim() !== '') {
+    lines.push('## Notes');
+    lines.push('');
+    lines.push(recipe.notes);
+    lines.push('');
+  }
+
+  if (imageFilenames.length > 0) {
+    lines.push(`![${recipe.name}](../images/${imageFilenames[0]})`);
+    lines.push('');
+  }
+
+  if (imageFilenames.length > 1) {
+    lines.push('## Additional Recipe Pages');
+    lines.push('');
+    for (let index = 1; index < imageFilenames.length; index++) {
+      const sourcePage = sourcePages[index] || sourcePages[sourcePages.length - 1];
+      lines.push(`![${recipe.name} - page ${sourcePage}](../images/${imageFilenames[index]})`);
+      lines.push('');
+    }
+  }
+
+  lines.push('## Source Pages');
+  lines.push('');
+  lines.push(sourcePages.join(', '));
+  lines.push('');
+
+  return lines.join('\n');
+}
+
+function getRecipeNameSlugFromIdentifier(identifier: string): string | null {
+  const normalizedIdentifier = identifier.endsWith('.md') ? identifier.slice(0, -3) : identifier;
+  if (!normalizedIdentifier) {
+    return null;
+  }
+  const parts = normalizedIdentifier.split('__');
+  const nameSlug = parts.length > 1 ? parts.slice(1).join('__') : normalizedIdentifier;
+  return nameSlug.trim() || null;
+}
+
+function createFilenameResolver(): {
+  resolve: (nameSlug: string, categorySlug: string, startPage: number) => string;
+} {
+  const existingFiles = existsSync(CONFIG.recipesDir)
+    ? readdirSync(CONFIG.recipesDir).filter(file => file.endsWith('.md')).map(file => file.slice(0, -3))
+    : [];
+
+  const byNameSlug = new Map<string, string[]>();
+  for (const base of existingFiles) {
+    const nameSlug = getRecipeNameSlugFromIdentifier(base);
+    if (!nameSlug) {
+      continue;
+    }
+    const existing = byNameSlug.get(nameSlug) || [];
+    existing.push(base);
+    byNameSlug.set(nameSlug, existing);
+  }
+
+  const used = new Set<string>();
+
+  const resolve = (nameSlug: string, categorySlug: string, startPage: number): string => {
+    const candidates = [...(byNameSlug.get(nameSlug) || [])].sort();
+    const prefixPriority = LEGACY_PREFIX_PRIORITY[categorySlug] || [categorySlug, 'uncategorized'];
+
+    const scoreCandidate = (candidate: string): number => {
+      const prefix = candidate.includes('__') ? candidate.split('__')[0] : candidate;
+      const index = prefixPriority.indexOf(prefix);
+      return index === -1 ? Number.MAX_SAFE_INTEGER : index;
+    };
+
+    const sortedCandidates = candidates.sort((a, b) => {
+      const scoreA = scoreCandidate(a);
+      const scoreB = scoreCandidate(b);
+      if (scoreA !== scoreB) {
+        return scoreA - scoreB;
+      }
+      return a.localeCompare(b);
+    });
+
+    for (const candidate of sortedCandidates) {
+      if (!used.has(candidate)) {
+        used.add(candidate);
+        return candidate;
+      }
+    }
+
+    const preferredPrefix = prefixPriority[0] || categorySlug || 'uncategorized';
+    const base = `${preferredPrefix}__${nameSlug}`;
+    if (!used.has(base)) {
+      used.add(base);
+      return base;
+    }
+
+    const withSuffix = `${preferredPrefix}__${nameSlug}-${startPage}`;
+    used.add(withSuffix);
+    return withSuffix;
+  };
+
+  return { resolve };
+}
+
+function trackRecipe(progress: Progress, filename: string): void {
+  if (!progress.recipesProcessed.includes(filename)) {
+    progress.recipesProcessed.push(filename);
+  }
+  progress.totalRecipes = Array.from(new Set(progress.recipesProcessed)).length;
+}
+
+function markRangeProcessed(progress: Progress, range: RecipeRange): void {
+  if (!progress.rangeKeysProcessed.includes(range.rangeKey)) {
+    progress.rangeKeysProcessed.push(range.rangeKey);
+  }
+
+  for (const page of range.pages) {
+    if (!progress.pagesProcessed.includes(page)) {
+      progress.pagesProcessed.push(page);
+    }
+  }
+
+  progress.currentPage = Math.max(progress.currentPage, range.endPage + 1);
+}
+
+async function processRecipeRange(
+  range: RecipeRange,
+  progress: Progress,
+  pageMetas: PageMeta[],
+  resolver: { resolve: (nameSlug: string, categorySlug: string, startPage: number) => string }
+): Promise<{ status: 'processed' | 'failed'; output?: RecipeOutput }> {
+  try {
+    log(`Processing range ${range.pages.join(', ')}...`);
+
+    const imageBuffers: string[] = [];
+    for (const page of range.pages) {
+      const base64 = await getPageImageBase64(page);
+      imageBuffers.push(base64);
+    }
+
+    const recipe = await parseMultiPageRecipe(imageBuffers, range.pages);
+    if (!recipe || !recipe.name || !recipe.ingredients || recipe.ingredients.length === 0) {
+      throw new Error('Parsed recipe missing required fields');
+    }
+
+    const nameSlug = slugify(recipe.name || range.nameHint || `recipe-${range.startPage}`);
+    const categoryFromRecipe = recipe.category ? getCategorySlug(recipe.category) : undefined;
+    const categoryFromSection = range.sectionHint;
+    const categorySlug =
+      categoryFromSection || categoryFromRecipe || (pageMetas[range.startPage]?.sectionHint || 'uncategorized');
+
+    const filename = resolver.resolve(nameSlug, categorySlug, range.startPage);
+
+    const imageFilenames: string[] = [];
+
+    const orderedPages = [...range.pages].sort((a, b) => a - b);
+    const primaryCandidate = orderedPages.find(page => pageMetas[page]?.isImageLike) || orderedPages[0];
+    const finalImageOrder = [
+      primaryCandidate,
+      ...orderedPages.filter(page => page !== primaryCandidate),
+    ];
+
+    for (const page of finalImageOrder) {
+      const imageFilename = `${filename}__p${page}.jpg`;
+      const hasImage = await extractRecipeImage(page, imageFilename);
+      if (hasImage) {
+        imageFilenames.push(imageFilename);
+      }
+    }
+
+    const markdown = generateRecipeMarkdown(recipe, imageFilenames, finalImageOrder);
+    const mdPath = join(CONFIG.recipesDir, `${filename}.md`);
+    writeFileSync(mdPath, markdown);
+
+    trackRecipe(progress, filename);
+    markRangeProcessed(progress, range);
+    saveProgress(progress);
+
+    log(`  Saved: ${filename}.md`);
+
+    return {
+      status: 'processed',
+      output: {
+        filename,
+        imageFilenames,
+      },
+    };
+  } catch (error: any) {
+    logError(`Failed to process range ${range.rangeKey}: ${error.message}`);
+    progress.errors.push({
+      page: range.startPage,
+      error: error.message,
+      timestamp: new Date().toISOString(),
+    });
+    saveProgress(progress);
+    return { status: 'failed' };
+  }
+}
+
+async function processAllRecipeRanges(
+  progress: Progress,
+  ranges: RecipeRange[],
+  pageMetas: PageMeta[],
+  fullRebuild: boolean
+): Promise<ProcessingStats> {
+  log('Starting recipe processing...');
+  log(`Current progress: ${progress.recipesProcessed.length} recipes tracked`);
+
+  const resolver = createFilenameResolver();
+
+  const alreadyProcessed = new Set(progress.rangeKeysProcessed);
+  const rangesToProcess = fullRebuild
+    ? ranges
+    : ranges.filter(range => !alreadyProcessed.has(range.rangeKey));
+
+  log(
+    `Scanning recipe ranges ${runtimeRecipeStartPage}-${runtimeRecipeEndPage}` +
+      ` (${ranges.length} total ranges, ${rangesToProcess.length} queued)`
+  );
+
+  let processed = 0;
+  let skipped = 0;
+  let failed = 0;
+
+  const keepRecipeFiles = new Set<string>();
+  const keepImageFiles = new Set<string>();
+
+  for (const range of rangesToProcess) {
+    const result = await processRecipeRange(range, progress, pageMetas, resolver);
+    if (result.status === 'processed') {
+      processed++;
+      if (result.output) {
+        keepRecipeFiles.add(result.output.filename);
+        for (const imageFilename of result.output.imageFilenames) {
+          keepImageFiles.add(imageFilename);
+        }
+      }
+    } else {
+      failed++;
+    }
+
+    if ((processed + failed) % 10 === 0) {
+      log(
+        `Progress: ${processed} processed, ${failed} failed, ${rangesToProcess.length - processed - failed} remaining`
+      );
+    }
+  }
+
+  if (!fullRebuild) {
+    skipped = ranges.length - rangesToProcess.length;
+  }
+
+  log(`Recipe processing complete: ${processed} processed, ${skipped} skipped, ${failed} failed`);
+
+  return {
+    processed,
+    skipped,
+    failed,
+    keepRecipeFiles,
+    keepImageFiles,
+  };
+}
+
+function cleanupUnmatchedOutputs(keepRecipeFiles: Set<string>, keepImageFiles: Set<string>): void {
+  let removedRecipeCount = 0;
+  let removedImageCount = 0;
+
+  if (existsSync(CONFIG.recipesDir)) {
+    const recipeFiles = readdirSync(CONFIG.recipesDir).filter(file => file.endsWith('.md'));
+    for (const file of recipeFiles) {
+      const base = file.slice(0, -3);
+      if (!keepRecipeFiles.has(base)) {
+        unlinkSync(join(CONFIG.recipesDir, file));
+        removedRecipeCount++;
+      }
+    }
+  }
+
+  if (existsSync(CONFIG.imagesDir)) {
+    const imageFiles = readdirSync(CONFIG.imagesDir).filter(file => /\.(jpg|jpeg|png)$/i.test(file));
+    for (const file of imageFiles) {
+      if (!keepImageFiles.has(file)) {
+        unlinkSync(join(CONFIG.imagesDir, file));
+        removedImageCount++;
+      }
+    }
+  }
+
+  log(`Cleanup complete: removed ${removedRecipeCount} stale recipe files and ${removedImageCount} stale images`);
+}
+
+async function reparseRecipe(pages: number[], outputName?: string): Promise<boolean> {
+  log(`Re-parsing recipe from pages: ${pages.join(', ')}`);
+
+  if (pages.length === 0) {
+    logError('No pages specified');
+    return false;
+  }
+
+  const sortedPages = [...pages].sort((a, b) => a - b);
+  const imageBuffers: string[] = [];
+
+  for (const page of sortedPages) {
+    log(`  Extracting page ${page}...`);
+    const base64 = await getPageImageBase64(page);
+    imageBuffers.push(base64);
+  }
+
+  const recipe = await parseMultiPageRecipe(imageBuffers, sortedPages);
+  if (!recipe) {
+    logError('Failed to parse recipe from provided pages');
+    return false;
+  }
+
+  log(`  Parsed: ${recipe.name} (${recipe.category})`);
+
+  const nameSlug = slugify(recipe.name);
+  const categorySlug = getCategorySlug(recipe.category || 'uncategorized');
+  const preferredPrefix = (LEGACY_PREFIX_PRIORITY[categorySlug] || [categorySlug])[0];
+  const filename = outputName || `${preferredPrefix}__${nameSlug}`;
+
+  const imageFilenames: string[] = [];
+  for (const page of sortedPages) {
+    const imageFilename = `${filename}__p${page}.jpg`;
+    const hasImage = await extractRecipeImage(page, imageFilename);
+    if (hasImage) {
+      imageFilenames.push(imageFilename);
+    }
+  }
+
+  const markdown = generateRecipeMarkdown(recipe, imageFilenames, sortedPages);
+  const mdPath = join(CONFIG.recipesDir, `${filename}.md`);
+  writeFileSync(mdPath, markdown);
+
+  const progress = loadProgress();
+  trackRecipe(progress, filename);
+  saveProgress(progress);
+
+  log(`  Saved: ${filename}.md`);
+  return true;
+}
 
 function printUsage(): void {
   console.log(`
 Diet Cheat Codes PDF Parser
 
 Usage:
-  bun run parse.ts <pdf-path>                    Process all recipes
-  bun run parse.ts <pdf-path> --output-dir <dir> Process all recipes to a custom output directory
-  bun run parse.ts <pdf-path> --reparse <pages>  Re-parse specific pages
-  bun run parse.ts --help                        Show this help
+  bun run parse.ts <pdf-path>                         Process recipes
+  bun run parse.ts <pdf-path> --output-dir <dir>      Process recipes to custom output directory
+  bun run parse.ts <pdf-path> --scan-ranges           Print detected recipe ranges only
+  bun run parse.ts <pdf-path> --full-rebuild          Rebuild all ranges and hard-delete stale outputs
+  bun run parse.ts <pdf-path> --reparse <pages>       Re-parse specific pages
+  bun run parse.ts --help                             Show this help
 
 Examples:
-  bun run parse.ts "/path/to/Diet Cheat Codes 1526.pdf"
-  bun run parse.ts "/path/to/Diet Cheat Codes 1526.pdf" --output-dir ./book-export
-  bun run parse.ts "/path/to/Diet Cheat Codes 1526.pdf" --reparse 47,48
-                                              Re-parse pages 47-48 as single recipe
-  bun run parse.ts "/path/to/Diet Cheat Codes 1526.pdf" --reparse 121,122,123
-                                              Re-parse multi-page recipe
-  bun run parse.ts "/path/to/Diet Cheat Codes 1526.pdf" --reparse 72 --name breakfast-bliss__lemon-glaze-muffins
-                                              Re-parse and save with specific name
+  bun run parse.ts "~/Downloads/Diet Cheat Codes 21826.pdf" --scan-ranges
+  bun run parse.ts "~/Downloads/Diet Cheat Codes 21826.pdf" --full-rebuild
+  bun run parse.ts "~/Downloads/Diet Cheat Codes 21826.pdf" --reparse 397,398,399,400
 
 Options:
-  <pdf-path>          Path to the Diet Cheat Codes PDF file
-  --output-dir <dir>  Output directory (default: current working directory)
-  --reparse <pages>   Comma-separated list of page numbers to re-parse
-  --name <filename>   Output filename (without .md extension)
-  --help              Show this help message
+  <pdf-path>           Path to the Diet Cheat Codes PDF file
+  --output-dir <dir>   Output directory (default: current working directory)
+  --scan-ranges        Scan and print recipe ranges without Gemini parsing
+  --full-rebuild       Rebuild all detected recipe ranges and delete stale files
+  --reparse <pages>    Comma-separated list of page numbers to re-parse
+  --name <filename>    Output filename (without .md extension)
+  --help               Show this help message
 `);
+}
+
+function printRangeScan(scan: RangeScanResult): void {
+  console.log(`Detected ${scan.recipeRanges.length} recipe ranges`);
+  console.log(`Recipe region: ${scan.recipeStartPage}-${scan.recipeEndPage}`);
+  console.log(`Reference starts at: ${scan.referenceStartPage}`);
+  console.log('');
+  for (const range of scan.recipeRanges) {
+    const name = range.nameHint || '(unknown)';
+    const section = range.sectionHint || 'unknown';
+    console.log(
+      `${range.startPage}\t${range.pages.join(',')}\t${name}\tsection=${section}`
+    );
+  }
 }
 
 async function main(): Promise<void> {
   const args = process.argv.slice(2);
 
-  // Check for help
-  if (args.includes("--help") || args.includes("-h")) {
+  if (args.includes('--help') || args.includes('-h')) {
     printUsage();
     return;
   }
@@ -1271,17 +1444,13 @@ async function main(): Promise<void> {
     process.exit(1);
   }
 
-  const outputDirArg = outputDirIndex !== -1
-    ? args[outputDirIndex + 1]
-    : process.cwd();
-
+  const outputDirArg = outputDirIndex !== -1 ? args[outputDirIndex + 1] : process.cwd();
   configureOutputPaths(outputDirArg);
 
   const pdfPath = args.find((arg, index) => {
     if (arg.startsWith('-')) {
       return false;
     }
-
     const previousArg = args[index - 1];
     return previousArg !== '--reparse' && previousArg !== '--name' && previousArg !== '--output-dir';
   });
@@ -1291,32 +1460,37 @@ async function main(): Promise<void> {
     process.exit(1);
   }
 
-  CONFIG.pdfPath = pdfPath;
+  CONFIG.pdfPath = expandHomePath(pdfPath);
+
   await initializePdfLayout();
 
-  // Check for reparse mode
-  const reparseIndex = args.indexOf("--reparse");
+  mkdirSync(CONFIG.outputDir, { recursive: true });
+  mkdirSync(CONFIG.recipesDir, { recursive: true });
+  mkdirSync(CONFIG.imagesDir, { recursive: true });
+
+  const scanRangesMode = args.includes('--scan-ranges');
+  const fullRebuildMode = args.includes('--full-rebuild');
+
+  const reparseIndex = args.indexOf('--reparse');
   if (reparseIndex !== -1) {
     const pagesArg = args[reparseIndex + 1];
     if (!pagesArg) {
-      logError("--reparse requires page numbers (e.g., --reparse 47,48)");
+      logError('--reparse requires page numbers (e.g., --reparse 47,48)');
       process.exit(1);
     }
 
-    const pages = pagesArg.split(",").map(p => parseInt(p.trim())).filter(p => !isNaN(p));
+    const pages = pagesArg
+      .split(',')
+      .map(token => parseInt(token.trim(), 10))
+      .filter(page => !Number.isNaN(page));
+
     if (pages.length === 0) {
-      logError("Invalid page numbers");
+      logError('Invalid page numbers');
       process.exit(1);
     }
 
-    // Check for custom output name
-    const nameIndex = args.indexOf("--name");
+    const nameIndex = args.indexOf('--name');
     const outputName = nameIndex !== -1 ? args[nameIndex + 1] : undefined;
-
-    // Ensure directories exist
-    mkdirSync(CONFIG.outputDir, { recursive: true });
-    mkdirSync(CONFIG.recipesDir, { recursive: true });
-    mkdirSync(CONFIG.imagesDir, { recursive: true });
 
     const didWork = await reparseRecipe(pages, outputName);
     if (didWork) {
@@ -1328,57 +1502,72 @@ async function main(): Promise<void> {
     return;
   }
 
-  // Default: full processing mode
-  console.log("═══════════════════════════════════════════════════════════════");
-  console.log("  Diet Cheat Codes PDF Parser");
-  console.log("═══════════════════════════════════════════════════════════════");
+  const scan = await scanRecipeRanges();
+
+  if (scanRangesMode) {
+    printRangeScan(scan);
+    return;
+  }
+
+  console.log('═══════════════════════════════════════════════════════════════');
+  console.log('  Diet Cheat Codes PDF Parser');
+  console.log('═══════════════════════════════════════════════════════════════');
   console.log(`  Output directory: ${CONFIG.outputDir}`);
-  console.log("");
+  console.log(`  PDF page count: ${scan.totalPages}`);
+  console.log(`  Recipe range: ${scan.recipeStartPage}-${scan.recipeEndPage}`);
+  console.log(`  Detected recipe starts: ${scan.recipeRanges.length}`);
+  console.log('');
 
-  // Ensure directories exist
-  mkdirSync(CONFIG.outputDir, { recursive: true });
-  mkdirSync(CONFIG.recipesDir, { recursive: true });
-  mkdirSync(CONFIG.imagesDir, { recursive: true });
+  const progress = fullRebuildMode ? createDefaultProgress() : loadProgress();
+  if (fullRebuildMode) {
+    saveProgress(progress);
+  }
 
-  // Load or create progress
-  const progress = loadProgress();
+  log(`Loaded progress: ${progress.recipesProcessed.length} recipes already tracked`);
 
-  log(`Loaded progress: ${progress.recipesProcessed.length} recipes already processed`);
-
-  // Setup graceful shutdown
-  process.on("SIGINT", () => {
-    log("Received SIGINT, saving progress...");
+  process.on('SIGINT', () => {
+    log('Received SIGINT, saving progress...');
     saveProgress(progress);
     process.exit(0);
   });
 
-  process.on("SIGTERM", () => {
-    log("Received SIGTERM, saving progress...");
+  process.on('SIGTERM', () => {
+    log('Received SIGTERM, saving progress...');
     saveProgress(progress);
     process.exit(0);
   });
 
   try {
-    const overviewGenerated = await generateOverview(progress);
-    const processingStats = await processAllRecipes(progress);
-    const workDone = overviewGenerated || processingStats.processed > 0;
+    const overviewGenerated = await generateOverview(progress, fullRebuildMode);
+    const processingStats = await processAllRecipeRanges(
+      progress,
+      scan.recipeRanges,
+      scan.pageMetas,
+      fullRebuildMode
+    );
 
-    if (workDone) {
+    if (fullRebuildMode) {
+      if (processingStats.failed > 0) {
+        throw new Error(`Full rebuild had ${processingStats.failed} failed ranges; skipping cleanup`);
+      }
+      cleanupUnmatchedOutputs(processingStats.keepRecipeFiles, processingStats.keepImageFiles);
+    }
+
+    const didWork = overviewGenerated || processingStats.processed > 0 || fullRebuildMode;
+    if (didWork) {
       await regenerateAncillaryFiles(progress);
     } else {
       log('No work done, skipping ancillary file regeneration.');
     }
 
-    // Final summary
-    console.log("");
-    console.log("═══════════════════════════════════════════════════════════════");
-    console.log("  Processing Complete!");
-    console.log("═══════════════════════════════════════════════════════════════");
-    console.log(`  Total recipes processed: ${progress.totalRecipes}`);
-    console.log(`  Errors encountered: ${progress.errors.length}`);
+    console.log('');
+    console.log('═══════════════════════════════════════════════════════════════');
+    console.log('  Processing Complete!');
+    console.log('═══════════════════════════════════════════════════════════════');
+    console.log(`  Total recipes tracked: ${progress.totalRecipes}`);
+    console.log(`  Range failures: ${processingStats.failed}`);
     console.log(`  Output directory: ${CONFIG.outputDir}`);
-    console.log("═══════════════════════════════════════════════════════════════");
-
+    console.log('═══════════════════════════════════════════════════════════════');
   } catch (error: any) {
     logError(`Fatal error: ${error.message}`);
     saveProgress(progress);
@@ -1386,5 +1575,4 @@ async function main(): Promise<void> {
   }
 }
 
-// Run
 main();

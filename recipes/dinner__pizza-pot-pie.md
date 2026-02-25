@@ -6,11 +6,11 @@
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 619 | 18 | 71 | N/A | 47 |
+| 619 | 18 | 71 | undefined | 47 |
 
 ## Ingredients
 
-### DOUGH
+### DOUGH (makes 2 doughs)
 
 - 142g bread flour
 - 1g garlic powder
@@ -21,7 +21,7 @@
 
 ### HOMEMADE SAUCE
 
-- 28oz can Cento crushed tomatoes
+- 28oz can Cento" crushed tomatoes
 - 66g tomato paste
 - 80g onion, diced
 - 80g green bell pepper, diced
@@ -39,7 +39,7 @@
 - 65g fat-free mozzarella
 - 85g Homemade Sauce
 - 1 Dough
-- 5g unsalted butter
+- 3g unsalted butter
 
 ## Directions
 
@@ -52,7 +52,7 @@
 7. Make room in middle of pan and add minced garlic. Once garlic becomes fragrant, add crushed tomatoes and mix thoroughly.
 8. Add tomato paste, oregano, and crushed red pepper to the pot and stir to combine.
 9. Bring sauce to a simmer, turn burner to low, and let it simmer for about 20-30 minutes or to preferred thickness.
-10. Add salt and erythritol to the sauce, mix, and put sauce to the side to cool. You may take more or less salt/erythritol depending on your specific taste buds, so use my amounts as an outline. Add a bit at a time and try it until you are happy.
+10. Add salt and erythritol to the sauce, mix, and put sauce to the side to cool.
 11. Split dough in half and round into balls. Grab a bowl that is about 6.5" wide and 1.5" deep, and lightly spray with oil.
 12. Add thin slices of mozzarella to the bowl, covering the interior surface completely, then repeat with the fat free mozzarella. Add homemade sauce to the bowl.
 13. Using your fingers, push out from the middle of the dough, rotating it and working it into a circle, until it is big enough to cover the entire bowl.
@@ -65,4 +65,14 @@
 
 If you want a smoother sauce, mix with an immersion blender for about 30 seconds once all ingredients are added OR chop veggies smaller before adding them into the pot.
 
-![PIZZA POT PIE](../images/dinner-is-served__pizza-pot-pie.jpg)
+![PIZZA POT PIE](../images/dinner__pizza-pot-pie__p181.jpg)
+
+## Additional Recipe Pages
+
+![PIZZA POT PIE - page 182](../images/dinner__pizza-pot-pie__p182.jpg)
+
+![PIZZA POT PIE - page 183](../images/dinner__pizza-pot-pie__p183.jpg)
+
+## Source Pages
+
+181, 182, 183

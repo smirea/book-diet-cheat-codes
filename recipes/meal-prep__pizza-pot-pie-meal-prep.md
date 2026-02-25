@@ -6,7 +6,7 @@
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 585 | 17 | 69 | N/A | 41 |
+| 585 | 17 | 69 | undefined | 41 |
 
 ## Ingredients
 
@@ -54,5 +54,24 @@
 15. Add slices of mozzarella to the bowl, followed by the fat-free mozzarella and sauce.
 16. Grab the outside of the dough and rotate it in a circle, letting gravity stretch it out until it is big enough to cover the entire bowl.
 17. Lay the dough over the top of the bowl and pat the edges of the dough.
+18. Heat butter in the microwave until melted. Lightly brush it on the top and sides of the dough.
+19. Bake in a preheated 450°F oven for 14-16 minutes or until dough is golden brown.
+20. Once finished pull it out, heat 3g of butter in the microwave until melted, and brush on top.
+21. With high quality oven mitts, quickly flip the bowl on a tray lined with aluminum foil. Slowly go around the rim with a spoon and pull the bowl away from the pot pie.
+22. Brush any remaining butter on top of the crust and place under the broiler on high until the cheese and crust turn golden brown or to your preference.
 
-![PIZZA POT PIE MEAL PREP](../images/prep-school__pizza-pot-pie-meal-prep.jpg)
+## Tips
+
+You can make multiple pot pies at once and freeze them. To reheat, bake at 450°F for 12-16 minutes.
+
+![PIZZA POT PIE MEAL PREP](../images/meal-prep__pizza-pot-pie-meal-prep__p443.jpg)
+
+## Additional Recipe Pages
+
+![PIZZA POT PIE MEAL PREP - page 444](../images/meal-prep__pizza-pot-pie-meal-prep__p444.jpg)
+
+![PIZZA POT PIE MEAL PREP - page 445](../images/meal-prep__pizza-pot-pie-meal-prep__p445.jpg)
+
+## Source Pages
+
+443, 444, 445

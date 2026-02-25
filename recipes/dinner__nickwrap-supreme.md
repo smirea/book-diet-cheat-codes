@@ -6,11 +6,9 @@
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 456 | 21 | 53 | 28 | 45 |
+| 0 | 0 | 0 | undefined | 0 |
 
 ## Ingredients
-
-### INGREDIENTS
 
 - Mission® Carb Balance burrito tortillas
 - 448g 96% lean ground beef
@@ -35,7 +33,8 @@
 - 84g cooked taco meat
 - 14g reduced-fat sharp cheddar cheese
 - 1 tostada (12-14g)
-- 42g fat-free Greek yogurt OR 42g CILANTRO LIME SALSA
+- 42g fat-free Greek yogurt OR
+- 42g CILANTRO LIME SALSA
 - Lettuce
 - Tomato
 
@@ -49,7 +48,7 @@
 6. Stir the meat every 1-2 minutes until browned and seasoned.
 7. Pour meat into container or onto plate and cover.
 8. Into a large pan on low heat, add one tortilla at a time and heat for about 15-30 seconds or until pliable.
-9. Using scissors, cut a small circle from another tortilla, about a fifth of the size of the tostada. This will be used to help keep the Crunchwrap® sealed.
+9. Using scissors, cut a small circle from another tortilla, about a fifth of the size of the tortilla. This will be used to help keep the Crunchwrap® sealed.
 10. Place the larger warmed tortilla on the counter and add nacho cheese, ground beef, and cheddar cheese. You should spread these ingredients out the size of the tostada.
 11. Add tostada on top of all ingredients, then spread a thin layer of Greek yogurt evenly over top of tostada.
 12. Top the tostada with lettuce, tomatoes, and the small, pre-cut tortilla.
@@ -58,4 +57,8 @@
 15. Brown the Crunchwrap® to your desire, flip, and do the same on the top side.
 16. Grab some Taco Bell® sauce and enjoy!
 
-![NICKWRAP SUPREME](../images/dinner-is-served__nickwrap-supreme.jpg)
+![NICKWRAP SUPREME](../images/dinner__nickwrap-supreme__p116.jpg)
+
+## Source Pages
+
+116

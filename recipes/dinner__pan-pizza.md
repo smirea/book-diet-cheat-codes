@@ -6,7 +6,7 @@
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 983 | 27 | 106 | 103 | 86 |
+| 983 | 27 | 106 | 103 | 88 |
 
 ## Ingredients
 
@@ -42,4 +42,14 @@
 
 The dough will be very wet at this point.
 
-![PAN PIZZA](../images/dinner-is-served__pan-pizza.jpg)
+![PAN PIZZA](../images/dinner__pan-pizza__p169.jpg)
+
+## Additional Recipe Pages
+
+![PAN PIZZA - page 170](../images/dinner__pan-pizza__p170.jpg)
+
+![PAN PIZZA - page 171](../images/dinner__pan-pizza__p171.jpg)
+
+## Source Pages
+
+169, 170, 171

@@ -6,7 +6,7 @@
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 498 | 23 | 29 | N/A | 42 |
+| 488 | 23 | 29 | undefined | 42 |
 
 ## Ingredients
 
@@ -47,4 +47,12 @@
 
 Keep a close eye on the mozzarella sticks as they will start leaking if cooked for too long. Put breaded mozzarella sticks in the freezer for one hour or more to allow the mozzarella sticks to achieve a better browning and crisp in the air fryer.
 
-![MOZZARELLA STICKS](../images/shareables__mozzarella-sticks.jpg)
+![MOZZARELLA STICKS](../images/sides__mozzarella-sticks__p319.jpg)
+
+## Additional Recipe Pages
+
+![MOZZARELLA STICKS - page 320](../images/sides__mozzarella-sticks__p320.jpg)
+
+## Source Pages
+
+319, 320

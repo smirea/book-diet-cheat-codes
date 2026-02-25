@@ -45,4 +45,12 @@
 6. Take blade out, add 15g caramel, and fold in with a spatula.
 7. Transfer to desired drinking container, top with whipped cream and remaining caramel, and enjoy!
 
-![CARAMEL PUMPKIN SPICE PROTEIN ICE CREAM](../images/blender-ice-cream__caramel-pumpkin-spice-protein-ice-cream.jpg)
+![CARAMEL PUMPKIN SPICE PROTEIN ICE CREAM](../images/blender-ice-cream__caramel-pumpkin-spice-protein-ice-cream__p215.jpg)
+
+## Additional Recipe Pages
+
+![CARAMEL PUMPKIN SPICE PROTEIN ICE CREAM - page 216](../images/blender-ice-cream__caramel-pumpkin-spice-protein-ice-cream__p216.jpg)
+
+## Source Pages
+
+215, 216

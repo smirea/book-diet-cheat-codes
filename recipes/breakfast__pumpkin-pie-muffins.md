@@ -6,7 +6,7 @@
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 97 | 3 | 14 | 11 | 7 |
+| 252 | 8 | 43 | 26 | 23 |
 
 ## Ingredients
 
@@ -24,7 +24,7 @@
 
 - 90g all-purpose flour
 - 93g PEScience Pumpkin Pie protein powder (90g PEScience Multipurpose protein powder if sold out)
-- 3g pumpkin spice (6g if using PEScience Multipurpose protein powder)
+- 5g pumpkin spice (6g if using PEScience Multipurpose protein powder)
 - 7g ground cinnamon
 - 3g salt
 - 4g baking powder
@@ -35,7 +35,8 @@
 1. In a large bowl, add bananas and break them down using a fork or an immersion blender.
 2. In a large bowl, add the Wet Ingredients and whisk to combine.
 3. In another large bowl, add the Dry Ingredients and whisk to combine.
-4. Add Dry Ingredients into the bowl of the Wet Ingredients and whisk until just BARELY combined — overmixing will result in chewy muffins. To make sure everything is combined, fold the mixture 3-4 times and scrape the bottom of the bowl with a silicone spatula.
+4. Add Dry Ingredients into the bowl of the Wet Ingredients and whisk until just BARELY combined 
+ overmixing will result in chewy muffins. To make sure everything is combined, fold the mixture 3-4 times and scrape the bottom of the bowl with a silicone spatula.
 5. Line 13 muffin liners on a sheet pan, add 59g of muffin mix to each liner, and bake in a preheated 350°F oven for 16-18 minutes. You know they are done when a toothpick inserted in the center of a muffin has some crumbs sticking to it, but nothing wet.
 6. Store muffins in a paper towel lined air-tight container or simply throw them in a plastic bag and enjoy for the next 3-4 days.
 
@@ -43,4 +44,12 @@
 
 If you want a moister muffin, pull them about one minute before they are done. They will be slightly underdone, but it'll make them so much more flavorful in my opinion.
 
-![PUMPKIN PIE MUFFINS](../images/breakfast-bliss__pumpkin-pie-muffins.jpg)
+![PUMPKIN PIE MUFFINS](../images/breakfast__pumpkin-pie-muffins__p76.jpg)
+
+## Additional Recipe Pages
+
+![PUMPKIN PIE MUFFINS - page 77](../images/breakfast__pumpkin-pie-muffins__p77.jpg)
+
+## Source Pages
+
+76, 77

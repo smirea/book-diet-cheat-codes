@@ -1,4 +1,4 @@
-# S'MORES PROTEIN ICE CREAM
+# S'Mores Protein Ice Cream
 
 **Serves:** 1 | **Prep:** 10 MINS | **Cook:** 4 MINS
 
@@ -41,7 +41,15 @@
 5. Take blade out, mix everything around with a spatula, scrape off any dry ingredients stuck on the walls of blender, and replace blade.
 6. Add Spin 2 ingredients to blender in the order listed and blend for 1 minute on high.
 7. Take blade out, mix everything around with a spatula, scrape off any dry ingredients stuck on the walls of blender, replace blade, and blend for 1 more minute.
-8. Take blade out, add ounds Mix-ins, and stir together.
+8. Take blade out, add ¾ Mix-ins, and stir together.
 9. Transfer to desired drinking container, top with remaining graham crackers and EAT!
 
-![S'MORES PROTEIN ICE CREAM](../images/blender-ice-cream__smores-protein-ice-cream.jpg)
+![S'Mores Protein Ice Cream](../images/blender-ice-cream__smores-protein-ice-cream__p207.jpg)
+
+## Additional Recipe Pages
+
+![S'Mores Protein Ice Cream - page 208](../images/blender-ice-cream__smores-protein-ice-cream__p208.jpg)
+
+## Source Pages
+
+207, 208

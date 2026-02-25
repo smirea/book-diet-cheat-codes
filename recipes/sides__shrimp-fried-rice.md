@@ -16,11 +16,9 @@
 - 8g garlic, minced
 - 30g peas and carrots, frozen
 - 8g avocado oil
-
-### Sauce
-
+- Sauce
 - 20g oyster sauce
-- 25g soy sauce
+- 20g soy sauce
 - 2g MSG
 - Dash black pepper
 
@@ -36,4 +34,12 @@
 8. Add cauliflower rice and the sauce mix. Stir constantly for one minute.
 9. Add shrimp, mix for an additional 30 seconds, plate it, and eat it.
 
-![SHRIMP FRIED RICE](../images/shareables__shrimp-fried-rice.jpg)
+![SHRIMP FRIED RICE](../images/sides__shrimp-fried-rice__p327.jpg)
+
+## Additional Recipe Pages
+
+![SHRIMP FRIED RICE - page 328](../images/sides__shrimp-fried-rice__p328.jpg)
+
+## Source Pages
+
+327, 328

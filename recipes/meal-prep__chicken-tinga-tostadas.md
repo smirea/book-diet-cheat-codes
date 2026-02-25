@@ -6,7 +6,7 @@
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 611 | 12 | 79 | N/A | 56 |
+| 611 | 12 | 79 | undefined | 56 |
 
 ## Ingredients
 
@@ -20,7 +20,7 @@
 - 8g avocado oil
 - 397g fire roasted tomatoes
 - 105g chipotle peppers in adobo
-- 9g Better Than Bouillon® chicken base
+- 9 Better Than Bouillon™ chicken base
 - 2 bay leaves
 
 ### TOSTADA PLATE
@@ -47,4 +47,12 @@
 10. To reheat, place a damp paper towel over a container and microwave in 1-minute intervals, stirring between each interval until desired temperate is reached.
 11. Top tostada with ingredients in the order listed and eat.
 
-![CHICKEN TINGA TOSTADAS](../images/prep-school__chicken-tinga-tostadas.jpg)
+![CHICKEN TINGA TOSTADAS](../images/meal-prep__chicken-tinga-tostadas__p441.jpg)
+
+## Additional Recipe Pages
+
+![CHICKEN TINGA TOSTADAS - page 442](../images/meal-prep__chicken-tinga-tostadas__p442.jpg)
+
+## Source Pages
+
+441, 442

@@ -6,7 +6,7 @@
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 48 | 3 | 3 | N/A | 2 |
+| 48 | 3 | 3 | undefined | 2 |
 
 ## Ingredients
 
@@ -23,7 +23,7 @@
 - 1 egg yolk
 - 6g salt
 - 5g granulated erythritol
-- 0.5g marjoram
+- 30g marjoram
 - 1g basil
 - 1g oregano
 - 1g crushed red pepper flakes
@@ -44,4 +44,12 @@
 
 To make sauce even smoother, use an immersion blender for steps 6 and 7.
 
-![GARLIC PARMESAN SAUCE](../images/lets-get-saucy__garlic-parmesan-sauce.jpg)
+![GARLIC PARMESAN SAUCE](../images/sauces__garlic-parmesan-sauce__p349.jpg)
+
+## Additional Recipe Pages
+
+![GARLIC PARMESAN SAUCE - page 350](../images/sauces__garlic-parmesan-sauce__p350.jpg)
+
+## Source Pages
+
+349, 350

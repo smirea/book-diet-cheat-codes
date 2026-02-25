@@ -6,7 +6,7 @@
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 729 | 24 | 58 | N/A | 68 |
+| 729 | 24 | 58 | undefined | 68 |
 
 ## Ingredients
 
@@ -36,7 +36,7 @@
 2. Heat beer to 90°F, then turn food processor on high and slowly pour beer into it over a 20 second period. Keep processing for an additional 30 seconds.
 3. Flip dough out onto a lightly floured surface and knead for 1 minute. Divide dough into two pieces, shape into balls, and put under a damp towel for 15 minutes.
 4. While waiting, shred any cheese needed and/or make a FOOLPROOF HOMEMADE MARINARA.
-5. Lay four 12-inch pieces of parchment paper on the counter and lightly spray with oil.
+5. For four 12-inch pieces of parchment paper on the counter and lightly spray with oil.
 6. Grab a dough, pat between your hands until it is roughly 5 inches in diameter, put it on the parchment paper, and cover with another piece of parchment oil side down.
 7. Using a rolling pin, gently roll back and forth at different angles to keep the shape of a circle.
 8. Once pizza is about 12" or to your desired thickness, place in a warm spot in the kitchen to rise for 30 minutes and start preheating oven to 500°F.
@@ -46,6 +46,14 @@
 
 ## Tips
 
-If you only want to make one pizza you can store the extra dough in the fridge for up to a week. In a high-sided container, spray with oil, place the dough ball [not rolled out], cover, and throw it in the fridge. An hour before you are ready to eat, take the dough out of the fridge and then start at step 4.
+If you only want to make one pizza you can store the extra dough in the fridge for up to a week. In a high-sided container, spray with oil, place the dough ball (not rolled out), cover, and throw it in the fridge. An hour before you are ready to eat, take the dough out of the fridge and then start at step 4.
 
-![1 HOUR PIZZA](../images/dinner-is-served__1-hour-pizza.jpg)
+![1 HOUR PIZZA](../images/dinner__1-hour-pizza__p163.jpg)
+
+## Additional Recipe Pages
+
+![1 HOUR PIZZA - page 164](../images/dinner__1-hour-pizza__p164.jpg)
+
+## Source Pages
+
+163, 164

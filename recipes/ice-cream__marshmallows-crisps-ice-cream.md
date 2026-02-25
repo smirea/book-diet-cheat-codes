@@ -6,7 +6,7 @@
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 160 | 5 | 61 | 16 | 11 |
+| 160 | 5 | 81 | 16 | 11 |
 
 ## Ingredients
 
@@ -24,9 +24,7 @@
 
 ### MIX-INS
 
-- 11g Lucky Charms
-®
-cereal
+- 11g Lucky Charms® cereal
 
 ## Directions
 
@@ -44,4 +42,12 @@ cereal
 
 Leave a couple grams of cereal on the side to top your pint with when it is finished.
 
-![MARSHMALLOWS + CRISPS ICE CREAM](../images/ice-cream-pints__marshmallows-crisps-ice-cream.jpg)
+![MARSHMALLOWS + CRISPS ICE CREAM](../images/ice-cream__marshmallows-crisps-ice-cream__p273.jpg)
+
+## Additional Recipe Pages
+
+![MARSHMALLOWS + CRISPS ICE CREAM - page 274](../images/ice-cream__marshmallows-crisps-ice-cream__p274.jpg)
+
+## Source Pages
+
+273, 274

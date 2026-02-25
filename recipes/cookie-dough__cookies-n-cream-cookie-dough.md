@@ -37,9 +37,21 @@
 2. Add the rest of the Dry Ingredients to the bowl and whisk thoroughly.
 3. In a separate large bowl, microwave butter in ten second intervals until melted.
 4. Add the rest of the Wet Ingredients over the butter and whisk until combined.
-5. Add the Dry Ingredients to the Wet Ingredients in 3-4 parts and combine using a whisk. Once one part is fully mixed in, add another, and repeat until finished. When the mixture becomes too thick for a whisk, switch to a spatula.
+5. Add the Dry Ingredients to the Wet Ingredients in 3-4 parts and combine using a whisk. Once one part is fully mixed in, add another, and repeat until finished.
 6. To ensure everything is well combined, bring the mixture up the sides of the bowl with the spatula and wipe down the sides of the bowl, pressing out any clumps. I repeat this process 3-5 times.
-7. Add ⅔ of the Oreos®, fold them in, add to a container, and top with the remaining Oreos®.
+7. Add ¾ of the Oreos®, fold them in, add to a container, and top with the remaining Oreos®.
 8. Enjoy right away or for peak flavor refrigerate for 24 hours.
 
-![COOKIES N' CREAM COOKIE DOUGH](../images/cookie-dough__cookies-n-cream-cookie-dough.jpg)
+## Notes
+
+When the mixture becomes too thick for a whisk, switch to a spatula.
+
+![COOKIES N' CREAM COOKIE DOUGH](../images/cookie-dough__cookies-n-cream-cookie-dough__p309.jpg)
+
+## Additional Recipe Pages
+
+![COOKIES N' CREAM COOKIE DOUGH - page 310](../images/cookie-dough__cookies-n-cream-cookie-dough__p310.jpg)
+
+## Source Pages
+
+309, 310

@@ -6,7 +6,7 @@
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 375 | 11 | 68 | 26 | 41 |
+| 375 | 11 | 68 | 28 | 41 |
 
 ## Ingredients
 
@@ -49,4 +49,12 @@
 
 Leave a couple grams of Mix-ins to the side to top your pint with when it is finished.
 
-![APPLE PIE ICE CREAM](../images/ice-cream-pints__apple-pie-ice-cream.jpg)
+![APPLE PIE ICE CREAM](../images/ice-cream__apple-pie-ice-cream__p281.jpg)
+
+## Additional Recipe Pages
+
+![APPLE PIE ICE CREAM - page 282](../images/ice-cream__apple-pie-ice-cream__p282.jpg)
+
+## Source Pages
+
+281, 282

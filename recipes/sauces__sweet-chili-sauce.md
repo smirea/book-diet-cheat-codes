@@ -32,8 +32,19 @@
 4. When the pot starts to boil, add corn starch slurry and stir immediately.
 5. Let the sauce simmer for 1-2 minutes.
 6. Place sesame oil and xanthan gum in a bowl and mix until the xanthan gum has completely dissolved into the oil.
-7. If you can't get sesame oil, replace it with avocado oil or another neutral tasting oil.
-8. Remove pot from heat, add oil mixture, and stir to combine.
-9. Once sauce has reached room temperature, place in a container and refrigerate.
+7. Remove pot from heat, add oil mixture, and stir to combine.
+8. Once sauce has reached room temperature, place in a container and refrigerate.
 
-![SWEET CHILI SAUCE](../images/lets-get-saucy__sweet-chili-sauce.jpg)
+## Tips
+
+If you can't get sesame oil, replace it with avocado oil or another neutral tasting oil.
+
+![SWEET CHILI SAUCE](../images/sauces__sweet-chili-sauce__p365.jpg)
+
+## Additional Recipe Pages
+
+![SWEET CHILI SAUCE - page 366](../images/sauces__sweet-chili-sauce__p366.jpg)
+
+## Source Pages
+
+365, 366

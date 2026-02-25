@@ -1,21 +1,22 @@
 # MINT CHOCOLATE COOKIE PROTEIN ICE CREAM
 
-**Serves:** 1 | **Prep:** 8 MINS | **Cook:** 4 MINS
+**Serves:** 1 | **Prep:** 6 MINS | **Cook:** 4 MINS
 
 ## Macros
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 571 | 11 | 78 | 48 | 69 |
+| 0 | 0 | 0 | N/A | 0 |
 
 ## Ingredients
 
+- 480g ice
+
 ### SPIN 1
 
-- 480g ice
 - 84g fat-free milk
 - 140g fat-free Greek yogurt
-- 15 drops or 1/4 tsp peppermint extract
+- 15 drops or ¼ tsp peppermint extract
 - 4.2g vanilla extract
 - 12 drops green food coloring (optional)
 - 1g salt
@@ -44,4 +45,8 @@
 7. Take blade out, add ¾ Mix-ins, and stir together.
 8. Transfer to desired drinking container, top with the rest of the Mix-ins, and enjoy!
 
-![MINT CHOCOLATE COOKIE PROTEIN ICE CREAM](../images/blender-ice-cream__mint-chocolate-cookie-protein-ice-cream.jpg)
+![MINT CHOCOLATE COOKIE PROTEIN ICE CREAM](../images/blender-ice-cream__mint-chocolate-cookie-protein-ice-cream__p204.jpg)
+
+## Source Pages
+
+204

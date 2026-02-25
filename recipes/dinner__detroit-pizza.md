@@ -24,7 +24,7 @@
 - 10g olive oil
 - 8g garlic, minced
 - 1g dried oregano
-- .5g dried basil
+- 5g dried basil
 - 1g garlic powder
 - 4g salt
 - .5g black pepper
@@ -35,8 +35,8 @@
 - 1 dough
 - 42g turkey pepperoni
 - 84g fat-free mozzarella cheese, shredded
-- 98g brick cheese, shredded
-- 90g sauce
+- 30g brick cheese, shredded
+- 30g sauce
 
 ## Directions
 
@@ -58,4 +58,12 @@
 16. Immediately place the pizza on a wire rack so the bottom stays crispy.
 17. Divide into 4 slices and eat.
 
-![DETROIT PIZZA](../images/dinner-is-served__detroit-pizza.jpg)
+![DETROIT PIZZA](../images/dinner__detroit-pizza__p177.jpg)
+
+## Additional Recipe Pages
+
+![DETROIT PIZZA - page 178](../images/dinner__detroit-pizza__p178.jpg)
+
+## Source Pages
+
+177, 178

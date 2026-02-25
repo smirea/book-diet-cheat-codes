@@ -40,4 +40,12 @@
 
 This sauce should stay good at least two weeks, especially if you make it with fresh greek yogurt. If you are worried about having too much sauce, I would suggest making a half batch first.
 
-![GARLIC PARMESAN SAUCE V2](../images/lets-get-saucy__garlic-parmesan-sauce-v2.jpg)
+![GARLIC PARMESAN SAUCE V2](../images/sauces__garlic-parmesan-sauce-v2__p351.jpg)
+
+## Additional Recipe Pages
+
+![GARLIC PARMESAN SAUCE V2 - page 352](../images/sauces__garlic-parmesan-sauce-v2__p352.jpg)
+
+## Source Pages
+
+351, 352

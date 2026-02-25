@@ -10,12 +10,11 @@
 
 ## Ingredients
 
-- 470g ice
-
 ### SPIN 1
 
+- 470g ice
 - 110g fat-free milk
-- 40g Torani® strawberry puree
+- 40g Torani* strawberry puree
 - 4.2g vanilla extract
 - 2g salt
 
@@ -36,4 +35,12 @@
 5. Take blade out, mix everything around with a spatula, scrape off any dry ingredients stuck on the walls of blender, replace blade, and blend for 1 more minute.
 6. Take blade out, pour into a glass, and enjoy.
 
-![STRAWBERRY SOFT SERVE](../images/blender-ice-cream__strawberry-soft-serve.jpg)
+![STRAWBERRY SOFT SERVE](../images/blender-ice-cream__strawberry-soft-serve__p237.jpg)
+
+## Additional Recipe Pages
+
+![STRAWBERRY SOFT SERVE - page 238](../images/blender-ice-cream__strawberry-soft-serve__p238.jpg)
+
+## Source Pages
+
+237, 238

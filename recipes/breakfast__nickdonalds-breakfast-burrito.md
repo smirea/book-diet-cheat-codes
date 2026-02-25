@@ -1,12 +1,12 @@
 # NICKDONALD'S BREAKFAST BURRITO
 
-**Serves:** 1 | **Prep:** 10 MINS | **Cook:** 15 MINS
+**Serves:** 4 | **Prep:** 10 MINS | **Cook:** 15 MINS
 
 ## Macros
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 466 | 19 | 46 | 24 | 49 |
+| 468 | 19 | 46 | 24 | 49 |
 
 ## Ingredients
 
@@ -19,7 +19,7 @@
 - Salt and black pepper, to taste
 - 3.5g unsalted butter
 - 94g BREAKFAST SAUSAGE
-- 2 La Banderita® Carb Counter taco tortillas
+- 2 La Bandenta® Carb Counter taco tortillas
 - 2 slices original Velveeta® cheese
 - Optional: Pace® picante salsa
 
@@ -39,4 +39,12 @@
 12. Add burritos to separate pieces of parchment paper, roll them up, and throw in the microwave for 30 seconds.
 13. Let sit for 1-2 minutes, grab some salsa, and it's time to EAT.
 
-![NICKDONALD'S BREAKFAST BURRITO](../images/breakfast-bliss__nickdonalds-breakfast-burrito.jpg)
+![NICKDONALD'S BREAKFAST BURRITO](../images/breakfast__nickdonalds-breakfast-burrito__p63.jpg)
+
+## Additional Recipe Pages
+
+![NICKDONALD'S BREAKFAST BURRITO - page 64](../images/breakfast__nickdonalds-breakfast-burrito__p64.jpg)
+
+## Source Pages
+
+63, 64

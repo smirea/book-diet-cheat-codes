@@ -6,7 +6,7 @@
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 286 | 12 | 14 | N/A | 29 |
+| 288 | 12 | 14 | undefined | 29 |
 
 ## Ingredients
 
@@ -22,8 +22,8 @@
 - 100g carrot, grated
 - 15g garlic, minced
 - 5g smoked paprika
-- 112g cremini mushrooms, chopped
-- 15g fresh parsley, chopped
+- 12g cremini mushrooms, chopped
+- 10g fresh parsley, chopped
 - 448g 93% lean ground beef
 - 448g 90% lean ground pork
 - 10g salt
@@ -52,4 +52,12 @@
 12. Add a second layer of glaze to the meatloaf and continue baking for another 5-10 minutes or until the internal temperature reaches 140-145°F throughout the loaf.
 13. Apply any leftover glaze and allow the meatloaf to set for 15-20 minutes. Cut into ½" slices and enjoy this lower calorie version of an American Classic.
 
-![MEATLOAF](../images/dinner-is-served__meatloaf.jpg)
+![MEATLOAF](../images/dinner__meatloaf__p145.jpg)
+
+## Additional Recipe Pages
+
+![MEATLOAF - page 146](../images/dinner__meatloaf__p146.jpg)
+
+## Source Pages
+
+145, 146

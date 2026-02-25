@@ -37,7 +37,7 @@
 3. Minus the 40 grams of chopped strawberries, add all cheesecake filling ingredients into a high-sided container and using an immersion blender mix for 2 minutes. You can use a blender cup to do this as well. You may need to scrape down the sides a few times to fully combine.
 4. Put the chopped strawberries in the container and stir to evenly distribute.
 5. Add 108 grams of the cheesecake filling to a small bowl and refrigerate the rest.
-6. Into a preheated Stüffler® waffle maker, add a layer of waffle batter so the bottom grids and waffle divider are thinly, but completely covered.
+6. Into a preheated Stuffer® waffle maker, add a layer of waffle batter so the bottom grids and waffle divider are thinly, but completely covered.
 7. Place the cheesecake filling in the center of the waffle maker. Make sure it is evenly spread out and is about a half inch from the edges of the waffle maker.
 8. Cover the filling with the remaining batter until it reaches the top of the square projections on the waffle tongs.
 9. Close the waffle maker, flip, and cook for 5-6 minutes.
@@ -47,4 +47,14 @@
 
 You can use any premade waffle mix that you would like. However, you may need to adjust the amount of water used and macros as needed. One batch of cheesecake filling makes enough for 3 waffles.
 
-![STRAWBERRY CHEESECAKE STUFFED WAFFLE](../images/breakfast-bliss__strawberry-cheesecake-stuffed-waffle.jpg)
+![STRAWBERRY CHEESECAKE STUFFED WAFFLE](../images/breakfast__strawberry-cheesecake-stuffed-waffle__p53.jpg)
+
+## Additional Recipe Pages
+
+![STRAWBERRY CHEESECAKE STUFFED WAFFLE - page 54](../images/breakfast__strawberry-cheesecake-stuffed-waffle__p54.jpg)
+
+![STRAWBERRY CHEESECAKE STUFFED WAFFLE - page 55](../images/breakfast__strawberry-cheesecake-stuffed-waffle__p55.jpg)
+
+## Source Pages
+
+53, 54, 55

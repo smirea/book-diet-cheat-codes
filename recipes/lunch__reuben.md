@@ -6,15 +6,15 @@
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 486 | 19 | 32 | N/A | 47 |
+| 486 | 19 | 32 | undefined | 47 |
 
 ## Ingredients
 
-- 2 slices Lewis® hearty rye bread
+- 2 slices Lewis* hearty rye bread
 - 30g RUSSIAN DRESSING
-- 28g Amish Farms® baby swiss cheese (thinly sliced)
-- 84g Kretschmar® pastrami
-- 84g Eckrich® corned beef
+- 28g Amish Farms* baby swiss cheese (thinly sliced)
+- 84g Kretschmar* pastrami
+- 84g Eckrich* corned beef
 - 60g sauerkraut
 
 ## Directions
@@ -27,4 +27,12 @@
 6. Once bottom side is browned, flip and repeat.
 7. Add sauerkraut to the sandwich, cut in half, and it's time to eat.
 
-![REUBEN](../images/midday-munchies__reuben.jpg)
+![REUBEN](../images/lunch__reuben__p95.jpg)
+
+## Additional Recipe Pages
+
+![REUBEN - page 96](../images/lunch__reuben__p96.jpg)
+
+## Source Pages
+
+95, 96

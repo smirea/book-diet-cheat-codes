@@ -38,8 +38,7 @@
 1. Add the eggs, egg yolk, granulated erythritol, and brown sugar erythritol to a large bowl and whisk to combine.
 2. Add the rest of the Wet Ingredients to the bowl and whisk to combine.
 3. In another large bowl, add the Dry Ingredients and whisk to combine.
-4. Add Dry Ingredients into the bowl of the Wet Ingredients and whisk until just BARELY combined 
-overmixing will result in chewy muffins. To make sure everything is combined, fold the mixture 3-4 times and scrape the bottom of the bowl with a silicone spatula.
+4. Add Dry Ingredients into the bowl of the Wet Ingredients and whisk until just BARELY combined - overmixing will result in chewy muffins. To make sure everything is combined, fold the mixture 3-4 times and scrape the bottom of the bowl with a silicone spatula.
 5. Add 45 grams of chocolate chips to the batter and fold them in until evenly distributed.
 6. Line a jumbo muffin pan with large baking cups, lightly spray each cup with oil to prevent sticking, and add 140g of batter to each cup.
 7. Add remaining chocolate chips to a small bowl, top each muffin with chocolate chips, and bake in a preheated 300°F oven for 28-32 minutes. You know the muffins are done when a toothpick inserted in the center of a muffin has some crumbs sticking to it, but nothing wet.
@@ -49,4 +48,12 @@ overmixing will result in chewy muffins. To make sure everything is combined, fo
 
 For the ultimate eating experience, pop the muffin in the microwave for 10-15 seconds before indulging. This will make the muffin soft, ultra moist, and melt the chocolate chips to perfection.
 
-![JUMBO CHOCOLATE CHIP MUFFINS](../images/breakfast-bliss__jumbo-chocolate-chip-muffins.jpg)
+![JUMBO CHOCOLATE CHIP MUFFINS](../images/breakfast__jumbo-chocolate-chip-muffins__p79.jpg)
+
+## Additional Recipe Pages
+
+![JUMBO CHOCOLATE CHIP MUFFINS - page 80](../images/breakfast__jumbo-chocolate-chip-muffins__p80.jpg)
+
+## Source Pages
+
+79, 80

@@ -15,7 +15,7 @@
 - 430g 2% milk
 - 1 egg yolk
 - 4g vanilla extract
-- 1/2 vanilla bean pod
+- ½ vanilla bean pod
 
 ### DRY
 
@@ -36,4 +36,12 @@
 9. Adjust creaminess with an additional re-spin if necessary.
 10. Grab a spoon and enjoy.
 
-![VANILLA BASE "BEST"](../images/ice-cream-pints__vanilla-base-best.jpg)
+![VANILLA BASE "BEST"](../images/ice-cream__vanilla-base-best__p245.jpg)
+
+## Additional Recipe Pages
+
+![VANILLA BASE "BEST" - page 246](../images/ice-cream__vanilla-base-best__p246.jpg)
+
+## Source Pages
+
+245, 246

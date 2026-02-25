@@ -15,7 +15,7 @@
 - 160g 1% milk
 - 265g unsweetened almond milk
 - 4.2g vanilla extract
-- 15g Fruity Pebbles® syrup
+- 15g Fruity Pebbles syrup
 
 ### DRY
 
@@ -25,7 +25,7 @@
 
 ### MIX-INS
 
-- 9g Fruity Pebbles® cereal
+- 9g Fruity Pebbles cereal
 
 ## Directions
 
@@ -34,8 +34,8 @@
 3. Put a small hand blender into the bottom of your pint and start blending the Wet Ingredients together. Slowly add your Dry Ingredients into the middle of the pint.
 4. Once all Dry Ingredients have dissolved in the pint, continue blending for 90 seconds.
 5. Put the top on the pint and freeze for 24 hours.
-6. Take the frozen pint, run it under hot water for 40 seconds, load it into the CREAMI®, and hit the ice cream button.
-7. Get Mix-ins ready and once the first spin is finished, load pint right back up for a re-spin.
+6. Take the frozen pint, run it under hot water for 40 seconds, load it into the CREAMi®, and hit the ice cream button.
+7. Get Mix-Ins ready and once the first spin is finished, load pint right back up for a re-spin.
 8. Using a butter knife, make a hole in the middle of the pint about 1" in diameter, pull the ice cream out, and load the Fruity Pebbles® cereal into the middle.
 9. Load the pint back up, press the mix-in setting, and you now have a cream that is ready to eat.
 
@@ -43,4 +43,12 @@
 
 Leave a couple grams of cereal on the side to top your pint with when it is finished.
 
-![FRUITY CRISPS ICE CREAM](../images/ice-cream-pints__fruity-crisps-ice-cream.jpg)
+![FRUITY CRISPS ICE CREAM](../images/ice-cream__fruity-crisps-ice-cream__p269.jpg)
+
+## Additional Recipe Pages
+
+![FRUITY CRISPS ICE CREAM - page 270](../images/ice-cream__fruity-crisps-ice-cream__p270.jpg)
+
+## Source Pages
+
+269, 270

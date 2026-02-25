@@ -34,4 +34,12 @@
 11. Unload the pint and using a spoon push the contents of the CREAMi® down, smooth and level the surface, load it back up, and hit the re-spin button.
 12. A perfect sorbet consistency has now been achieved and it is time to eat.
 
-![CANTALOUPE SORBET](../images/fruit-sorbets__cantaloupe-sorbet.jpg)
+![CANTALOUPE SORBET](../images/sorbets__cantaloupe-sorbet__p291.jpg)
+
+## Additional Recipe Pages
+
+![CANTALOUPE SORBET - page 292](../images/sorbets__cantaloupe-sorbet__p292.jpg)
+
+## Source Pages
+
+291, 292

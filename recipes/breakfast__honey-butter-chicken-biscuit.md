@@ -6,7 +6,7 @@
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 381 | 12 | 32 | N/A | 36 |
+| 381 | 12 | 32 | undefined | 38 |
 
 ## Ingredients
 
@@ -47,14 +47,23 @@
 7. Shake off any excess, add to a wire rack, and repeat for all pieces of chicken.
 8. Add chicken to a preheated air fryer at 350°F, lightly spray each side with oil, and cook for 8-10 minutes or until internal temperature is 155°F.
 9. Add honey butter ingredients into a small bowl and whisk.
-10. When biscuits are out of the oven and cooled, cut each biscuit into thirds, discarding the middle third.
-11. The goal is to make the biscuit weigh about 37g to reduce calories.
-12. Add honey butter to each side of the biscuit and add Sriracha into the container that just had the honey butter in it.
-13. Mix the Sriracha and honey butter remnants together and brush onto chicken.
-14. Add chicken in-between the biscuits and EAT.
+10. When biscuits are out of the oven and cooled, cut each biscuit into thirds, discarding the middle third. The goal is to make the biscuit weight about 37g to reduce calories.
+11. Add honey butter to each side of the biscuit and add Sriracha into the container that just had the honey butter in it.
+12. Mix the Sriracha and honey butter remnants together and brush onto chicken.
+13. Add chicken in-between the biscuits and EAT.
 
 ## Tips
 
 Use an extra biscuit with a layer removed to add more volume to your meal. Just cut the chicken in half and split it between biscuits.
 
-![HONEY BUTTER CHICKEN BISCUIT](../images/breakfast-bliss__honey-butter-chicken-biscuit.jpg)
+![HONEY BUTTER CHICKEN BISCUIT](../images/breakfast__honey-butter-chicken-biscuit__p69.jpg)
+
+## Additional Recipe Pages
+
+![HONEY BUTTER CHICKEN BISCUIT - page 70](../images/breakfast__honey-butter-chicken-biscuit__p70.jpg)
+
+![HONEY BUTTER CHICKEN BISCUIT - page 71](../images/breakfast__honey-butter-chicken-biscuit__p71.jpg)
+
+## Source Pages
+
+69, 70, 71

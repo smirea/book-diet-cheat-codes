@@ -10,10 +10,9 @@
 
 ## Ingredients
 
-- 360g ice
-
 ### SPIN 1
 
+- 360g Ice
 - 100g frozen strawberries
 - 84g fat-free milk
 - 150g fat-free Greek yogurt
@@ -46,6 +45,14 @@
 
 ## Tips
 
-TIP: You can use pre-packaged frozen strawberries or buy your own from the store. If you buy fresh from the produce sections just cut off the stem of the strawberries and add them to a plastic bag. They should be frozen and ready to go in just a few hours. TIP: If you want an even deeper strawberry flavor, substitute some of the ice for frozen strawberries. Just make sure you account for any changes in your calorie tracking. Also, depending on the freshness and sweetness of your strawberries you may need to add more or less granulated erythritol.
+You can use pre-packaged frozen strawberries or buy your own from the store. If you buy fresh from the produce sections just cut off the stem of the strawberries and add them to a plastic bag. They should be frozen and ready to go in just a few hours. If you want an even deeper strawberry flavor, substitute some of the ice for frozen strawberries. Just make sure you account for any changes in your calorie tracking. Also, depending on the freshness and sweetness of your strawberries you may need to add more or less granulated erythritol.
 
-![STRAWBERRY DONUT MILKSHAKE](../images/blender-ice-cream__strawberry-donut-milkshake.jpg)
+![STRAWBERRY DONUT MILKSHAKE](../images/blender-ice-cream__strawberry-donut-milkshake__p223.jpg)
+
+## Additional Recipe Pages
+
+![STRAWBERRY DONUT MILKSHAKE - page 224](../images/blender-ice-cream__strawberry-donut-milkshake__p224.jpg)
+
+## Source Pages
+
+223, 224

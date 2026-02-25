@@ -6,7 +6,7 @@
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 303 | 13 | 30 | 24 | 24 |
+| 395 | 12 | 52 | 30 | 40 |
 
 ## Ingredients
 
@@ -52,4 +52,12 @@
 12. Try Taco Filling and see if it needs any additional salt.
 13. Add filling to the taco shell followed by spicy ranch and lettuce and it's time to eat.
 
-![CHEESY GORDITA CRUNCH](../images/dinner-is-served__cheesy-gordita-crunch.jpg)
+![CHEESY GORDITA CRUNCH](../images/dinner__cheesy-gordita-crunch__p122.jpg)
+
+## Additional Recipe Pages
+
+![CHEESY GORDITA CRUNCH - page 123](../images/dinner__cheesy-gordita-crunch__p123.jpg)
+
+## Source Pages
+
+122, 123

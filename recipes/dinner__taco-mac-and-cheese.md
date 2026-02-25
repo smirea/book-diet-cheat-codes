@@ -6,7 +6,7 @@
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 547 | 12 | 53 | N/A | 59 |
+| 0 | N/A | N/A | N/A | N/A |
 
 ## Ingredients
 
@@ -22,7 +22,7 @@
 - 4.5g salt
 - 2g MSG
 - 1.5g black pepper
-- 70g tomato paste
+- 75g tomato paste
 - 480g beef bone broth
 - 7g gelatin
 - 220g fat-free milk
@@ -50,6 +50,10 @@
 
 ## Tips
 
-To reheat: microwave for 90 seconds, stir in 15-20g of milk, then microwave for another 60 seconds. If you want it more creamy, stir in an additional 15-20g of milk and microwave for a final 30 seconds.
+To reheat, microwave for 60 seconds, stir in 15-20g of milk, then microwave for another 60 seconds. If you want it more creamy, stir in an additional 15-20g of milk and microwave for a final 30 seconds.
 
-![TACO MAC AND CHEESE](../images/dinner-is-served__taco-mac-and-cheese.jpg)
+![TACO MAC AND CHEESE](../images/dinner__taco-mac-and-cheese__p112.jpg)
+
+## Source Pages
+
+112

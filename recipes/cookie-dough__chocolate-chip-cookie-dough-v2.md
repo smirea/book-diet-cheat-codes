@@ -6,7 +6,7 @@
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 180 | 7 | 26 | 16 | 11 |
+| 160 | 7 | 28 | 16 | 11 |
 
 ## Ingredients
 
@@ -40,4 +40,12 @@
 7. Add chocolate chips, mix until combined, and put in a container.
 8. Enjoy right away or for peak flavor, refrigerate for 24 hours.
 
-![CHOCOLATE CHIP COOKIE DOUGH V2](../images/cookie-dough__chocolate-chip-cookie-dough-v2.jpg)
+![CHOCOLATE CHIP COOKIE DOUGH V2](../images/cookie-dough__chocolate-chip-cookie-dough-v2__p303.jpg)
+
+## Additional Recipe Pages
+
+![CHOCOLATE CHIP COOKIE DOUGH V2 - page 304](../images/cookie-dough__chocolate-chip-cookie-dough-v2__p304.jpg)
+
+## Source Pages
+
+303, 304

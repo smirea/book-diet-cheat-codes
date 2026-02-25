@@ -39,7 +39,7 @@
 ## Directions
 
 1. Place all brownie ingredients, except the brownie mix, into a bowl and whisk to combine.
-2. Add the brownie mix and fold in with a spatula until incorporated — the batter should be very thick.
+2. Add the brownie mix and fold in with a spatula until incorporated the batter should be very thick.
 3. Line an 8x8-inch steel pan with parchment paper. Spray your spatula with a little oil so it won't stick, then spread the batter evenly in the pan.
 4. Bake in a preheated 350°F oven for 26-30 minutes, or until a toothpick inserted in the center comes out with a few moist crumbs (not wet batter).
 5. Once cooled, chop the brownie into bite-sized chunks and store in the freezer.
@@ -58,4 +58,12 @@
 
 Can't find the brownie mix where you live? Swap in your favorite low-calorie or high-protein brownie. Boo's Ridiculous Brownie Recipe is one many people enjoy. It's easy to find online and utilizes common ingredients.
 
-![FUDGE BROWNIE](../images/ice-cream-pints__fudge-brownie.jpg)
+![FUDGE BROWNIE](../images/ice-cream__fudge-brownie__p263.jpg)
+
+## Additional Recipe Pages
+
+![FUDGE BROWNIE - page 264](../images/ice-cream__fudge-brownie__p264.jpg)
+
+## Source Pages
+
+263, 264

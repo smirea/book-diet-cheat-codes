@@ -38,4 +38,12 @@
 
 If bulking or for greater flavor, substitute two whole eggs for the egg whites.
 
-![BANANA PANCAKES](../images/breakfast-bliss__banana-pancakes.jpg)
+![BANANA PANCAKES](../images/breakfast__banana-pancakes__p47.jpg)
+
+## Additional Recipe Pages
+
+![BANANA PANCAKES - page 48](../images/breakfast__banana-pancakes__p48.jpg)
+
+## Source Pages
+
+47, 48

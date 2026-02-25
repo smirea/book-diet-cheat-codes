@@ -21,7 +21,7 @@
 2. Using an immersion blender, mix the ingredients for 90 seconds.
 3. Strain the mixture over the pint and add seeds as desired.
 4. Put the top on the pint and freeze for 24 hours.
-5. Take the pint out of the freezer, run it under warm water for 60 seconds, dry the pint off, and load it into the CREAMi®.
+5. Take the pint out of the freezer, run it under warm water for 60 seconds, dry the pint off, and load it into the CREAMI®.
 6. Run pint on the sorbet function and re-spin the pint 1-2 more times for desired consistency.
 7. Eat.
 
@@ -29,4 +29,12 @@
 
 Personally, I like either not adding any seeds at all or using ½ the seeds.
 
-![RASPBERRY SORBET](../images/fruit-sorbets__raspberry-sorbet.jpg)
+![RASPBERRY SORBET](../images/sorbets__raspberry-sorbet__p293.jpg)
+
+## Additional Recipe Pages
+
+![RASPBERRY SORBET - page 294](../images/sorbets__raspberry-sorbet__p294.jpg)
+
+## Source Pages
+
+293, 294

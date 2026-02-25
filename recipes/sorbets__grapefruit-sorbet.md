@@ -30,4 +30,12 @@
 9. Run pint on the sorbet function and re-spin the pint 1-2 more times for desired consistency.
 10. Eat.
 
-![GRAPEFRUIT SORBET](../images/fruit-sorbets__grapefruit-sorbet.jpg)
+![GRAPEFRUIT SORBET](../images/sorbets__grapefruit-sorbet__p295.jpg)
+
+## Additional Recipe Pages
+
+![GRAPEFRUIT SORBET - page 296](../images/sorbets__grapefruit-sorbet__p296.jpg)
+
+## Source Pages
+
+295, 296

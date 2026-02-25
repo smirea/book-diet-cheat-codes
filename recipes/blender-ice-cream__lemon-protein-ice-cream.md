@@ -10,10 +10,9 @@
 
 ## Ingredients
 
-- 420g Ice
-
 ### SPIN 1
 
+- 420g Ice
 - 56g fat-free milk
 - 106g fat-free Greek yogurt
 - 50g lemon juice
@@ -44,4 +43,12 @@
 7. Take blade out, add ¾ of the Mix-ins, and stir together.
 8. Transfer to desired drinking container, top with the rest of the Mix-ins, and enjoy!
 
-![LEMON PROTEIN ICE CREAM](../images/blender-ice-cream__lemon-protein-ice-cream.jpg)
+![LEMON PROTEIN ICE CREAM](../images/blender-ice-cream__lemon-protein-ice-cream__p219.jpg)
+
+## Additional Recipe Pages
+
+![LEMON PROTEIN ICE CREAM - page 220](../images/blender-ice-cream__lemon-protein-ice-cream__p220.jpg)
+
+## Source Pages
+
+219, 220

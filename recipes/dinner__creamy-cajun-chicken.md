@@ -6,7 +6,7 @@
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 639 | 17 | 60 | N/A | 55 |
+| 639 | 17 | 60 | undefined | 55 |
 
 ## Ingredients
 
@@ -26,7 +26,7 @@
 - 50g white wine (or unsalted chicken broth)
 - 40g water
 - 80g 2% cottage cheese
-- 42g low-fat cream cheese
+- 40g low-fat cream cheese
 - 45g roasted red peppers (jarred in water)
 - 4g green onion, sliced
 
@@ -50,4 +50,12 @@
 12. Plate one cup of rice, then top with half the sliced chicken and half the sauce.
 13. Finish with green onion and get ready for pure pleasure after you take that first bite.
 
-![CREAMY CAJUN CHICKEN](../images/dinner-is-served__creamy-cajun-chicken.jpg)
+![CREAMY CAJUN CHICKEN](../images/dinner__creamy-cajun-chicken__p137.jpg)
+
+## Additional Recipe Pages
+
+![CREAMY CAJUN CHICKEN - page 138](../images/dinner__creamy-cajun-chicken__p138.jpg)
+
+## Source Pages
+
+137, 138

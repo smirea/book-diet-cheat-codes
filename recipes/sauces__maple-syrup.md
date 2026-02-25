@@ -36,4 +36,12 @@
 8. Optional: When cooled, scrape the foam off the top of the syrup and discard.
 9. Add syrup to a container and drizzle on all your breakfast favorites.
 
-![MAPLE SYRUP](../images/lets-get-saucy__maple-syrup.jpg)
+![MAPLE SYRUP](../images/sauces__maple-syrup__p361.jpg)
+
+## Additional Recipe Pages
+
+![MAPLE SYRUP - page 362](../images/sauces__maple-syrup__p362.jpg)
+
+## Source Pages
+
+361, 362

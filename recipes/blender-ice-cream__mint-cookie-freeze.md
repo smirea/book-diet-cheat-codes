@@ -1,6 +1,6 @@
 # MINT COOKIE FREEZE
 
-**Serves:** 1 | **Prep:** 8 MINS | **Cook:** 4 MINS
+**Serves:** 1 | **Prep:** 0 MINS | **Cook:** 4 MINS
 
 ## Macros
 
@@ -10,7 +10,7 @@
 
 ## Ingredients
 
-- 460g ice
+- 460g Ice
 
 ### SPIN 1
 
@@ -44,4 +44,12 @@
 7. Take blade out, add ¾ Mix-ins, and stir together.
 8. Transfer to desired drinking container, top with the rest of the Mix-ins, and enjoy!
 
-![MINT COOKIE FREEZE](../images/blender-ice-cream__mint-cookie-freeze.jpg)
+![MINT COOKIE FREEZE](../images/blender-ice-cream__mint-cookie-freeze__p233.jpg)
+
+## Additional Recipe Pages
+
+![MINT COOKIE FREEZE - page 234](../images/blender-ice-cream__mint-cookie-freeze__p234.jpg)
+
+## Source Pages
+
+233, 234

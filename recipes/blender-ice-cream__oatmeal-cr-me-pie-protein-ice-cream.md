@@ -10,10 +10,9 @@
 
 ## Ingredients
 
-- 420g ice
-
 ### SPIN 1
 
+- 420g ice
 - 75g fat-free milk
 - 75g fat-free Greek yogurt
 - 4.2g vanilla extract
@@ -42,7 +41,15 @@
 4. Take blade out, mix everything around with a spatula, scrape off any dry ingredients stuck on the walls of blender, and replace blade.
 5. Add Spin 2 ingredients to blender in the order listed and blend for 1 minute on high.
 6. Take blade out, mix everything around with a spatula, scrape off any dry ingredients stuck on the walls of blender, replace blade, and blend for 1 more minute.
-7. Take blade out, add ".75" Mix-ins, and stir together.
+7. Take blade out, add ¾ Mix-ins, and stir together.
 8. Transfer to desired drinking container, top with remaining Mix-ins, and EAT!
 
-![OATMEAL CRÈME PIE PROTEIN ICE CREAM](../images/blender-ice-cream__oatmeal-cr-me-pie-protein-ice-cream.jpg)
+![OATMEAL CRÈME PIE PROTEIN ICE CREAM](../images/blender-ice-cream__oatmeal-cr-me-pie-protein-ice-cream__p211.jpg)
+
+## Additional Recipe Pages
+
+![OATMEAL CRÈME PIE PROTEIN ICE CREAM - page 212](../images/blender-ice-cream__oatmeal-cr-me-pie-protein-ice-cream__p212.jpg)
+
+## Source Pages
+
+211, 212

@@ -21,8 +21,16 @@
 2. Add all ingredients to a high sided container.
 3. Using an immersion blender, mix the ingredients for 90 seconds and add to a pint.
 4. Put the top on the pint and freeze for 24 hours.
-5. Take the pint out of the freezer, run it under warm water for 60 seconds, dry the pint off, and load it into the CREAMi®.
+5. Take the pint out of the freezer, run it under warm water for 60 seconds, dry the pint off, and load it into the CREAMI®.
 6. Run pint on the sorbet function and re-spin the pint 1-2 more times for desired consistency.
 7. Eat.
 
-![PEACH SORBET](../images/fruit-sorbets__peach-sorbet.jpg)
+![PEACH SORBET](../images/sorbets__peach-sorbet__p297.jpg)
+
+## Additional Recipe Pages
+
+![PEACH SORBET - page 298](../images/sorbets__peach-sorbet__p298.jpg)
+
+## Source Pages
+
+297, 298

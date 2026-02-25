@@ -6,7 +6,7 @@
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 308 | 3 | 50 | N/A | 20 |
+| 308 | 3 | 50 | undefined | 20 |
 
 ## Ingredients
 
@@ -51,4 +51,20 @@
 
 If you don't have a baking steel, you can cook these on a sheet pan with a nonstick liner. There is only 1 difference. About 3-4 minutes before the rolls are finished baking, you will have to flip them to ensure the bottom of the hoagie browns correctly.
 
-![HOAGIE ROLLS](../images/doughlicious__hoagie-rolls.jpg)
+![HOAGIE ROLLS](../images/breads__hoagie-rolls__p389.jpg)
+
+## Additional Recipe Pages
+
+![HOAGIE ROLLS - page 390](../images/breads__hoagie-rolls__p390.jpg)
+
+![HOAGIE ROLLS - page 391](../images/breads__hoagie-rolls__p391.jpg)
+
+![HOAGIE ROLLS - page 392](../images/breads__hoagie-rolls__p392.jpg)
+
+![HOAGIE ROLLS - page 393](../images/breads__hoagie-rolls__p393.jpg)
+
+![HOAGIE ROLLS - page 394](../images/breads__hoagie-rolls__p394.jpg)
+
+## Source Pages
+
+389, 390, 391, 392, 393, 394

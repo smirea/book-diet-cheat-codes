@@ -1,68 +1,73 @@
-# DEEP DISH PIZZA
+# LOU'S SAUSAGE DEEP DISH PIZZA
 
-**Serves:** 8 | **Prep:** 2 HRS | **Cook:** 1 HR
+**Serves:** 6 | **Prep:** 24 HRS | **Cook:** 30 MINS
 
 ## Macros
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 383 | 14 | 32 | N/A | 28 |
+| 0 |  |  | undefined |  |
 
 ## Ingredients
 
 ### DRY
 
-- 190g all-purpose flour
-- 40g vital wheat gluten
-- 20g corn meal
-- 6g sugar
-- 4g salt
-- 3g instant yeast
+- 160g all-purpose flour
+- 30g vital wheat gluten
+- 1g instant yeast
+- 2g salt
 
 ### WET
 
-- 28g unsalted butter
-- 160g water
+- 25g corn oil
+- 5g olive oil
+- 90g water
 
-### SAUCE
+### ITALIAN SAUSAGE
 
-- 100g white onion, grated
-- 15g garlic, minced
-- 10g extra virgin olive oil
-- 28oz can Cento San Marzano whole peeled tomatoes
-- 66g tomato paste
-- 1g oregano
-- 4g salt
-- 10g granulated erythritol
+- 448g 90% lean ground pork
+- 9g salt
+- 2g black pepper
+- 1.5g garlic powder
 
 ### PIZZA BUILD
 
-- 7g extra virgin olive oil
-- 1 Dough
-- 224g whole milk low moisture mozzarella cheese, shredded
-- 224g fat-free mozzarella cheese, shredded
-- 126g turkey pepperoni
-- Sauce
-- Optional: grated parmesan cheese
+- 1.5g Crisco®
+- 1 dough
+- 140g fat-free mozzarella cheese, shredded
+- 168g whole milk low moisture mozzarella cheese, thinly sliced
+- 280g sausage
+- 180g 3 in 1 ground tomatoes
+- 5g pecorino romano, grated
+- 5g Parmigiano-Reggiano, grated
+- Pinch dried oregano
 
 ## Directions
 
-1. Place Dry Ingredients into a food processor, process for 30 seconds, add butter to processor, and blend for an additional 20 seconds or until mixture becomes pebbly-looking.
-2. Turn the processor on high while slowly adding the water over a 30 second period and let dough mixture process for an additional 20-30 seconds.
-3. Flip the dough onto work surface, shape it into a ball, and place it in a lightly oiled medium-sized bowl. Spray the top of the dough with oil and cover for 60 minutes.
-4. Grate 100g of onion on a box grater and drain any extra liquid.
-5. Add olive oil, onion, and garlic to a preheated pot on medium heat, stir to combine, and let them cook for a few minutes while stirring occasionally.
-6. Once the ingredients start to take on some color, add tomato paste and incorporate it into the mixture.
-7. Using your hands, crush one tomato at a time in-between your fingers to your preferred chunkiness. If any tomatoes are too chunky, simply grab them out of the pan and crush them again.
-8. Add the rest of the sauce ingredients to the pot and stir to combine. Once the sauce comes to a simmer, turn stovetop to low, cover with a lid that lets steam escape, and let it reduce for 20-30 minutes.
-9. After the dough has risen for 60 minutes, refrigerate it for an additional 30 minutes.
-10. Lightly dust work surface with flour, plop the dough down, lightly dust the dough and rolling pin with flour, and roll the dough out into a roughly 13" circle using a rolling pin.
-11. Spread olive oil into a 12" cast iron pan, add the rolled-out dough, and spread it evenly across the bottom and sides of the pan making sure the crust comes all the way up the sides.
-12. Add fat-free cheese, then a layer of whole milk cheese, and top with pepperoni. Add sauce to the top layer of the pizza, making sure everything is evenly spread out.
-13. Bake pizza in a preheated 400°F oven for 30-40 minutes. Once removed from the oven, top with parmesan, slice it, and it is time to eat.
+1. Place dry ingredients into a food processor and mix for 60 seconds.
+2. Add corn oil and olive oil into processor and blend on high for 10 seconds. While blending, slowly add water over a 15-20 second period and continue blending for an additional 20 seconds.
+3. Place dough on the counter. Use a piece of the dough to scrape up any ingredients that remain in the food processor.
+4. Knead the ingredients into the dough for one minute, place in a bowl, cover with cling wrap, and refrigerate for 24-48 hours.
+5. Top the ground pork with salt, black pepper, and garlic powder and knead the seasonings into the meat for 2-3 minutes. Place the sausage in a bowl, cover with cling wrap, and refrigerate for 24-48 hours.
+6. Take dough out of the fridge 2-3 hours before cooking to rise. Spread Crisco® in a 10" springform pan, making sure the bottom and sides are completely covered.
+7. Add dough into the pan and stretch the dough edge to edge, making sure the outside edge of the dough is thicker than the rest of the dough.
+8. Using your fingertips, bring the edge of the dough 1" up the pan. The dough along the edge of the pan should be very thin.
+9. Add fat-free mozzarella on top of the dough. Then overlap the whole milk mozzarella slices along the edge of the pan, followed by another piece placed in the middle. Evenly distribute any remaining slices.
+10. Place pieces of sausage throughout the pan and push the pieces into the cheese to ensure a thin layer of sausage once finished. I like start on the edge of the pan and work my way in.
+11. Add sauce onto the middle of the pizza and push the sauce out to the edges.
+12. Mix the parmesan, romano, and oregano in a small bowl. Spread across the pizza.
+13. Using 3"x4" pieces of aluminum foil, cover the pizza crust at the sauce line and wrap any extra foil around the top of the pan.
+14. Bake pizza in a preheated 450°F oven for 25-30 minutes.
+15. Remove from the oven and immediately place the pizza on a wire rack. Let cool for 5 minutes before slicing into 6 pieces and eating the shit out of it.
 
-## Tips
+![LOU'S SAUSAGE DEEP DISH PIZZA](../images/dinner__lous-sausage-deep-dish-pizza__p174.jpg)
 
-I would wait 5-10 minutes before slicing and another 5 minutes before serving to avoid burning your mouth. You have been warned.
+## Additional Recipe Pages
 
-![DEEP DISH PIZZA](../images/dinner-is-served__lous-sausage-deep-dish-pizza.jpg)
+![LOU'S SAUSAGE DEEP DISH PIZZA - page 175](../images/dinner__lous-sausage-deep-dish-pizza__p175.jpg)
+
+![LOU'S SAUSAGE DEEP DISH PIZZA - page 176](../images/dinner__lous-sausage-deep-dish-pizza__p176.jpg)
+
+## Source Pages
+
+174, 175, 176

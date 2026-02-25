@@ -1,35 +1,36 @@
 # FRENCH TOAST ROLL-UPS
 
-**Serves:** 4 | **Prep:** 20 MINS | **Cook:** 10 MINS
+**Serves:** 1 | **Prep:** 20 MINS | **Cook:** 10 MINS
 
 ## Macros
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 446 | 2 | 91 | 56 | 53 |
+| 0 |  |  | undefined |  |
 
 ## Ingredients
 
+- 4 slices bread (35 cal)
+
 ### FILLING
 
-- 4 slices bread (35 cal)
 - 112g fat-free cream cheese
 - 4g brown sugar erythritol
 - 16g PEScience Snickerdoodle protein powder
 - 4.2g vanilla extract
 - 30g fat-free milk
 - 20g granulated erythritol
-- 1g cinnamon
 
 ### EGG WASH
 
 - 3 egg whites
 - 10g granulated erythritol
 - 2.1g vanilla extract
+- 1g cinnamon
 
 ### ICING
 
-- 1/2 scoop PEScience Snickerdoodle protein powder
+- 1/3 scoop PEScience Snickerdoodle protein powder
 - 3g all-purpose flour
 - 5g granulated erythritol
 
@@ -50,4 +51,8 @@
 9. While cooking, mix Icing Ingredients in a small bowl. Slowly add a few drops of water at a time and mix until the icing reaches your desired consistency.
 10. Top french toast with brown sugar and icing and IT'S TIME TO EAT!
 
-![FRENCH TOAST ROLL-UPS](../images/breakfast-bliss__french-toast-roll-ups.jpg)
+![FRENCH TOAST ROLL-UPS](../images/breakfast__french-toast-roll-ups__p56.jpg)
+
+## Source Pages
+
+56

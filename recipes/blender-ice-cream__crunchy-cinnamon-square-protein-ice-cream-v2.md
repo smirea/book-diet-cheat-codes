@@ -10,10 +10,9 @@
 
 ## Ingredients
 
-- 420g ice
-
 ### SPIN 1
 
+- 420g ice
 - 80g fat-free Greek yogurt
 - 80g fat-free milk
 - 4.2g vanilla extract
@@ -44,4 +43,14 @@
 6. Take blade out, add ¾ Mix-ins, and stir together.
 7. Transfer to desired drinking container, top with the rest of the Mix-ins, and enjoy!
 
-![CRUNCHY CINNAMON SQUARE PROTEIN ICE CREAM V2](../images/blender-ice-cream__crunchy-cinnamon-square-protein-ice-cream-v2.jpg)
+![CRUNCHY CINNAMON SQUARE PROTEIN ICE CREAM V2](../images/blender-ice-cream__crunchy-cinnamon-square-protein-ice-cream-v2__p201.jpg)
+
+## Additional Recipe Pages
+
+![CRUNCHY CINNAMON SQUARE PROTEIN ICE CREAM V2 - page 202](../images/blender-ice-cream__crunchy-cinnamon-square-protein-ice-cream-v2__p202.jpg)
+
+![CRUNCHY CINNAMON SQUARE PROTEIN ICE CREAM V2 - page 203](../images/blender-ice-cream__crunchy-cinnamon-square-protein-ice-cream-v2__p203.jpg)
+
+## Source Pages
+
+201, 202, 203

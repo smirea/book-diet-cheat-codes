@@ -6,7 +6,7 @@
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 499 | 15 | 44 | 26 | 58 |
+| 499 | 15 | 44 | 28 | 58 |
 
 ## Ingredients
 
@@ -43,4 +43,12 @@
 
 Don't pull the cookie dough out of the fridge until you need to fill the center. This will keep it in the perfect sized chunks after the mix-in setting.
 
-![CHOCOLATE CHIP COOKIE DOUGH](../images/ice-cream-pints__chocolate-chip-cookie-dough.jpg)
+![CHOCOLATE CHIP COOKIE DOUGH](../images/ice-cream__chocolate-chip-cookie-dough__p257.jpg)
+
+## Additional Recipe Pages
+
+![CHOCOLATE CHIP COOKIE DOUGH - page 258](../images/ice-cream__chocolate-chip-cookie-dough__p258.jpg)
+
+## Source Pages
+
+257, 258

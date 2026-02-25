@@ -6,7 +6,7 @@
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 643 | 15 | 63 | N/A | 65 |
+| 0 |  |  | undefined |  |
 
 ## Ingredients
 
@@ -23,7 +23,7 @@
 - 4g smoked paprika
 - 4g black pepper
 - 140g chardonnay
-- 200g beef broth
+- 360g beef broth
 - 15g Better Than Bouillon® beef base
 - 14g gelatin
 - 255g 2% Greek yogurt
@@ -51,10 +51,14 @@
 11. While the sauce reduces, add water and salt to a pot, bring to a boil, and cook the noodles according to package instructions. Strain and rinse with cold water.
 12. Mix Greek yogurt, Worcestershire sauce, and water in a bowl. Add to the sauce and simmer for another 10-15 minutes.
 13. Let the sauce cool for 1-2 hours, add noodles, stir, and divide into 5 portions. Each portion should weigh approximately 500g.
-14. To reheat, cover with a damp paper towel and microwave for 2-3 minutes. Add parmesan for extra flavor and enjoy.
+14. To reheat, cover with a damp paper towel and microwave for 2-3 minutes. Add parmesan for extra flavor and enjoy
 
 ## Tips
 
 You can use regular noodles here as well, just account for the change in macros.
 
-![BEEF STROGANOFF](../images/prep-school__beef-stroganoff.jpg)
+![BEEF STROGANOFF](../images/meal-prep__beef-stroganoff__p438.jpg)
+
+## Source Pages
+
+438

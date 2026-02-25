@@ -6,7 +6,7 @@
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 577 | 19 | 53 | N/A | 55 |
+| 0 |  |  | N/A |  |
 
 ## Ingredients
 
@@ -15,14 +15,14 @@
 - Chili powder, to taste
 - 200g yellow corn, frozen
 - 5g unsalted butter
-- 20g water
 
 ### DRESSING
 
 - 30g light mayonnaise
 - 60g fat-free Greek yogurt
 - 15g lime juice
-- 10g Valentina hot sauce
+- 20g water
+- 10g Valentina® hot sauce
 - 6g cilantro, chopped
 - 2g garlic, minced
 - 2g smoked paprika
@@ -46,6 +46,10 @@
 5. Toss the corn, cook for an additional 60-90 seconds, then add to a medium bowl. The corn should literally be popping like popcorn as it finishes cooking.
 6. In a separate medium bowl, add Dressing ingredients and stir to combine.
 7. Add the corn to the dressing and stir to combine. Prep the vegetables and chop the cooked chicken into bite-sized pieces.
-8. To a large bowl, add lettuce, chicken, Corn Dressing, cotija, and green onion. It’s time to eat.
+8. To a large bowl, add lettuce, chicken, Corn Dressing, cotija, and green onion. It's time to eat.
 
-![ELOTE SALAD](../images/dinner-is-served__elote-salad.jpg)
+![ELOTE SALAD](../images/dinner__elote-salad__p150.jpg)
+
+## Source Pages
+
+150

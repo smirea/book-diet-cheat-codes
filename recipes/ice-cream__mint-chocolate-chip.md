@@ -25,7 +25,7 @@
 ### DRY
 
 - 32.4 Gorilla Mode Vanilla Ice Cream protein
-- 20g granulated erythritol
+- .20g granulated erythritol
 - .5g salt
 - .5g xanthan gum
 
@@ -44,15 +44,22 @@
 7. Add Wet Ingredients into a high-sided container.
 8. In a measuring cup, add Dry Ingredients and whisk together.
 9. Put an immersion blender in the bottom of the container and start blending the Wet Ingredients together. Slowly add your Dry Ingredients into the container.
-10. Once all Dry Ingredients have dissolved, continue blending for 90 seconds.
+10. Once all Dry Ingredients have dissolved, continue blending for 30 seconds.
 11. Add the liquid to a pint, put the top on, and freeze for 24 hours.
-12. Take the frozen pint, run it under hot water for 60 seconds, load it into the CREAMI®, and hit the sorbet button.
+12. Take the frozen pint, run it under hot water for 60 seconds, load it into the CREAMi®, and hit the sorbet button.
 13. Using a butter knife, make a hole in the middle of the pint about 1" in diameter, pull the ice cream out, and load the chocolate into the center.
-14. Don't pull the chocolate out of the freezer until you need to fill the center. The chocolate melts very quickly at room temperature.
-15. Place the previously removed ice cream into the pint, reload the pint, and press the mix-in setting.
+14. Place the previously removed ice cream into the pint, reload the pint, and press the mix-in setting.
 
 ## Tips
 
-Peppermint extract strength and flavor is going to vary brand to brand. The two I experimented with are Loranns Oils® and McCormick's®. They both taste great in mint ice cream, but have their differences. McCormick's® is a more laid back mint flavor while LorAnn's® is more intense. If using McCormick's®, use 12 drops. If using LorAnn's®, use 4 drops.
+Peppermint extract strength and flavor is going to vary brand to brand. The two I experimented with are Loranns Oils® and McCormick's®. They both taste great in mint ice cream, but have their differences. McCormick's® is a more laid back mint flavor while LorAnn's® is much more intense. If using McCormick's®, use 12 drops. If using LorAnn's®, use 4 drops! Don't pull the chocolate out of the freezer until you need to fill the center. The chocolate melts very quickly at room temperature.
 
-![MINT CHOCOLATE CHIP](../images/ice-cream-pints__mint-chocolate-chip.jpg)
+![MINT CHOCOLATE CHIP](../images/ice-cream__mint-chocolate-chip__p255.jpg)
+
+## Additional Recipe Pages
+
+![MINT CHOCOLATE CHIP - page 256](../images/ice-cream__mint-chocolate-chip__p256.jpg)
+
+## Source Pages
+
+255, 256

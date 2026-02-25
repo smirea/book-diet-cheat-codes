@@ -30,8 +30,20 @@
 4. Once all Dry Ingredients have dissolved in the pint, continue blending for 90 seconds.
 5. Put the top on the pint and freeze for 24 hours.
 6. Take the frozen pint, run it under hot water for 60 seconds, load it into the CREAMi®, and hit the light ice cream button.
-7. Once the first spin is finished, load pint right back up and hit the mix-in setting. For a soft serve like consistency, run the re-spin setting instead.
+7. Once the first spin is finished, load pint right back up and hit the mix-in setting.
 8. Adjust creaminess with an additional mix-in/re-spin if necessary.
 9. Grab a spoon and enjoy.
 
-![CHOCOLATE BASE "BETTER"](../images/ice-cream-pints__chocolate-base-better.jpg)
+## Tips
+
+For a soft serve like consistency, run the re-spin setting instead.
+
+![CHOCOLATE BASE "BETTER"](../images/ice-cream__chocolate-base-better__p249.jpg)
+
+## Additional Recipe Pages
+
+![CHOCOLATE BASE "BETTER" - page 250](../images/ice-cream__chocolate-base-better__p250.jpg)
+
+## Source Pages
+
+249, 250

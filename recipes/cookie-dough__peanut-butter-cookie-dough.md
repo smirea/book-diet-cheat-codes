@@ -41,4 +41,12 @@
 7. Enjoy right away or for peak flavor, refrigerate for 24 hours.
 8. For additional flavor, heat up 4g of peanut butter and drizzle over the top of the cookie dough before eating.
 
-![PEANUT BUTTER COOKIE DOUGH](../images/cookie-dough__peanut-butter-cookie-dough.jpg)
+![PEANUT BUTTER COOKIE DOUGH](../images/cookie-dough__peanut-butter-cookie-dough__p305.jpg)
+
+## Additional Recipe Pages
+
+![PEANUT BUTTER COOKIE DOUGH - page 306](../images/cookie-dough__peanut-butter-cookie-dough__p306.jpg)
+
+## Source Pages
+
+305, 306

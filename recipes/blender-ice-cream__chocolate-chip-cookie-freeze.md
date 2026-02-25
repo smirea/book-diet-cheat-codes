@@ -49,4 +49,14 @@
 
 For a more aesthetic freeze along with cookie dough bites throughout, line the drinking container with a third of the cookie dough, add some of the chopped cookies, and mix in the remaining cookie dough/cookie pieces.
 
-![CHOCOLATE CHIP COOKIE FREEZE](../images/blender-ice-cream__chocolate-chip-cookie-freeze.jpg)
+![CHOCOLATE CHIP COOKIE FREEZE](../images/blender-ice-cream__chocolate-chip-cookie-freeze__p229.jpg)
+
+## Additional Recipe Pages
+
+![CHOCOLATE CHIP COOKIE FREEZE - page 230](../images/blender-ice-cream__chocolate-chip-cookie-freeze__p230.jpg)
+
+![CHOCOLATE CHIP COOKIE FREEZE - page 231](../images/blender-ice-cream__chocolate-chip-cookie-freeze__p231.jpg)
+
+## Source Pages
+
+229, 230, 231

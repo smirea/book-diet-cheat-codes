@@ -40,6 +40,14 @@
 
 ## Tips
 
-Add 1-2 drops of coffee extract to the Wet Ingredients to get an even deeper and more satisfying chocolate flavor.
+Add 1-2 drops of coffee extract to the Wet Ingredients to get an even deeper and more satisfying chocolate flavor. PRO TIP: Leave a couple grams of cereal on the side to top your pint with when it is finished.
 
-![COCOA CRISPS ICE CREAM](../images/ice-cream-pints__cocoa-crisps-ice-cream.jpg)
+![COCOA CRISPS ICE CREAM](../images/ice-cream__cocoa-crisps-ice-cream__p279.jpg)
+
+## Additional Recipe Pages
+
+![COCOA CRISPS ICE CREAM - page 280](../images/ice-cream__cocoa-crisps-ice-cream__p280.jpg)
+
+## Source Pages
+
+279, 280

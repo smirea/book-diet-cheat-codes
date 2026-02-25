@@ -6,7 +6,7 @@
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 35 | 2 | 2 | N/A | 2 |
+| 35 | 2 | 2 | undefined | 2 |
 
 ## Ingredients
 
@@ -41,4 +41,12 @@
 
 If you don't have an immersion blender you can use a food processor or a blender cup.
 
-![SPICY RANCH](../images/lets-get-saucy__spicy-ranch.jpg)
+![SPICY RANCH](../images/sauces__spicy-ranch__p345.jpg)
+
+## Additional Recipe Pages
+
+![SPICY RANCH - page 346](../images/sauces__spicy-ranch__p346.jpg)
+
+## Source Pages
+
+345, 346

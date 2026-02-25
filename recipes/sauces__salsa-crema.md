@@ -6,7 +6,7 @@
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 14 | 0 | 1 | N/A | 2 |
+| 14 | 0 | 1 | 1 | 2 |
 
 ## Ingredients
 
@@ -28,4 +28,12 @@
 
 You can also make this in a food processor if you don't have an immersion blender.
 
-![SALSA CREMA](../images/lets-get-saucy__salsa-crema.jpg)
+![SALSA CREMA](../images/sauces__salsa-crema__p355.jpg)
+
+## Additional Recipe Pages
+
+![SALSA CREMA - page 356](../images/sauces__salsa-crema__p356.jpg)
+
+## Source Pages
+
+355, 356

@@ -6,7 +6,7 @@
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 487 | 20 | 34 | N/A | 43 |
+| 487 | 20 | 34 | undefined | 43 |
 
 ## Ingredients
 
@@ -22,7 +22,7 @@
 
 ## Directions
 
-1. Sandwich each ball of meat between 2 pieces of 10x10" parchment paper and flatten using a cast iron pan or another flat, heavy object.
+1. Sandwich each ball of meat between 2 pieces of 10x10” parchment paper and flatten using a cast iron pan or another flat, heavy object.
 2. Prep vegetables, spread 2g of butter on each bun, then place buns butter side down on a preheated pan on medium-high heat, and toast for 1-2 minutes.
 3. Remove bun from the pan, then add 2.5g of butter and swirl it around the pan.
 4. Add one patty, press into pan for 2 seconds, add salt and pepper, and let the first side cook for 1 minute or until juices have risen to the top of the patty.
@@ -32,6 +32,14 @@
 
 ## Tips
 
-If you have a range hood or another way to ventilate your kitchen, I would utilize it. There will be a lot of smoke from the charring of the ground beef that is necessary to get that authentic smash burger taste. If you don't have a range hood, opening windows with a fan pointing towards the window would also be a great way to mitigate the smoke.
+If you have a range hood or another way to ventilate your kitchen, I would utilize it. There will be a lot of smoke from the charring of the ground beef that is necessary to get that authentic smash burger taste. If you don’t have a range hood, opening windows with a fan pointing towards the window would also be a great way to mitigate the smoke.
 
-![SMASHBURGER](../images/dinner-is-served__smashburger.jpg)
+![SMASHBURGER](../images/dinner__smashburger__p133.jpg)
+
+## Additional Recipe Pages
+
+![SMASHBURGER - page 134](../images/dinner__smashburger__p134.jpg)
+
+## Source Pages
+
+133, 134

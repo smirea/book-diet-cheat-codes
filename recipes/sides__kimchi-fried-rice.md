@@ -12,22 +12,22 @@
 
 - 1 egg, sunny side up
 - 10oz bag cauliflower rice, frozen
-- 2g avocado oil
 
 ### BOWL 1
 
-- 2 slices center cut bacon, chopped
+- 2g avocado oil
 
 ### BOWL 2
 
-- 11g green onion, chopped
+- 2 slices center cut bacon, chopped
 
 ### BOWL 3
 
-- 6g garlic, minced
+- 11g green onion, chopped
 
 ### BOWL 4 (mixed)
 
+- 6g garlic, minced
 - 84g kimchi
 - 15g oyster sauce
 - 15g soy sauce
@@ -46,4 +46,12 @@
 8. Add Bowl 4 to the pan, stir to combine, and let all those flavors mingle together for 1-2 minutes.
 9. Plate it and eat it.
 
-![KIMCHI FRIED RICE](../images/shareables__kimchi-fried-rice.jpg)
+![KIMCHI FRIED RICE](../images/sides__kimchi-fried-rice__p329.jpg)
+
+## Additional Recipe Pages
+
+![KIMCHI FRIED RICE - page 330](../images/sides__kimchi-fried-rice__p330.jpg)
+
+## Source Pages
+
+329, 330

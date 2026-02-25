@@ -6,7 +6,7 @@
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 489 | 12 | 68 | 48 | 45 |
+| 0 | 0 | 0 | 0 | 0 |
 
 ## Ingredients
 
@@ -19,7 +19,7 @@
 
 ### ANIMAL CRACKER FREEZE
 
-- 460g ice
+- 460g Ice
 
 ### SPIN 1
 
@@ -51,7 +51,7 @@
 5. Add Spin 1 ingredients to blender in the order listed and blend for 1 minute on high.
 6. Take blade out, mix everything around with a spatula, scrape off any dry ingredients stuck on the walls of blender, and replace blade.
 7. Add Spin 2 ingredients to blender in the order listed and blend for 1 minute on high.
-8. Take blade out, mix everything around with a spatula, scrape off any dry ingredients stuck on the walls of blender, replace blade, and blend for 1 more minute.
+8. Take blade out, mix everything around with a spatula, scrape off any dry ingredients stuck on the walls of blender, and blend for 1 more minute.
 9. Take blade out, add ½ the animal crackers, and stir into the freeze.
 10. Top with remaining animal crackers and frosting.
 11. EAT.
@@ -60,4 +60,8 @@
 
 If you want the cream to look more aesthetic put a gallon bag in a cup, add frosting to it, cut the tip of the bag off, and pipe the frosting on top of your freeze.
 
-![ANIMAL CRACKER FREEZE](../images/blender-ice-cream__animal-cracker-freeze.jpg)
+![ANIMAL CRACKER FREEZE](../images/blender-ice-cream__animal-cracker-freeze__p232.jpg)
+
+## Source Pages
+
+232

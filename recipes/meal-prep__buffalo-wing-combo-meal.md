@@ -6,7 +6,7 @@
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 603 | 26 | 49 | N/A | 43 |
+| 603 | 26 | 49 | undefined | 43 |
 
 ## Ingredients
 
@@ -26,9 +26,9 @@
 
 ## Directions
 
-1. Complete steps 1-3 of the NICKDONALD'S FRENCH FRIES.
+1. Complete steps 1-3 of the NICKDONALD'S FRENCH FRIES. You can keep the skins of the potatoes on for this meal prep if you prefer.
 2. Pat the chicken wings dry with a paper towel. Using a knife, remove wingtips and discard.
-3. Using a knife, separate wings into drums and flats. Pat the chicken wings dry with a paper towel.
+3. Using a knife, separate wings into drums and flats. Pat the chicken wings dry with a paper towel. You can buy flats and drums that are already separated; they will just be more expensive.
 4. Add salt to both sides of the wings and place in a bowl.
 5. Add flour and cornstarch and toss until evenly coated.
 6. Add a layer of wings to a preheated 400°F air fryer, lightly spray the top of the wings with oil, and repeat layering/oil combination until all wings are added.
@@ -41,8 +41,12 @@
 13. When it's time to dig in, place the wings in a preheated 400°F air fryer for 6-8 minutes. Add the fries during the last 3 minutes of the cooking process.
 14. Add buffalo sauce and wings into a large bowl and toss to coat. Plate the combo meal and go to town.
 
-## Tips
+![BUFFALO WING COMBO MEAL](../images/meal-prep__buffalo-wing-combo-meal__p447.jpg)
 
-You can keep the skins of the potatoes on for this meal prep if you prefer. You can buy flats and drums that are already separated; they will just be more expensive.
+## Additional Recipe Pages
 
-![BUFFALO WING COMBO MEAL](../images/prep-school__buffalo-wing-combo-meal.jpg)
+![BUFFALO WING COMBO MEAL - page 448](../images/meal-prep__buffalo-wing-combo-meal__p448.jpg)
+
+## Source Pages
+
+447, 448

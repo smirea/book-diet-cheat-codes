@@ -42,4 +42,12 @@
 9. Chop 13g of additional creme pie into bite-sized chunks and sprinkle on top.
 10. Get ready for the crèmiest ride of your life.
 
-![OATMEAL CRÈME PIE](../images/ice-cream-pints__oatmeal-cr-me-pie.jpg)
+![OATMEAL CRÈME PIE](../images/ice-cream__oatmeal-cr-me-pie__p261.jpg)
+
+## Additional Recipe Pages
+
+![OATMEAL CRÈME PIE - page 262](../images/ice-cream__oatmeal-cr-me-pie__p262.jpg)
+
+## Source Pages
+
+261, 262

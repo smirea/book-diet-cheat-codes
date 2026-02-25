@@ -10,10 +10,9 @@
 
 ## Ingredients
 
-- 400g ice
-
 ### SPIN 1
 
+- 400g ice
 - 18g sugar-free whipped topping
 - 130g fat-free Greek yogurt
 - 84g fat-free milk
@@ -49,4 +48,12 @@
 
 For a more aesthetic milkshake, line the drinking container with a third of the cookie dough, mix in a third of the cookie dough, and top with a third of the cookie dough.
 
-![COOKIE DOUGH PROTEIN ICE CREAM](../images/blender-ice-cream__cookie-dough-protein-ice-cream.jpg)
+![COOKIE DOUGH PROTEIN ICE CREAM](../images/blender-ice-cream__cookie-dough-protein-ice-cream__p217.jpg)
+
+## Additional Recipe Pages
+
+![COOKIE DOUGH PROTEIN ICE CREAM - page 218](../images/blender-ice-cream__cookie-dough-protein-ice-cream__p218.jpg)
+
+## Source Pages
+
+217, 218

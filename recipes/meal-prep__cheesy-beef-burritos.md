@@ -6,7 +6,7 @@
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 259 | 9 | 25 | 8 | 23 |
+| 0 |  |  | undefined |  |
 
 ## Ingredients
 
@@ -31,8 +31,8 @@
 
 ### ASSEMBLY
 
-- La Bandertita® Carb Counter soft taco tortilla
-- La Bandertita® Carb Counter street taco tortilla
+- La Banderaita® Carb Counter soft taco tortilla
+- La Banderaita® Carb Counter street taco tortilla
 - 30g jalapeño cheddar dip
 - 30g fat-free refried black beans
 - 86g beef mix
@@ -51,10 +51,16 @@
 9. Spread 30g of refried beans onto each street taco tortilla and place them on top of the cheddar dip layer.
 10. Add 86g beef mix on top of the beans, followed by 7g sharp cheddar cheese.
 11. Fold both ends of the tortilla inward, tucking them in farther than expected.
-12. While holding the ends in place, fold the flap nearest to you over the filling, tucking in any escaping ingredients, then roll up tightly. Repeat until you have 20 burritos.
+12. While holding the ends in place, fold the flap nearest to you over the filling, tucking in any escaping ingredients, then roll up tightly. Repeat until you have 20 burreats.
 13. Store burritos: Refrigerate what you will eat in the next 2-4 days and freeze the rest.
 14. When you need more, move 2-3 days' worth from the freezer to the fridge to thaw for 24 hours.
-15. FROM FRIDGE: Microwave for 60-90 seconds wrapped in parchment.
-16. FROM FREEZER: Bake for 30-35 minutes in a 460 degree oven wrapped in foil.
 
-![CHEESY BEEF BURRITOS](../images/prep-school__cheesy-beef-burritos.jpg)
+## Tips
+
+FROM FRIDGE: Microwave for 60-90 seconds wrapped in parchment. FROM FREEZER: Bake for 30-35 minutes in a 400 degree oven wrapped in foil.
+
+![CHEESY BEEF BURRITOS](../images/meal-prep__cheesy-beef-burritos__p424.jpg)
+
+## Source Pages
+
+424

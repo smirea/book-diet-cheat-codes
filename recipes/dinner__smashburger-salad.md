@@ -6,13 +6,13 @@
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 533 | 20 | 27 | N/A | 59 |
+| 533 | 20 | 27 | undefined | 59 |
 
 ## Ingredients
 
 - 210g 96% lean ground beef
 - 7.5g unsalted butter
-- 3 slices original Velveeta® cheese
+- 3 slices original Velveta® cheese
 - 250g iceberg lettuce, chopped
 - 140g tomato, sliced
 - 64g no sugar added ketchup
@@ -30,4 +30,14 @@
 7. Place the finished patty on a cutting board, repeat steps 3-5 for the other patties, and chop the cheeseburgers into bite sized chunks.
 8. Add chopped burgers over the top of the vegetables, top with ketchup and mustard, and it is time to dig in.
 
-![SMASHBURGER SALAD](../images/dinner-is-served__smashburger-salad.jpg)
+![SMASHBURGER SALAD](../images/dinner__smashburger-salad__p147.jpg)
+
+## Additional Recipe Pages
+
+![SMASHBURGER SALAD - page 148](../images/dinner__smashburger-salad__p148.jpg)
+
+![SMASHBURGER SALAD - page 149](../images/dinner__smashburger-salad__p149.jpg)
+
+## Source Pages
+
+147, 148, 149

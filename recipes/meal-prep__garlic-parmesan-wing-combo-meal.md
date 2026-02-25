@@ -6,7 +6,7 @@
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 618 | 27 | 48 | N/A | 45 |
+| 618 | 27 | 48 | undefined | 45 |
 
 ## Ingredients
 
@@ -27,9 +27,9 @@
 ## Directions
 
 1. ROAST 2-3 HEADS OF GARLIC.
-2. Complete steps 1-3 of the NICKDONALD'S FRENCH FRIES. You can keep the skins of the potatoes on for this meal prep if you prefer.
+2. Complete steps 1-3 of the NICKDONALD'S FRENCH FRIES.
 3. Pat the chicken wings dry with a paper towel. Using a knife, remove wingtips and discard.
-4. Using a knife, separate wings into drums and flats. Pat the chicken wings dry with a paper towel. You can buy flats and drums that are already separated; they will just be more expensive.
+4. Using a knife, separate wings into drums and flats. Pat the chicken wings dry with a paper towel.
 5. Add salt to both sides of the wings and place in a bowl.
 6. Add flour and cornstarch and toss until evenly coated.
 7. Add a layer of wings to a preheated 400°F air fryer, lightly spray the top of the wings with oil, and repeat layering/oil combination until all wings are added.
@@ -42,4 +42,16 @@
 14. When it's time to dig in, place the wings in a preheated 400°F air fryer for 6-8 minutes. Add the fries during the last 3 minutes of the cooking process.
 15. Add wings and garlic parmesan sauce into a large bowl and toss to coat. Plate the combo meal and it's time to eat.
 
-![GARLIC PARMESAN WING COMBO MEAL](../images/prep-school__garlic-parmesan-wing-combo-meal.jpg)
+## Notes
+
+You can buy flats and drums that are already separated; they will just be more expensive.
+
+![GARLIC PARMESAN WING COMBO MEAL](../images/meal-prep__garlic-parmesan-wing-combo-meal__p449.jpg)
+
+## Additional Recipe Pages
+
+![GARLIC PARMESAN WING COMBO MEAL - page 450](../images/meal-prep__garlic-parmesan-wing-combo-meal__p450.jpg)
+
+## Source Pages
+
+449, 450

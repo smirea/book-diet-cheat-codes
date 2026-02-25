@@ -6,7 +6,7 @@
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 614 | 19 | 64 | N/A | 52 |
+| 614 | 19 | 64 | undefined | 52 |
 
 ## Ingredients
 
@@ -52,10 +52,10 @@
 
 - 300g tomatillos
 - 50g onion, chopped
-- 62g jalapeño
+- 62g jalapeno
 - 21g serrano pepper
 - 12g roasted garlic
-- 5g cilantro
+- 8g cilantro
 - 15g lime juice
 - 50g water
 - 5g salt
@@ -68,12 +68,12 @@
 4. In a small bowl, combine cumin, smoked paprika, garlic powder, onion powder, chili powder, dried oregano, salt, and black pepper. Mix the ingredients together until well blended.
 5. Sprinkle the seasonings over the sliced vegetables followed by lime juice and avocado oil. Using your hands, mix all the ingredients together until they are thoroughly combined and evenly coated.
 6. Using oven mitts, grab the sheet pan from the oven, add the vegetables to the pan, and spread them out evenly using tongs. Place the sheet pan in the oven and set a timer for 10 minutes.
-7. Increase the heat to medium-high on both pans. In one of the pans, add the tomatillos, onion, jalapeño, and serrano pepper. Flip the vegetables every few minutes to ensure they are evenly roasted.
-8. Using the other pan, add 4 grams of avocado oil and half of the steak. Spread the steak evenly over the pan’s surface and brown for 2-3 minutes. Toss the steak, continue cooking for an additional 1-2 minutes, and transfer to a large bowl.
+7. Increase the heat to medium-high on both pans. In one of the pans, add the tomatillos, onion, jalapeno, and serrano pepper. Flip the vegetables every few minutes to ensure they are evenly roasted.
+8. Using the other pan, add 4 grams of avocado oil and half of the steak. Spread the steak evenly over the pan's surface and brown for 2-3 minutes. Toss the steak, continue cooking for an additional 1-2 minutes, and transfer to a large bowl.
 9. Once the timer goes off, remove the sheet pan from the oven and using tongs, mix the vegetables around the pan. After the vegetables are evenly spread out, place the sheet pan back in the oven and set another timer for 10 minutes.
 10. Finish cooking the remaining steak by repeating Step 8. Add the cooked steak to the bowl with the rest of the finished steak.
 11. Add the roasted stovetop vegetables into a food processor along with ROASTED GARLIC, cilantro, lime juice, water, and salt. Blend the ingredients for 1-2 minutes.
-12. Grab the bowl from the freezer, add the salsa to it, and place back into the freezer for 4-5 minutes.
+12. Grab the bowl from the freezer, add the salsa to it, and place back into the freezer for 5-10 minutes.
 13. Once the timer goes off, turn the broiler on high, mix the vegetables around the pan, and broil them for 2-3 minutes.
 14. Add the roasted vegetables to the cooked steak and mix thoroughly.
 15. Into a medium bowl, add tomato sauce, chicken bouillon, garlic powder, onion powder, cumin, and oregano. Mix thoroughly.
@@ -85,4 +85,14 @@
 21. To assemble, distribute the steak fajita mix and mexican rice evenly among 5 meal prep containers. Fill 2 oz plastic cups with salsa verde, cover each container with a lid, and refrigerate.
 22. When it's time to eat, place a wet paper towel over the meal prep containers and microwave them in 60-second intervals until they are heated through. For more even cooking, mix the ingredients between each interval.
 
-![STEAK FAJITA DINNER](../images/uncategorized__steak-fajita-dinner.jpg)
+![STEAK FAJITA DINNER](../images/uncategorized__steak-fajita-dinner__p425.jpg)
+
+## Additional Recipe Pages
+
+![STEAK FAJITA DINNER - page 426](../images/uncategorized__steak-fajita-dinner__p426.jpg)
+
+![STEAK FAJITA DINNER - page 427](../images/uncategorized__steak-fajita-dinner__p427.jpg)
+
+## Source Pages
+
+425, 426, 427

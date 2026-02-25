@@ -6,7 +6,7 @@
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 649 | 20 | 80 | N/A | 39 |
+| 649 | 20 | 80 | undefined | 39 |
 
 ## Ingredients
 
@@ -41,7 +41,7 @@
 7. Place each dough ball in a lightly oiled, high-sided container, cover, and refrigerate for 24-48 hours.
 8. Two to three hours before baking, let the dough rise on the counter and reach room temperature.
 9. Lightly flour your surface. Place dough on the flour and dust the top.
-10. Outline the crust with your fingers. Press outward from the center of the dough until it is about 6" wide. If sticking occurs, add more flour and continue stretching.
+10. Outline the crust with your fingers. Press outward from the center of the dough until it is about 8" wide. If sticking occurs, add more flour and continue stretching.
 11. Lift the dough (avoiding the crust) and stretch it with your fists in a circular motion until 9-11 inches wide.
 12. Place the stretched dough on parchment paper and top with tomatoes.
 13. Bake on a preheated pizza steel at 550°F for 4-5 minutes. Remove, pat mozzarella dry with paper towel, and add to the pizza.
@@ -52,4 +52,12 @@
 
 You can substitute 00 flour with all-purpose flour and use your preferred tomatoes.
 
-![MARGHERITA PIZZA](../images/dinner-is-served__margherita-pizza.jpg)
+![MARGHERITA PIZZA](../images/dinner__margherita-pizza__p179.jpg)
+
+## Additional Recipe Pages
+
+![MARGHERITA PIZZA - page 180](../images/dinner__margherita-pizza__p180.jpg)
+
+## Source Pages
+
+179, 180

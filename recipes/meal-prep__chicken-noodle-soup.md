@@ -17,11 +17,9 @@
 - 340g diced onion, frozen
 - 3g paprika
 - 3g black pepper
-- 48g Better Than Bouillon
-R roasted chicken base
-- 1814g chicken broth
-- 224g Barilla
-R Protein+ noodles
+- 48g Better Than Bouillon® roasted chicken base
+- 1014g chicken broth
+- 224g Barilla® Protein+ noodles
 - 255g spinach
 - 1 rotisserie chicken
 - 3g turmeric
@@ -36,8 +34,7 @@ R Protein+ noodles
 4. Chop the chicken into bite sized pieces, add garlic to the pot, and stir.
 5. After 45 seconds or the garlic becomes fragrant, add frozen vegetables and stir.
 6. Let everything cook for 2-3 minutes, stirring occasionally.
-7. Add paprika, black pepper, and Better Than Bouillon
-R to pot and mix to combine.
+7. Add paprika, black pepper, and Better Than Bouillon® to pot and mix to combine.
 8. Add chicken broth and let it heat up for 2-3 minutes.
 9. Once broth is simmering, add noodles and cook until al dente.
 10. Add chicken and spinach. Gently push down and mix in spinach until completely submerged in chicken broth.
@@ -49,4 +46,14 @@ R to pot and mix to combine.
 
 You can use the left-over chicken bones and skin to make a homemade chicken broth for the next round of chicken soup. I explain exactly how to do this in the recipe video.
 
-![CHICKEN NOODLE SOUP](../images/prep-school__chicken-noodle-soup.jpg)
+![CHICKEN NOODLE SOUP](../images/meal-prep__chicken-noodle-soup__p429.jpg)
+
+## Additional Recipe Pages
+
+![CHICKEN NOODLE SOUP - page 430](../images/meal-prep__chicken-noodle-soup__p430.jpg)
+
+![CHICKEN NOODLE SOUP - page 431](../images/meal-prep__chicken-noodle-soup__p431.jpg)
+
+## Source Pages
+
+429, 430, 431

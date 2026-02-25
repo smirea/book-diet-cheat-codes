@@ -10,10 +10,9 @@
 
 ## Ingredients
 
-- 1 seedless watermelon
-
 ### PINT INGREDIENTS
 
+- 1 seedless watermelon
 - 330g seedless watermelon
 - 110g water
 - 20g granulated erythritol
@@ -31,13 +30,21 @@
 8. Load blender up, blend for 30 seconds or until watermelon is broken down, put into storage containers, and repeat until the entire watermelon has been pureed.
 9. Directly into a pint add Pint Ingredients and using a handheld blender, mix for 30 seconds.
 10. Put the top on the pint and freeze for 24 hours.
-11. Take the pint out of the freezer, run it under warm water for 60 seconds, dry the pint off, and load it into the CREAMi®.
+11. Take the pint out of the freezer, run it under warm water for 60 seconds, dry the pint off, and load it into the CREAMIT™.
 12. Run pint on the sorbet function and directly after on the re-spin function.
-13. Unload the pint and using a spoon, push the contents of the CREAMi® down, smooth and level the surface, load it back up, and hit the re-spin button.
+13. Unload the pint and using a spoon, push the contents of the CREAMIT™ down, smooth and level the surface, load it back up, and hit the re-spin button.
 14. A perfect sorbet consistency has now been achieved and it is time to eat.
 
 ## Tips
 
-Instead of blending every gram of watermelon, put some chunks in containers to have as a quick snack or great pre-workout meal.You can buy pre-cut fruit to make the first part of this process go much faster, but it will also be much more expensive to do so. In addition, after you cut and puree the watermelon you will have enough for 10+ sorbets, so it's worth putting the extra work in.
+TIP: Instead of blending every gram of watermelon, put some chunks in containers to have as a quick snack or great pre-workout meal.TIP: You can buy pre-cut fruit to make the first part of this process go much faster, but it will also be much more expensive to do so. In addition, after you cut and puree the watermelon you will have enough for 10+ sorbets, so it's worth putting the extra work in.
 
-![WATERMELON SORBET](../images/fruit-sorbets__watermelon-sorbet.jpg)
+![WATERMELON SORBET](../images/sorbets__watermelon-sorbet__p287.jpg)
+
+## Additional Recipe Pages
+
+![WATERMELON SORBET - page 288](../images/sorbets__watermelon-sorbet__p288.jpg)
+
+## Source Pages
+
+287, 288

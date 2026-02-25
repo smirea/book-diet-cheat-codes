@@ -45,4 +45,12 @@
 10. Brush each bread stick with the butter mixture and top with parmesan and parsley while breadsticks are hot.
 11. Eat one or all 6. Both are great options.
 
-![PROTEIN BREADSTICKS](../images/doughlicious__protein-breadsticks.jpg)
+![PROTEIN BREADSTICKS](../images/breads__protein-breadsticks__p395.jpg)
+
+## Additional Recipe Pages
+
+![PROTEIN BREADSTICKS - page 396](../images/breads__protein-breadsticks__p396.jpg)
+
+## Source Pages
+
+395, 396

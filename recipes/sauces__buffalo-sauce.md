@@ -6,7 +6,7 @@
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 29 | 2 | 3 | N/A | 0 |
+| 29 | 2 | 3 | undefined | 0 |
 
 ## Ingredients
 
@@ -26,4 +26,12 @@
 5. Once the sauce starts to boil, remove from heat and mix to combine.
 6. Add to a container and refrigerate.
 
-![BUFFALO SAUCE](../images/lets-get-saucy__buffalo-sauce.jpg)
+![BUFFALO SAUCE](../images/sauces__buffalo-sauce__p363.jpg)
+
+## Additional Recipe Pages
+
+![BUFFALO SAUCE - page 364](../images/sauces__buffalo-sauce__p364.jpg)
+
+## Source Pages
+
+363, 364

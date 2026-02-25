@@ -6,7 +6,7 @@
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 258 | 9 | 41 | 25 | 20 |
+| 0 | 0 | 0 | undefined | 0 |
 
 ## Ingredients
 
@@ -44,15 +44,21 @@
 2. Put a gallon bag in a cup, add the cheesecake to it, close the bag, and freeze.
 3. Add the dry ingredients to a large bowl and whisk to combine.
 4. In another large bowl, add the wet ingredients and whisk to combine.
-5. Add dry ingredients into the bowl of the wet ingredients and whisk until just BARELY combined - overmixing will result in chewy muffins. To make sure everything is combined, fold the mixture 3-4 times and scrape the bottom of the bowl with a silicone spatula.
-6. Line a jumbo muffin pan with large baking cups, lightly spray each cup with oil to prevent sticking, and add 140g of batter to each cup.
-7. Take the back of a spoon and spin it in the middle of the batter while pushing the batter up the sides of the baking cups until there is a circular hole about 1.5" deep. Repeat for each muffin.
-8. Grab the cheesecake filling, cut the tip of the gallon bag, and distribute the filling evenly to each muffin.
-9. Bake in a preheated 300°F oven for 32-36 minutes. You know the muffins are done when you shake the muffin pan and the middle of the cheesecake filling still has a little bit of jiggle to it.
-10. Let muffins cool on a wire rack for an hour and store in a paper towel lined airtight container or simply throw them in a plastic bag and enjoy for the next 3-4 days.
+5. Add dry ingredients into the bowl of the wet ingredients and whisk until just BARELY combined — overmixing will result in chewy muffins.
+6. To make sure everything is combined, fold the mixture 3-4 times and scrape the bottom of the bowl with a silicone spatula.
+7. Line a jumbo muffin pan with large baking cups, lightly spray each cup with oil to prevent sticking, and add 140g of batter to each cup.
+8. Take the back of a spoon and spin it in the middle of the batter while pushing the batter up the sides of the baking cups until there is a circular hole about 1.5" deep. Repeat for each muffin.
+9. Grab the cheesecake filling, cut the tip of the gallon bag, and distribute the filling evenly to each muffin.
+10. Bake in a preheated 300°F oven for 32-36 minutes.
+11. You know the muffins are done when you shake the muffin pan and the middle of the cheesecake filling still has a little bit of jiggle to it.
+12. Let muffins cool on a wire rack for an hour and store in a paper towel lined airtight container or simply throw them in a plastic bag and enjoy for the next 3-4 days.
 
 ## Tips
 
-For the ultimate eating experience, freeze them in a plastic bag and microwave them for 30-75 seconds when ready to eat. Let them sit for 1 minute and the muffin should be warm while the cheesecake is still cold and soft. These muffins will store in the freezer for 2-3 months.
+For the ultimate eating experience, freeze them in a plastic bag and microwave them for 60-75 seconds when ready to eat. Let them sit for 1 minute and the muffin should be warm while the cheesecake is still cold and soft. These muffins will store in the freezer for 2-3 months.
 
-![JUMBO PUMPKIN CHEESECAKE MUFFINS](../images/breakfast-bliss__jumbo-pumpkin-cheesecake-muffins.jpg)
+![JUMBO PUMPKIN CHEESECAKE MUFFINS](../images/breakfast__jumbo-pumpkin-cheesecake-muffins__p84.jpg)
+
+## Source Pages
+
+84

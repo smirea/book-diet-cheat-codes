@@ -1,51 +1,63 @@
 # BBQ CHICKEN SHEET PAN PIZZA
 
-**Serves:** 8 | **Prep:** 2 HRS | **Cook:** 18 MINS
+**Serves:** 8 | **Prep:** 3 HRS | **Cook:** 20 MINS
 
 ## Macros
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 430 | 11 | 46 | N/A | 39 |
+| 506 | 13 | 51 | undefined | 48 |
 
 ## Ingredients
 
-### DRY
+### DOUGH
 
-- 390g all-purpose flour
-- 100g vital wheat gluten
+- 420g all-purpose flour
+- 105g vital wheat gluten
 - 6g salt
 - 7g instant yeast
 
 ### WET
 
-- 15g extra virgin olive oil
-- 360g water
+- 340g warm water
 
 ### PIZZA
 
-- 4g extra virgin olive oil
+- 16g olive oil
 - Dough
-- 220g no sugar added BBQ sauce
-- 252g chicken breast, cooked
+- 280g no sugar added BBQ sauce
+- 422g chicken breast, cooked
 - 224g fat-free mozzarella cheese, shredded
-- 252g part-skim mozzarella cheese, shredded
+- 294g part-skim mozzarella cheese, shredded
+- 30g red onion, chopped
 - Cilantro, chopped
 
 ## Directions
 
-1. Add all Dry Ingredients in a food processor and process on high for 30 seconds.
-2. Add olive oil onto the dry ingredients, put the top on, turn the processor on high, and slowly add water over 15-20 seconds. Continue to process for an additional 30 seconds.
-3. Lightly spray a large bowl with oil, plop the dough on the counter, form into a ball, and add to the bowl. Lightly spray the top of the bowl with oil and cover for 90 minutes or until doubled in size.
-4. Pour olive oil on sheet pan and spread around the entire sheet pan.
-5. Take dough out of the bowl, let it hang for a couple seconds so it naturally starts stretching into a rectangular shape, and plop it onto the sheet pan.
-6. Using the tips of your fingers, start stretching the dough out across the pan by pressing outwards. Cover with another sheet pan or a damp towel for 30 minutes.
-7. If the corners snapped back a little bit, lightly stretch the dough back into the corners of the pan. Top the dough with BBQ sauce, chicken, fat-free cheese, and part-skim cheese.
-8. Bake in a preheated 400°F oven for 16-20 minutes or until cheese begins to brown.
-9. Garnish with cilantro, slice, and enjoy.
+1. In a large bowl, combine flour, vital wheat gluten, salt, and yeast. Whisk to evenly distribute.
+2. Add water and mix with a spoon until a shaggy dough forms.
+3. Using a wet hand, press and fold the dough until fully combined and no dry flour remains.
+4. Cover and rest in a warm area for 60-90 minutes. The dough can safely rise longer than 90 minutes. If you need to leave for 2-3 hours, it'll be ready when you return.
+5. With a wet hand, pull one side of the dough up as high as possible and fold it over itself. Rotate the bowl 90° and repeat 3-4 times. Flip the dough, form into a ball, cover, and rest 60-90 minutes.
+6. Pour olive oil onto a 21x15" sheet pan and spread it across the entire surface.
+7. Remove dough from the bowl, let it hang for a few seconds so it naturally stretches into a rectangle, and plop it onto the sheet pan.
+8. Using your fingertips, press outward to stretch the dough across the pan. Cover with another sheet pan and rest 15-20 minutes. If the dough keeps snapping back while stretching, cover and rest 15-20 minutes to allow the gluten to relax.
+9. Rinse chopped red onion under water and dry with a paper towel.
+10. If the dough has snapped back from the corners, lightly stretch it back into place. Top with BBQ sauce, chicken, both cheeses, and red onion.
+11. Bake in a preheated 450°F oven for 20-24 minutes, or until cheese is browned to your preference.
+12. Slice into 8 pieces, garnish with cilantro, and enjoy.
+13. To reheat, pop a slice in a preheated 350°F air fryer for 2-4 minutes.
 
 ## Tips
 
-It will not hurt the dough if it rises longer than 90 minutes as it still needs an additional rise anyway. If you need to go somewhere for 2-3 hours, your dough will be ready for you when you get back. TIP: If the dough keeps snapping back when you are stretching it in the sheet pan, cover it and let it rest for 15-20 minutes. This will allow the gluten to relax and help the dough to stretch.
+TIP: You can perform steps 1-3 in a food processor to make this recipe even easier. For best results and visual guidance, refer to the recipe video. TIP: Pre-cooked chipotle chicken from Costco works perfectly here.
 
-![BBQ CHICKEN SHEET PAN PIZZA](../images/dinner-is-served__bbq-chicken-sheet-pan-pizza.jpg)
+![BBQ CHICKEN SHEET PAN PIZZA](../images/dinner__bbq-chicken-sheet-pan-pizza__p165.jpg)
+
+## Additional Recipe Pages
+
+![BBQ CHICKEN SHEET PAN PIZZA - page 166](../images/dinner__bbq-chicken-sheet-pan-pizza__p166.jpg)
+
+## Source Pages
+
+165, 166

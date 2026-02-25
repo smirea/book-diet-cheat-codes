@@ -6,7 +6,7 @@
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 218 | 4 | 43 | N/A | 5 |
+| 218 | 4 | 43 | undefined | 5 |
 
 ## Ingredients
 
@@ -40,4 +40,12 @@
 15. Take a bite and listen to the unbelievable crunch. Each serving should weigh about 115 grams.
 16. To reheat, simply add them to a preheated 400°F air fryer for 3-4 minutes.
 
-![CRISPY ROASTED POTATOES](../images/shareables__crispy-roasted-potatoes.jpg)
+![CRISPY ROASTED POTATOES](../images/sides__crispy-roasted-potatoes__p317.jpg)
+
+## Additional Recipe Pages
+
+![CRISPY ROASTED POTATOES - page 318](../images/sides__crispy-roasted-potatoes__p318.jpg)
+
+## Source Pages
+
+317, 318

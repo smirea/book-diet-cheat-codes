@@ -6,7 +6,7 @@
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 479 | 20 | 32 | N/A | 43 |
+| 479 | 20 | 32 | undefined | 43 |
 
 ## Ingredients
 
@@ -65,7 +65,7 @@
 3. While mixing, add water over a 20-30 second period and continue blending for an additional 30 seconds.
 4. Lightly spray a medium-sized bowl with oil, plop the dough on the counter, form into a ball, and add to the bowl. Cover for 1.5-2 hours.
 5. Add all sauce ingredients directly into the crushed tomato can and mix. Add to a container and refrigerate.
-6. Add all spices to a small bowl besides the garlic cloves and bay leaf. Add spices to a preheated saucepan on medium heat and mix together. Let dry roast for 30-45 seconds.
+6. Add all spices to a small bowl besides the garlic cloves and bay leaf. Add spices to a preheated saucepan on medium heat and mix together. Let dry roast for 30-60 seconds.
 7. Add bay leaf, garlic cloves, and beef broth to the saucepan and bring to a simmer.
 8. Add beef bouillon and stir. Turn the pot to low and allow it to simmer for 30 minutes.
 9. Place a strainer over a medium-sized bowl, pour the au jus through the strainer, and wipe the saucepan with a towel.
@@ -76,7 +76,7 @@
 14. Using a paper towel, dab the giardiniera to remove as much excess oil as possible and weigh out 120 grams.
 15. Using your hands, squeeze as much juice out of the beef as possible and add to a medium bowl.
 16. Lightly sprinkle corn meal onto the work surface, flip dough onto the corn meal and add additional corn meal to the bottom of the dough.
-17. Flip the dough back over and using a rolling pin, roll back and forth two times. Turn the dough 90° or a quarter turn, and roll back and forth two more times. Repeat this process until the dough is 16.1".
+17. Flip the dough back over and using a rolling pin, roll back and forth two times. Turn the dough 90° or a quarter turn, and roll back and forth two more times. Repeat this process until the dough is 16-17".
 18. Pick up the dough, make two fists underneath it and move the dough in a circular motion. Make sure you go around the entire dough. The dough should be about 12" now.
 19. Take the dough and grab the crust by your finger tips. Similar to spinning the dough with your fists, do the same thing to the crust and go all the way around the pizza. The dough should now have reached final form at 14".
 20. Roll out the edges of the dough to remove any air pockets and flatten.
@@ -92,4 +92,14 @@ Keep the au jus if you plan to make another pizza or an italian beef sandwich in
 
 If there is too much oil or au jus on the pizza, it will end up a soggy mess.
 
-![ITALIAN BEEF PIZZA](../images/dinner-is-served__italian-beef-pizza.jpg)
+![ITALIAN BEEF PIZZA](../images/dinner__italian-beef-pizza__p159.jpg)
+
+## Additional Recipe Pages
+
+![ITALIAN BEEF PIZZA - page 160](../images/dinner__italian-beef-pizza__p160.jpg)
+
+![ITALIAN BEEF PIZZA - page 161](../images/dinner__italian-beef-pizza__p161.jpg)
+
+## Source Pages
+
+159, 160, 161

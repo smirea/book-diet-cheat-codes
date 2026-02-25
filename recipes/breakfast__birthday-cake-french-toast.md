@@ -40,16 +40,23 @@
 2. Dip slices of bread one at a time in the wet mixture, soak for one minute, flip, and let bread soak on the other side for an additional minute.
 3. Lightly spray a preheated pan on medium heat with oil. Place a soaked slice of bread into the pan.
 4. Repeat for the additional slices. Lightly spray top of french toast with oil spray and let them cook for 20 minutes, flipping halfway through.
-5. While the french toast cooks, add butter, cream cheese, and salt into a large bowl. Blend for 5 minutes using a hand mixer.
-6. Add cake batter extract and vanilla extract to the bowl and continue mixing for an additional 3 minutes.
-7. In 3 parts, add confectioners erythritol to the bowl. Add more sweetener once each part is fully mixed in. This blend should take 5 minutes in total.
-8. When finished mixing, add sprinkles and fold into frosting.
-9. Put frosting into a plastic container and refrigerate.
-10. Add one slice of french toast to your plate, top with 1/3 of the frosting, spread evenly, and repeat for the other two slices of French toast.
-11. Let's eat.
+5. If there is extra wet mixture leftover, pour it on top of the bread before spraying the french toast with oil.
+6. While the french toast cooks, add butter, cream cheese, and salt into a large bowl. Blend for 5 minutes using a hand mixer.
+7. Pause halfway through to scrape down the sides of the bowl, then continue mixing.
+8. Add cake batter extract and vanilla extract to the bowl and continue mixing for an additional 3 minutes.
+9. In 3 parts, add confectioners erythritol to the bowl. Add more sweetener once each part is fully mixed in. This blend should take 5 minutes in total.
+10. When finished mixing, add sprinkles and fold into frosting.
+11. Put frosting into a plastic container and refrigerate.
+12. You can use the frosting right away, but it tastes best after sitting in the fridge for 1-2 hours.
+13. Add one slice of french toast to your plate, top with ½ of the frosting, spread evenly, and repeat for the other two slices of French toast.
+14. Let's eat.
 
-## Tips
+![BIRTHDAY CAKE FRENCH TOAST](../images/breakfast__birthday-cake-french-toast__p57.jpg)
 
-If there is extra egg mixture leftover, pour it on top of the bread before spraying the french toast with oil. Pause halfway through to scrape down the sides of the bowl, then continue mixing. You can use the frosting right away, but it tastes best after sitting in the fridge for 1-2 hours.
+## Additional Recipe Pages
 
-![BIRTHDAY CAKE FRENCH TOAST](../images/breakfast-bliss__birthday-cake-french-toast.jpg)
+![BIRTHDAY CAKE FRENCH TOAST - page 58](../images/breakfast__birthday-cake-french-toast__p58.jpg)
+
+## Source Pages
+
+57, 58

@@ -12,7 +12,7 @@
 
 - 672g chicken breast
 
-### DRY STATION
+### DREDGING STATIONS
 
 - 70g all-purpose flour
 - 20g corn starch
@@ -40,13 +40,23 @@
 5. Using your other hand, or "wet hand," completely cover the coated chicken in wet mixture and let any excess liquid drip off.
 6. Finish chicken by adding it back into the flour mixture and push any of the flour mixture into the cracks and crevices of the chicken to make sure it is completely coated. Add to a wire rack.
 7. Lightly spray chicken with oil, then add to a preheated 400°F air fryer oil side down. Lightly spray the other side with oil as well.
-8. Cook for 6-8 minutes, flipping halfway through. If you see any white spots after flipping, quickly spray with oil and continue cooking.
+8. Cook for 5-6 minutes, flipping halfway through. If you see any white spots after flipping, quickly spray with oil and continue cooking.
 9. In a medium-sized bowl, add 220g of cooked chicken and 30g of GARLIC PARMESAN SAUCE. Using a brush, coat the pieces of chicken evenly with sauce.
 10. Put any additional servings WITHOUT sauce into meal prep containers.
-11. When hunger strikes, reheat in air fryer for 3-4 minutes at 350°F, add sauce, and they will be as good as new.
+11. When hunger strikes, reheat in air fryer for 3-4 minutes at 350°F, add sauce, and they will be good as new.
 
 ## Tips
 
-TIP: You can reduce prep time by nearly 30 minutes by buying a "Better Breader." This device can essentially bread all of the pieces at once without having to go one by one. This is available in my Amazon store if you want to check it out. TIP: When cooking, try and make sure the pieces of chicken aren't touching each other. If you need to do it in batches, that's okay.
+You can reduce prep time by nearly 30 minutes by buying a "Better Breader". This device can essentially bread all of the pieces at once without having to go one by one. This is available in my Amazon store if you want to check it out. When cooking, try and make sure the pieces of chicken aren't touching each other. If you need to do it in batches, that's okay.
 
-![GARLIC PARMESAN BONELESS WINGS](../images/dinner-is-served__garlic-parmesan-boneless-wings.jpg)
+![GARLIC PARMESAN BONELESS WINGS](../images/dinner__garlic-parmesan-boneless-wings__p129.jpg)
+
+## Additional Recipe Pages
+
+![GARLIC PARMESAN BONELESS WINGS - page 130](../images/dinner__garlic-parmesan-boneless-wings__p130.jpg)
+
+![GARLIC PARMESAN BONELESS WINGS - page 131](../images/dinner__garlic-parmesan-boneless-wings__p131.jpg)
+
+## Source Pages
+
+129, 130, 131

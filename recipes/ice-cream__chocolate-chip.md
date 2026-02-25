@@ -47,13 +47,16 @@
 9. With an immersion blender at the bottom of the container, start blending wet ingredients while gradually adding dry ingredients.
 10. Once all dry ingredients dissolve, blend for another 90 seconds.
 11. Pour into a pint, cover, and freeze for 24 hours.
-12. Take the frozen pint, run the sides and bottom under hot water for 1 minute, load it into the CREAMI®, and hit the light ice cream button.
+12. Take the frozen pint, run the sides and bottom under hot water for 1 minute, load it into the CREAMi®, and hit the light ice cream button.
 13. Use a butter knife to make a 1" hole in the center of the pint, remove the ice cream, and take the chocolate out of the freezer.
-14. Quickly add the chocolate to the pint, return the ice cream, reload, and run the mix-in setting.
-15. Scoop. Crunch. Smile. Repeat.
+14. Quickly add the chocolate to the pint, return the ice cream, reload, and run the mix-in setting. Push down the chocolate so most of it sits near the bottom of the pint. This ensures it spreads evenly throughout during the mix-in setting.
 
-## Tips
+![CHOCOLATE CHIP](../images/ice-cream__chocolate-chip__p253.jpg)
 
-Push down the chocolate so most of it sits near the bottom of the pint. This ensures it spreads evenly throughout during the mix-in setting.
+## Additional Recipe Pages
 
-![CHOCOLATE CHIP](../images/ice-cream-pints__chocolate-chip.jpg)
+![CHOCOLATE CHIP - page 254](../images/ice-cream__chocolate-chip__p254.jpg)
+
+## Source Pages
+
+253, 254

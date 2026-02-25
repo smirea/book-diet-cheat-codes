@@ -1,6 +1,6 @@
 # CRUNCHY CINNAMON SQUARES PROTEIN ICE CREAM V1
 
-**Serves:** 1 | **Prep:** 6 MINS | **Cook:** 4 MINS
+**Serves:**  | **Prep:** 6 MINS | **Cook:** 4 MINS
 
 ## Macros
 
@@ -10,10 +10,9 @@
 
 ## Ingredients
 
-- 440g ice
-
 ### SPIN 1
 
+- 440g ice
 - 84g fat-free milk
 - 140g fat-free Greek yogurt
 - 4.2g vanilla extract
@@ -38,4 +37,12 @@
 5. Take blade out, mix everything around with a spatula, scrape off any dry ingredients stuck on the walls of blender, replace blade, and blend for 1 more minute.
 6. Transfer to desired drinking container and enjoy!
 
-![CRUNCHY CINNAMON SQUARES PROTEIN ICE CREAM V1](../images/blender-ice-cream__crunchy-cinnamon-squares-protein-ice-cream-v1.jpg)
+![CRUNCHY CINNAMON SQUARES PROTEIN ICE CREAM V1](../images/blender-ice-cream__crunchy-cinnamon-squares-protein-ice-cream-v1__p199.jpg)
+
+## Additional Recipe Pages
+
+![CRUNCHY CINNAMON SQUARES PROTEIN ICE CREAM V1 - page 200](../images/blender-ice-cream__crunchy-cinnamon-squares-protein-ice-cream-v1__p200.jpg)
+
+## Source Pages
+
+199, 200

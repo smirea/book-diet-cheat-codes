@@ -16,7 +16,7 @@
 ### MARINADE
 
 - 4g garlic, minced
-- 5g Tajin® original
+- 5g Tajin original
 - 2g habanero powder
 - 2g black pepper
 - 30g soy sauce
@@ -27,13 +27,13 @@
 
 - 60g onion, chopped
 - 10g fresh cilantro, chopped
-- 14g oaxaca cheese, shredded
+- 14g oaxacacheese, shredded
 
 ### ONE SERVING
 
 - 3 tortillas
 - 126g cooked skirt steak
-- 14g oaxaca cheese, shredded
+- 14g oaxacacheese, shredded
 - Cilantro and onion, to taste
 
 ## Directions
@@ -51,6 +51,14 @@
 
 ## Tips
 
-When getting your steak from the store ask the deli to cut the fat off for you. This will save you time. You can also do this in a pan, but there will be a ton of smoke. If your kitchen doesn’t have a vent hood, you are guaranteed to set off fire alarms. I would suggest opening a couple of windows and facing a fan towards the window to ventilate the smoke.
+When getting your steak from the store ask the deli to cut the fat off for you. This will save you time.You can also do this in a pan, but there will be a ton of smoke. If your kitchen doesn't have a vent hood, you are guaranteed to set off fire alarms. I would suggest opening a couple of windows and facing a fan towards the window to ventilate the smoke.
 
-![STEAK TACOS](../images/dinner-is-served__steak-tacos.jpg)
+![STEAK TACOS](../images/dinner__steak-tacos__p103.jpg)
+
+## Additional Recipe Pages
+
+![STEAK TACOS - page 104](../images/dinner__steak-tacos__p104.jpg)
+
+## Source Pages
+
+103, 104

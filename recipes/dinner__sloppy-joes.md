@@ -21,13 +21,13 @@
 - 8g salt (or to taste)
 - 5g onion powder
 - 2g black pepper
-- 256g G. Hughes00ae sugar-free ketchup
+- 226g G Hughes' sugar-free ketchup
 - 10g mustard
 - 30g Worcestershire sauce
 - 30g brown sugar erythritol
 - 8g cornstarch
 - 30g water
-- Keto Culture00ae buns (50 Cal)
+- Keto Culture® buns (50 Cal)
 
 ## Directions
 
@@ -51,4 +51,12 @@
 
 Taste meat before serving and add salt if necessary.
 
-![SLOPPY JOES](../images/dinner-is-served__sloppy-joes.jpg)
+![SLOPPY JOES](../images/dinner__sloppy-joes__p105.jpg)
+
+## Additional Recipe Pages
+
+![SLOPPY JOES - page 106](../images/dinner__sloppy-joes__p106.jpg)
+
+## Source Pages
+
+105, 106

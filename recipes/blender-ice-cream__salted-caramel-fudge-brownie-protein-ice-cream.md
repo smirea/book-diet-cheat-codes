@@ -1,6 +1,6 @@
 # SALTED CARAMEL FUDGE BROWNIE PROTEIN ICE CREAM
 
-**Serves:** 1 | **Prep:** 8 MINS | **Cook:** 4 MINS
+**Serves:** 1 | **Prep:** 0 MINS | **Cook:** 4 MINS
 
 ## Macros
 
@@ -45,11 +45,19 @@
 4. Take blade out, mix everything around with a spatula, scrape off any dry ingredients stuck on the walls of blender, and replace blade.
 5. Add Spin 2 ingredients to blender in the order listed and blend for 1 minute on high.
 6. Take blade out, mix everything around with a spatula, scrape off any dry ingredients stuck on the walls of blender, replace blade, and blend for 1 more minute.
-7. Take blade out, add 	 Mix-ins, and fold in.
+7. Take blade out, add ¾ Mix-ins, and fold in.
 8. Transfer to desired drinking container, top with the rest of the Mix-ins and toppings, and enjoy!
 
 ## Tips
 
-For an even better eating experience, after step 7, line a large glass with the sea salt caramel. Then sprinkle some of the Mix-ins into the glass which will stick directly onto the caramel. Pour the ice cream into your glass, top with remaining caramel and Mix-ins, and continually get bites filled with caramel, Oreo®, and brownie as you eat your way down the glass.
+For an even better eating experience, after step 7, line a large glass with the sea salt caramel. Then sprinkle some of the Mix-ins into the glass which will stick directly onto the caramel. Pour the ice cream into your glass, top with remaining caramel and Mix-ins, and continually get bites filled with caramel, oreo®, and brownie as you eat your way down the glass.
 
-![SALTED CARAMEL FUDGE BROWNIE PROTEIN ICE CREAM](../images/blender-ice-cream__salted-caramel-fudge-brownie-protein-ice-cream.jpg)
+![SALTED CARAMEL FUDGE BROWNIE PROTEIN ICE CREAM](../images/blender-ice-cream__salted-caramel-fudge-brownie-protein-ice-cream__p205.jpg)
+
+## Additional Recipe Pages
+
+![SALTED CARAMEL FUDGE BROWNIE PROTEIN ICE CREAM - page 206](../images/blender-ice-cream__salted-caramel-fudge-brownie-protein-ice-cream__p206.jpg)
+
+## Source Pages
+
+205, 206

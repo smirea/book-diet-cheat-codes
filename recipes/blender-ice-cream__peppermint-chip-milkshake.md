@@ -10,10 +10,9 @@
 
 ## Ingredients
 
-- 440g ice
-
 ### SPIN 1
 
+- 440g ice
 - 160g 1% milk
 - 140g fat-free Greek yogurt
 - 4.2g vanilla extract
@@ -33,8 +32,7 @@
 
 - 30g fat-free whipped topping
 - 1 maraschino cherry
-- 2 Ghirardelli
-R peppermint bark squares, chopped
+- 2 Ghirardelli® peppermint bark squares, chopped
 
 ## Directions
 
@@ -46,4 +44,12 @@ R peppermint bark squares, chopped
 6. Add peppermint bark squares and blend for 1 minute.
 7. Top with whipped cream and cherry and enjoy!
 
-![PEPPERMINT CHIP MILKSHAKE](../images/blender-ice-cream__peppermint-chip-milkshake.jpg)
+![PEPPERMINT CHIP MILKSHAKE](../images/blender-ice-cream__peppermint-chip-milkshake__p227.jpg)
+
+## Additional Recipe Pages
+
+![PEPPERMINT CHIP MILKSHAKE - page 228](../images/blender-ice-cream__peppermint-chip-milkshake__p228.jpg)
+
+## Source Pages
+
+227, 228

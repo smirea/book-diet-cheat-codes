@@ -6,7 +6,7 @@
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 349 | 7 | 19 | N/A | 52 |
+| 349 | 7 | 18 | undefined | 52 |
 
 ## Ingredients
 
@@ -28,12 +28,20 @@
 8. Lay the chicken on top of the breadcrumbs, pick up the container and start shaking it back and forth to fully coat the chicken strip.
 9. Once coated, cover with additional breadcrumbs and push them into the chicken and its crevices to make sure full coverage is achieved.
 10. Place the breaded chicken strip on a sheet pan with a baking rack and repeat until all chicken strips are finished.
-11. Bake chicken strips in the oven for 20-25 minutes or until internal temperature has reached 155°F.
-12. Separate into five even servings. When you are ready to eat, add one serving to a bowl, add 45g hot sauce, and toss.
+11. Bake chicken strips in the oven for 20-25 minutes or until internal temperature has reached 165°F.
+12. Separate into five even servings. When you are ready to eat, add one serving to a bowl with 45g hot sauce, and toss.
 13. Reheat in the oven or air fryer for 3-4 minutes at 350°F and coat with hot sauce right before serving.
 
 ## Tips
 
 Bake your chicken strips in an air fryer at 400°F for 6-8 minutes to cook your tenders faster and make them crispier. Use a sauce brush to coat the tenders with hot sauce for a more even coat and no risk of the breading coming off.
 
-![CHICKEN STRIPS](../images/midday-munchies__chicken-strips.jpg)
+![CHICKEN STRIPS](../images/lunch__chicken-strips__p87.jpg)
+
+## Additional Recipe Pages
+
+![CHICKEN STRIPS - page 88](../images/lunch__chicken-strips__p88.jpg)
+
+## Source Pages
+
+87, 88

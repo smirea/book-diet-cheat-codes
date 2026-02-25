@@ -10,7 +10,7 @@
 
 ## Ingredients
 
-- 28oz can Cento® San Marzano whole peeled tomatoes
+- 28oz can Cento San Marzano whole peeled tomatoes
 - 66g tomato paste
 - 8g extra virgin olive oil
 - 7g garlic, minced
@@ -30,6 +30,14 @@
 
 ## Tips
 
-If you want a chunkier sauce, crush tomatoes by hand and mix all ingredients with a whisk or spatula instead of an immersion blender. If you want a zero clean up marinara, pour and mix ingredients directly in the container they will be stored in.
+If you want a chunkier sauce, crush tomatoes by hand and mix all ingredients with a whisk or spatula instead of an immersion blender. If you want a zero stash up marinara, pour and mix ingredients directly in the container they will be stored in.
 
-![FOOLPROOF HOMEMADE MARINARA](../images/lets-get-saucy__foolproof-homemade-marinara.jpg)
+![FOOLPROOF HOMEMADE MARINARA](../images/sauces__foolproof-homemade-marinara__p339.jpg)
+
+## Additional Recipe Pages
+
+![FOOLPROOF HOMEMADE MARINARA - page 340](../images/sauces__foolproof-homemade-marinara__p340.jpg)
+
+## Source Pages
+
+339, 340

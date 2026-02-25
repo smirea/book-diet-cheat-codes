@@ -6,7 +6,7 @@
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 34 | 2 | 3 | N/A | 1 |
+| 34 | 2 | 3 | undefined | 1 |
 
 ## Ingredients
 
@@ -30,7 +30,7 @@
 2. Add all additional ingredients besides the Emulsifiers and process for another 30 seconds.
 3. Using a rubber spatula, scrape down the sides and bottom of processor.
 4. In a small bowl, add the Emulsifying Ingredients and mix using a spoon.
-5. Once the emulsifier has a smooth consistency, add it to the food processor and process for 60 seconds.
+5. Once the emulsifier has a smooth consistency, add it to the processor and process for 60 seconds.
 6. Take blade out and mix together manually to make sure everything is incorporated.
 7. Pour into a bowl and serve right away or use a funnel and add to a condiment bottle to use on a plethora of dishes.
 
@@ -38,4 +38,12 @@
 
 If you don't have a food processor, you can also put these ingredients into a bowl and use an immersion blender to both mix the ingredients and break them down. If you would like a smoother texture, remove seeds from chipotle peppers before adding to the food processor.
 
-![CHIPOTLE AIOLI](../images/lets-get-saucy__chipotle-aioli.jpg)
+![CHIPOTLE AIOLI](../images/sauces__chipotle-aioli__p347.jpg)
+
+## Additional Recipe Pages
+
+![CHIPOTLE AIOLI - page 348](../images/sauces__chipotle-aioli__p348.jpg)
+
+## Source Pages
+
+347, 348

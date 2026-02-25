@@ -43,4 +43,12 @@
 
 Leave a couple grams of cereal on the side to top your pint with when it is finished.
 
-![PEANUT BUTTER PUFFS ICE CREAM](../images/ice-cream-pints__peanut-butter-puffs-ice-cream.jpg)
+![PEANUT BUTTER PUFFS ICE CREAM](../images/ice-cream__peanut-butter-puffs-ice-cream__p275.jpg)
+
+## Additional Recipe Pages
+
+![PEANUT BUTTER PUFFS ICE CREAM - page 276](../images/ice-cream__peanut-butter-puffs-ice-cream__p276.jpg)
+
+## Source Pages
+
+275, 276

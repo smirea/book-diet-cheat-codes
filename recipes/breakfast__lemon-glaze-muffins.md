@@ -6,7 +6,7 @@
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 102 | 3 | 17 | 10 | 9 |
+| 0 | 0 | 0 | undefined | 0 |
 
 ## Ingredients
 
@@ -38,7 +38,7 @@
 
 ## Directions
 
-1. In a large bowl, add the Wet ingredients and whisk to combine.
+1. In a large bowl, add the Wet Ingredients and whisk to combine.
 2. In another large bowl, add the Dry Ingredients and whisk to combine.
 3. Add Dry Ingredients into the bowl of the Wet Ingredients and whisk until just BARELY combined — overmixing will result in chewy muffins. To make sure everything is combined, fold the mixture 3-4 times and scrape the bottom of the bowl with a silicone spatula.
 4. Line 14 muffin liners on a sheet pan, add 59g of muffin mix to each liner, and bake in a preheated 350°F oven for 16-18 minutes. You know they are done when a toothpick inserted in the center of a muffin has some crumbs sticking to it, but nothing wet.
@@ -49,6 +49,10 @@
 
 ## Tips
 
-If you want a moister muffin, pull them about one minute before they are done. They will be slightly underdone, but it'll make them so much more flavorful in my opinion.
+If you want a moister muffin, pull them about one minute before they are done. They will be slightly undone, but it'll make them so much more flavorful in my opinion.
 
-![LEMON GLAZE MUFFINS](../images/breakfast-bliss__lemon-glaze-muffins.jpg)
+![LEMON GLAZE MUFFINS](../images/breakfast__lemon-glaze-muffins__p72.jpg)
+
+## Source Pages
+
+72

@@ -1,6 +1,6 @@
 # PULLED PORK + MAC
 
-**Serves:** 6 | **Prep:** 20 MINS | **Cook:** 6 HOURS
+**Serves:** 6 | **Prep:** 20 MINS | **Cook:** 8 HOURS
 
 ## Macros
 
@@ -43,11 +43,20 @@
 7. Place the vegetables into the slow cooker along with the water, apple cider vinegar, and Worcestershire sauce.
 8. Completely coat the pork tenderloin with the spice mix and place it in the slow cooker with the raw side facing up.
 9. Cook on low for 8-10 hours or on high for 5-6 hours. When a fork easily pierces the tenderloin, it is finished.
-10. Take the tenderloin out of the pot, pull the meat apart using two forks, and give the meat a rough chop. For a smooth sauce, pour the pot into a high sided container and blend until smooth.
-11. Add the sauce and pulled pork back to the slow cooker and mix.
-12. Make the OG MAC AND CHEESE.
-13. Add pulled pork and mac and cheese to 6 meal prep containers and refrigerate.
-14. To reheat, place a damp paper towel over a container and microwave in 1-minute intervals, stirring between each interval until desired temperate is reached.
-15. Add pork to buns, top with barbecue sauce, and enjoy.
+10. Take the tenderloin out of the pot, pull the meat apart using two forks, and give the meat a rough chop.
+11. For a smooth sauce, pour the pot into a high sided container and blend until smooth.
+12. Add the sauce and pulled pork back to the slow cooker and mix.
+13. Make the OG MAC AND CHEESE.
+14. Add pulled pork and mac and cheese to 6 meal prep containers and refrigerate.
+15. To reheat, place a damp paper towel over a container and microwave in 1-minute intervals, stirring between each interval until desired temperate is reached.
+16. Add pork to buns, top with barbecue sauce, and enjoy.
 
-![PULLED PORK + MAC](../images/prep-school__pulled-pork-mac.jpg)
+![PULLED PORK + MAC](../images/meal-prep__pulled-pork-mac__p433.jpg)
+
+## Additional Recipe Pages
+
+![PULLED PORK + MAC - page 434](../images/meal-prep__pulled-pork-mac__p434.jpg)
+
+## Source Pages
+
+433, 434

@@ -6,7 +6,7 @@
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 571 | 22 | 43 | N/A | 54 |
+| 587 | 23 | 43 | undefined | 54 |
 
 ## Ingredients
 
@@ -46,7 +46,7 @@
 - 176g pizza sauce
 - 8g Pecorino Romano, grated
 - 8g Parmigiano-Reggiano, grated
-- 239g Italian sausage
+- 239g italian sausage
 - 84g turkey pepperoni
 - 112g fat-free mozzarella cheese
 - 182g part-skim mozzarella cheese
@@ -64,12 +64,12 @@
 8. Place each dough ball in a container and refrigerate for 24 hours.
 9. Combine all Italian sausage ingredients in a bowl. Mix thoroughly and refrigerate for 24 hours.
 10. Combine all pizza sauce ingredients in a high-sided container. Mix to combine and refrigerate.
-11. Remove one dough from the fridge 2-3 hours before shaping.
-12. Lightly sprinkle cornmeal on top of the dough. Flip onto the counter and dust the bottom with additional cornmeal.
-13. Flip the dough back over. Using your fingers, press the dough outward until it's 8-10 inches wide.
-14. Using a rolling pin, roll back and forth twice. Rotate the dough 90° and repeat. Continue until the dough reaches 10-12 inches.
-15. Lift the dough and stretch using your fists underneath, rotating in a circular motion until evenly stretched.
-16. Stretch the outer crust by holding it with your fingertips and rotating until the dough reaches 14-16 inches.
+11. Any crushed tomatoes you prefer can be used instead of 6-in-1.
+12. Remove one dough from the fridge 2-3 hours before shaping.
+13. Lightly sprinkle cornmeal on top of the dough. Flip onto the counter and dust the bottom with additional cornmeal.
+14. Flip the dough back over. Using your fingers, press the dough outward until it’s 8-10 inches wide.
+15. Using a rolling pin, roll back and forth twice. Rotate the dough 90° and repeat. Continue until the dough reaches 10-12 inches.
+16. Lift the dough and stretch using your fists underneath, rotating in a circular motion until evenly stretched.
 17. Transfer to a 16-inch sheet of parchment paper. Lightly roll the crust to remove air pockets and adjust thickness if needed.
 18. Place the pizza sauce in the center of the dough and spread evenly, leaving a quarter inch border for the crust.
 19. Add remaining toppings in the order listed in the ingredients section.
@@ -77,8 +77,18 @@
 21. Transfer pizza to a wire rack for 2-3 minutes. Return to the pizza steel for an additional 2-3 minutes with the oven door slightly cracked.
 22. Enjoy an authentic Chicago pizza.
 
-## Tips
+## Notes
 
 Any crushed tomatoes you prefer can be used instead of 6-in-1.
 
-![SAUSAGE AND PEPPERONI PIZZA](../images/dinner-is-served__sausage-and-pepperoni-pizza.jpg)
+![SAUSAGE AND PEPPERONI PIZZA](../images/dinner__sausage-and-pepperoni-pizza__p155.jpg)
+
+## Additional Recipe Pages
+
+![SAUSAGE AND PEPPERONI PIZZA - page 156](../images/dinner__sausage-and-pepperoni-pizza__p156.jpg)
+
+![SAUSAGE AND PEPPERONI PIZZA - page 157](../images/dinner__sausage-and-pepperoni-pizza__p157.jpg)
+
+## Source Pages
+
+155, 156, 157

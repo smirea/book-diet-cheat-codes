@@ -10,10 +10,9 @@
 
 ## Ingredients
 
-- 440g ice
-
 ### SPIN 1
 
+- 440g ice
 - 84g fat-free milk
 - 100g fat-free Greek yogurt
 - 4.2g vanilla extract
@@ -31,7 +30,7 @@
 ### MIX-INS
 
 - 3 Little Bites® party cake muffins, chopped
-- 6g sprinkles
+- 0g sprinkles
 
 ## Directions
 
@@ -40,8 +39,16 @@
 3. Add Spin 1 ingredients to blender in the order listed and blend for 1 minute on high.
 4. Take blade out, mix everything around with a spatula, scrape off any dry ingredients stuck on the walls of blender, and replace blade.
 5. Add Spin 2 ingredients to blender in the order listed and blend for 1 minute on high.
-6. Take blade out, mix everything around with a spatula, scrape off any dry ingredients stuck on the walls of blender, replace blade, and blend for 1 more minute on high.
+6. Take blade out, mix everything around with a spatula, scrape off any dry ingredients stuck on the walls of blender, and replace blade, and blend for 1 more minute on high.
 7. Take blade out, add ¾ of the Mix-ins and stir together.
 8. Transfer to desired drinking container, top with the rest of the Mix-ins, and enjoy!
 
-![BIRTHDAY CAKE MILKSHAKE](../images/blender-ice-cream__birthday-cake-milkshake.jpg)
+![BIRTHDAY CAKE MILKSHAKE](../images/blender-ice-cream__birthday-cake-milkshake__p225.jpg)
+
+## Additional Recipe Pages
+
+![BIRTHDAY CAKE MILKSHAKE - page 226](../images/blender-ice-cream__birthday-cake-milkshake__p226.jpg)
+
+## Source Pages
+
+225, 226

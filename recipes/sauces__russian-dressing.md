@@ -6,7 +6,7 @@
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 31 | 2 | 2 | N/A | 1 |
+| 31 | 2 | 2 | undefined | 1 |
 
 ## Ingredients
 
@@ -27,4 +27,12 @@
 2. Put bowl on scale, add the rest of your ingredients, and combine.
 3. Serve right away or let it sit in the fridge for a couple of hours to let the flavors compound.
 
-![RUSSIAN DRESSING](../images/lets-get-saucy__russian-dressing.jpg)
+![RUSSIAN DRESSING](../images/sauces__russian-dressing__p359.jpg)
+
+## Additional Recipe Pages
+
+![RUSSIAN DRESSING - page 360](../images/sauces__russian-dressing__p360.jpg)
+
+## Source Pages
+
+359, 360

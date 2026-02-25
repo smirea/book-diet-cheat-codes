@@ -44,4 +44,12 @@
 11. Chop up a fresh Oreo® and top cream with cookie crumbles.
 12. Eat.
 
-![COOKIES & CREAM](../images/ice-cream-pints__cookies-cream.jpg)
+![COOKIES & CREAM](../images/ice-cream__cookies-cream__p259.jpg)
+
+## Additional Recipe Pages
+
+![COOKIES & CREAM - page 260](../images/ice-cream__cookies-cream__p260.jpg)
+
+## Source Pages
+
+259, 260

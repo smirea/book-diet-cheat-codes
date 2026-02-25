@@ -1,57 +1,68 @@
-# CHICKEN ALFREDO PIZZA
+# CHICKEN PARM SANDWICH
 
-**Serves:** 1 | **Prep:** 1.5 HRS | **Cook:** 1.25 HRS
+**Serves:** 5 | **Prep:** 15 MINS | **Cook:** 20 MINS
 
 ## Macros
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 903 | 18 | 101 | N/A | 88 |
+| 0 |  |  | N/A |  |
 
 ## Ingredients
 
-### INGREDIENTS
+- 5 thinly sliced chicken breasts
 
-- 3 chicken breasts
-- 1 head of garlic, roasted
-- 110g King Arthur® bread flour
-- 20g vital wheat gluten
-- 1.5g salt
-- 1g yeast
-- 91g water
+### DREDGE STATION 1
 
-### PIZZA BUILD
+- 100g all-purpose flour
 
-- 14g corn meal
-- Dough
-- 80g roasted garlic alfredo sauce (45 cal)
-- 6g roasted garlic
-- 105g chicken, cooked
-- 7g Parmigiano Reggiano cheese
-- 40g fat-free mozzarella cheese
-- 40g part-skim mozzarella cheese
+### DREDGE STATION 2
+
+- 1 egg
+- 1 egg white
+
+### DREDGE STATION 3
+
+- 160g italian seasoned breadcrumbs
+- 16g Parmigiano-Reggiano cheese, grated
+- 5g salt
+- 2g black pepper
+
+### MARINARA SAUCE
+
+- 1 can crushed tomatoes
+- 8g olive oil
+- 7g garlic, minced
+- 1g oregano
+- 6g salt
+
+### CHICKEN PARM BUILD
+
+- POTATO BUN
+- Chicken
+- 40g marinara sauce
+- 5g Parmigiano-Reggiano cheese, grated
+- Oil spray
 
 ## Directions
 
-1. BRINE your chicken breasts.
-2. While the chicken is brining, ROAST your garlic.
-3. While the garlic is roasting, add the bread flour, vital wheat gluten, yeast, and salt into a food processor and process on high for 30 seconds.
-4. While processor is running, slowly add water over 15-20 seconds. Continue to process for an additional 30 seconds.
-5. Lightly spray a medium-sized bowl with oil, plop the dough on the counter, form into a ball, and add to the bowl. Lightly spray the top of the dough with oil and cover for 90 minutes or until doubled in size.
-6. Pat the chicken dry with a paper towel and add chicken to a preheated 400°F oven for 20-25 minutes or until internal temperature of the chicken reaches 155°F. Cut the chicken into bite sized pieces.
-7. Cover the work surface with corn meal, add the dough on top of the corn meal bottom side down, and cover the top of the corn meal with corn meal as well.
-8. Stretch the dough until it is about 11” in diameter, leaving the crust thicker than the rest of the pizza. Lightly dust a pizza peel with corn meal.
-9. Toss the dough back and forth between your hands to remove any excess corn meal and place the dough onto the pizza peel.
-10. Top the dough with alfredo sauce, garlic, chicken, Parmigiano Reggiano, and fat-free and part-skim mozzarella.
-11. Bake in a preheated oven at the highest temperature possible (mine oven goes to 550°F) for 5-8 minutes or until cheese starts browning
-12. Add to a wire rack to cool, slice, and it’s time to eat.
+1. Cut chicken into 140g cutlets.
+2. Set up dredging stations into three separate containers and mix each station until well combined.
+3. Take a piece of chicken and add it to Dredging Station 1.
+4. Cover with flour, making sure to get into all the crevices, and shake off excess flour.
+5. Add chicken to Dredging Station 2 and completely soak with egg, making sure there are no dry spots. Let excess liquid drip off.
+6. Move chicken to Dredging Station 3 and completely cover with the breadcrumb mixture, making sure to press it into the chicken and all its crevices.
+7. Put the breaded chicken on a wire rack and repeat steps 3-6 with another piece of chicken.
+8. Lightly spray the top and bottom of the chicken with oil and add it to a preheated 400°F air fryer.
+9. Air fry for 6-8 minutes or until internal temperature of the chicken reaches 160°F.
+10. Continue breading the remaining chicken and once the first two pieces are finished cooking, put finished chicken on a wire rack and repeat the process until all chicken is cooked.
+11. Toast a bun on the bagel setting to make sure only the inside of the bun is browned.
+12. Add chicken to the bottom bun followed by marinara sauce and grated parmesan.
+13. Add the extra marinara and leftover chicken into separate containers and refrigerate.
+14. To reheat, add the chicken to a preheated 350° airfryer for 3-4 minutes and repeat steps 11 and 12 to plate.
 
-## Tips
+![CHICKEN PARM SANDWICH](../images/meal-prep__chicken-parm-sandwich__p432.jpg)
 
-Grill the chicken breasts instead for greater flavor. If you would like slices that don't bend or break, once the pizza has cooled off, I would add the pizza back in the oven for 60-90 seconds. The bottom will become crispy again while holding all the toppings as you eat it.
+## Source Pages
 
-## Notes
-
-FYI: Only 8 grams of corn meal was used to calculate the macros. During the testing of this recipe, I took the average of how much corn meal was used on the pizza versus what was left over.
-
-![CHICKEN ALFREDO PIZZA](../images/prep-school__chicken-parm-sandwich.jpg)
+432

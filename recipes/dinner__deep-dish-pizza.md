@@ -6,11 +6,11 @@
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 363 | 14 | 32 | N/A | 28 |
+| 387 | 18 | 25 | N/A | 31 |
 
 ## Ingredients
 
-### DRY
+### DOUGH
 
 - 190g all-purpose flour
 - 40g vital wheat gluten
@@ -29,7 +29,7 @@
 - 100g white onion, grated
 - 15g garlic, minced
 - 10g extra virgin olive oil
-- 28oz can Cento® San Marzano whole peeled tomatoes
+- 28oz can Cento* San Marzano whole peeled tomatoes
 - 66g tomato paste
 - 1g oregano
 - 4g salt
@@ -65,4 +65,12 @@
 
 I would wait 5-10 minutes before slicing and another 5 minutes before serving to avoid burning your mouth. You have been warned.
 
-![DEEP DISH PIZZA](../images/dinner-is-served__deep-dish-pizza.jpg)
+![DEEP DISH PIZZA](../images/dinner__deep-dish-pizza__p172.jpg)
+
+## Additional Recipe Pages
+
+![DEEP DISH PIZZA - page 173](../images/dinner__deep-dish-pizza__p173.jpg)
+
+## Source Pages
+
+172, 173

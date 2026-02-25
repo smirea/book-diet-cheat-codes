@@ -1,18 +1,19 @@
 # CHICKEN PARMESAN SANDWICH
 
-**Serves:** 3 | **Prep:** 1.5 HRS | **Cook:** 15 MINS
+**Serves:** 5 | **Prep:** 1.5 HRS | **Cook:** 15 MINS
 
 ## Macros
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 412 | 10 | 40 | N/A | 44 |
+| 0 |  |  | N/A |  |
 
 ## Ingredients
 
+- 3 chicken breasts
+
 ### DREDGE STATION 1
 
-- 3 chicken breasts
 - 40g all-purpose flour
 
 ### DREDGE STATION 2
@@ -48,9 +49,14 @@
 7. Move chicken to Dredging Station 3 and again completely cover with the breadcrumb mixture, making sure to press it into the chicken and all its crevices.
 8. Put finished chicken on a wire rack and repeat the process until all chicken is breaded.
 9. Spray bottom of air fryer, add chicken to a preheated 400°F air fryer, and lightly spray the top of the chicken with oil.
-10. Air fry for 6-8 minutes or until internal temperature of the chicken reaches 155°F. Halfway through cooking, flip chicken and lightly spray with oil.
-11. With about 2 minutes remaining on the chicken, toast your buns on the bagel setting in a toaster to make sure only the insides of the buns are browned.
-12. Add chicken to bottom bun followed by the marinara sauce and grated parmesan.
-13. Put the top bun on and ENJOY.
+10. Air fry for 6-8 minutes or until internal temperature of the chicken reaches 155°F.
+11. Halfway through cooking, flip chicken and lightly spray with oil.
+12. With about 2 minutes remaining on the chicken, toast your buns on the bagel setting in a toaster to make sure only the insides of the buns are browned.
+13. Add chicken to bottom bun followed by the marinara sauce and grated parmesan.
+14. Put the top bun on and ENJOY.
 
-![CHICKEN PARMESAN SANDWICH](../images/midday-munchies__chicken-parmesan-sandwich.jpg)
+![CHICKEN PARMESAN SANDWICH](../images/lunch__chicken-parmesan-sandwich__p92.jpg)
+
+## Source Pages
+
+92

@@ -6,7 +6,7 @@
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 133 | 6 | 2 | N/A | 18 |
+| 133 | 6 | 2 | undefined | 18 |
 
 ## Ingredients
 
@@ -30,4 +30,14 @@
 4. Take out a 92g serving, form in desired shape/s, and add to a preheated pan on medium high heat for 2 minutes per side or until internal temperature has reached 155°F.
 5. Repeat step 4 and store any extra in the fridge.
 
-![ITALIAN SAUSAGE](../images/dinner-is-served__italian-sausage.jpg)
+![ITALIAN SAUSAGE](../images/dinner__italian-sausage__p113.jpg)
+
+## Additional Recipe Pages
+
+![ITALIAN SAUSAGE - page 114](../images/dinner__italian-sausage__p114.jpg)
+
+![ITALIAN SAUSAGE - page 115](../images/dinner__italian-sausage__p115.jpg)
+
+## Source Pages
+
+113, 114, 115

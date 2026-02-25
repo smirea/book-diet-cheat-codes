@@ -6,11 +6,11 @@
 
 | Calories | Fat | Carbs | Net Carbs | Protein |
 |----------|-----|-------|-----------|---------|
-| 18 | 0 | 1 | N/A | 3 |
+| 21 | 1 | 1 | undefined | 3 |
 
 ## Ingredients
 
-- 160g fat-free Greek yogurt
+- 160g 2% Greek yogurt
 - 4g extra virgin olive oil
 - 15g white vinegar
 - 1/2 tsp dried dill
@@ -26,4 +26,12 @@
 2. Add all ingredients in a bowl and mix until combined.
 3. Serve right away or, for best flavor, cover and refrigerate for at least 2-3 hours.
 
-![TZATZIKI SAUCE](../images/lets-get-saucy__tzatziki-sauce.jpg)
+![TZATZIKI SAUCE](../images/sauces__tzatziki-sauce__p353.jpg)
+
+## Additional Recipe Pages
+
+![TZATZIKI SAUCE - page 354](../images/sauces__tzatziki-sauce__p354.jpg)
+
+## Source Pages
+
+353, 354
